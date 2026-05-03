@@ -221,9 +221,7 @@ respiratorio_model <- specify_model(
   espirometria_prebd_fev1_l,
   espirometria_prebd_fev1_fvc,
   espirometria_prebd_fef_25_75_l_s,
-  espirometria_prebd_fef_max_l_s,
-  espirometria_pim,
-  espirometria_pem
+  espirometria_prebd_fef_max_l_s
 )
 
 # Calidad de vida
@@ -242,9 +240,9 @@ calidad_vida_model <- specify_model(
 ## Custom priors
 custom_prior <- function(response) {
   c(
-    set_prior("normal(0,10)", class = "b", resp = response),
-    set_prior("normal(1,10)", class = "sigma", resp = response, lb = 0),
-    set_prior("lkj(2)", class = "rescor")
+    set_prior("normal(0,3)", class = "b", resp = response),
+    set_prior("normal(1,3)", class = "sigma", resp = response, lb = 0),
+    set_prior("lkj(1)", class = "rescor")
   )
 }
 
@@ -260,9 +258,11 @@ psicologico_fit <- brm(
                          "psicologicobaiscore")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
   seed = 1234, file = "models/psicologico_fit.rds",
-  control = list(adapt_delta = 0.999,
-                 max_treedepth = 50)
+  control = list(adapt_delta = 0.99,
+                 max_treedepth = 20)
 )
+
+rstan::check_hmc_diagnostics(psicologico_fit$fit)
 
 hemograma_fit <- brm(
   formula = hemograma_model,
@@ -278,9 +278,11 @@ hemograma_fit <- brm(
                          "laboratoriohematocrito")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
   seed = 1234, file = "models/hemograma_fit.rds",
-  control = list(adapt_delta = 0.999,
-                 max_treedepth = 50)
+  control = list(adapt_delta = 0.99,
+                 max_treedepth = 20)
 )
+
+rstan::check_hmc_diagnostics(hemograma_fit$fit)
 
 hepatico_fit <- brm(
   formula = hepatico_model,
@@ -293,9 +295,11 @@ hepatico_fit <- brm(
                          "laboratorioproteins")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
   seed = 1234, file = "models/hepatico_fit.rds",
-  control = list(adapt_delta = 0.999,
-                 max_treedepth = 50)
+  control = list(adapt_delta = 0.99,
+                 max_treedepth = 20)
 )
+
+rstan::check_hmc_diagnostics(hepatico_fit$fit)
 
 renal_fit <- brm(
   formula = renal_model,
@@ -307,9 +311,11 @@ renal_fit <- brm(
                          "laboratoriouricacid")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
   seed = 1234, file = "models/renal_fit.rds",
-  control = list(adapt_delta = 0.999,
-                 max_treedepth = 50)
+  control = list(adapt_delta = 0.99,
+                 max_treedepth = 20)
 )
+
+rstan::check_hmc_diagnostics(renal_fit$fit)
 
 metabolismo_fit <- brm(
   formula = metabolismo_model,
@@ -323,9 +329,11 @@ metabolismo_fit <- brm(
                          "laboratoriocalcio")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
   seed = 1234, file = "models/metabolismo_fit.rds",
-  control = list(adapt_delta = 0.999,
-                 max_treedepth = 50)
+  control = list(adapt_delta = 0.99,
+                 max_treedepth = 20)
 )
+
+rstan::check_hmc_diagnostics(metabolismo_fit$fit)
 
 subpoblaciones_fit <- brm(
   formula = subpoblaciones_model,
@@ -339,9 +347,11 @@ subpoblaciones_fit <- brm(
                          "celularlymphocytessubsetscd56")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
   seed = 1234, file = "models/subpoblaciones_fit.rds",
-  control = list(adapt_delta = 0.999,
-                 max_treedepth = 50)
+  control = list(adapt_delta = 0.99,
+                 max_treedepth = 20)
 )
+
+rstan::check_hmc_diagnostics(subpoblaciones_fit$fit)
 
 abc_fit <- brm(
   formula = abc_model,
@@ -349,12 +359,14 @@ abc_fit <- brm(
   family = gaussian(link = "identity"),
   prior = custom_prior(c("celularabcslinfocitostotales",
                          "celularabcsbcells",
-                         "celularageassociated_bcell")),
+                         "celularageassociatedbcell")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
   seed = 1234, file = "models/abc_fit.rds",
-  control = list(adapt_delta = 0.999,
-                 max_treedepth = 50)
+  control = list(adapt_delta = 0.99,
+                 max_treedepth = 20)
 )
+
+rstan::check_hmc_diagnostics(abc_fit$fit)
 
 composicion_fit <- brm(
   formula = composicion_model,
@@ -367,9 +379,11 @@ composicion_fit <- brm(
                          "kinesiologiaimc")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
   seed = 1234, file = "models/composicion_fit.rds",
-  control = list(adapt_delta = 0.999,
-                 max_treedepth = 50)
+  control = list(adapt_delta = 0.99,
+                 max_treedepth = 20)
 )
+
+rstan::check_hmc_diagnostics(composicion_fit$fit)
 
 respiratorio_fit <- brm(
   formula = respiratorio_model,
@@ -379,14 +393,14 @@ respiratorio_fit <- brm(
                          "espirometriaprebdfev1l",
                          "espirometriaprebdfev1fvc",
                          "espirometriaprebdfef2575ls",
-                         "espirometriaprebdfefmaxls",
-                         "espirometriapim",
-                         "espirometriapem")),
+                         "espirometriaprebdfefmaxls")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
   seed = 1234, file = "models/respiratorio_fit.rds",
-  control = list(adapt_delta = 0.999,
-                 max_treedepth = 50)
+  control = list(adapt_delta = 0.99,
+                 max_treedepth = 20)
 )
+
+rstan::check_hmc_diagnostics(respiratorio_fit$fit)
 
 calidad_vida_fit <- brm(
   formula = calidad_vida_model,
@@ -400,6 +414,8 @@ calidad_vida_fit <- brm(
                          "sociodemograficoq1caretakers")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
   seed = 1234, file = "models/calidad_vida_fit.rds",
-  control = list(adapt_delta = 0.999,
-                 max_treedepth = 50)
+  control = list(adapt_delta = 0.99,
+                 max_treedepth = 20)
 )
+
+rstan::check_hmc_diagnostics(calidad_vida_fit$fit)

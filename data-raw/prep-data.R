@@ -14,6 +14,10 @@ d_laboratorio          <- fread("data-raw/raw_laboratorio.csv")
 d_psicologico          <- fread("data-raw/raw_psicologico.csv")
 d_sociodemografico     <- fread("data-raw/raw_sociodemografico.csv")
 
+
+# -------------------------------------------------------------------------
+
+## Assign name prefix per database
 names(d_analisis_movimiento)[-1L] <- paste0("movimiento_", names(d_analisis_movimiento)[-1L])
 names(d_celulares)[-1L] <- paste0("celular_", names(d_celulares)[-1L])
 names(d_espirometria)[-1L] <- paste0("espirometria_", names(d_espirometria)[-1L])
@@ -23,6 +27,7 @@ names(d_laboratorio)[-1L] <- paste0("laboratorio_", names(d_laboratorio)[-1L])
 names(d_psicologico)[-1L] <- paste0("psicologico_", names(d_psicologico)[-1L])
 names(d_sociodemografico)[-1L] <- paste0("sociodemografico_", names(d_sociodemografico)[-1L])
 
+## Join columns by record_id
 raw_data <- d_analisis_movimiento[
   d_celulares, on = "record_id"][
   d_espirometria, on = "record_id"][
@@ -32,6 +37,7 @@ raw_data <- d_analisis_movimiento[
   d_psicologico, on = "record_id"][
   d_sociodemografico, on = "record_id"]
 
+## Remove individual databases
 rm(d_analisis_movimiento,
    d_celulares,
    d_espirometria,
