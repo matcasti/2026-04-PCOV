@@ -10,7 +10,7 @@ library(brms)
 data("pcov")
 
 ## Standardize data
-pcov_std <- standardize(pcov, exclude = c("sociodemografico_age"))
+pcov_std <- standardize(pcov)
 
 # -------------------------------------------------------------------------
 
@@ -93,6 +93,7 @@ pcov_std <- standardize(pcov, exclude = c("sociodemografico_age"))
 # Main effect:
 # - sociodemografico_long_covid_symptoms_2_sum
 # - sociodemografico_vaccine_sum
+# - severity_score
 
 # covariates:
 # - sociodemografico_age
@@ -121,7 +122,9 @@ specify_model <- function(...) {
   paste0(
     "bf(
       mvbind(",arguments,") | mi() ~
-        (sociodemografico_long_covid_symptoms_2_sum + sociodemografico_vaccine_sum) *
+        (sociodemografico_long_covid_symptoms_2_sum +
+        severity_score +
+        sociodemografico_vaccine_sum) *
         (sociodemografico_age +
            sociodemografico_sex +
            kinesiologia_escala_fas +
@@ -241,7 +244,8 @@ calidad_vida_model <- specify_model(
 custom_prior <- function(response) {
   c(
     set_prior("normal(0,3)", class = "b", resp = response),
-    set_prior("normal(1,3)", class = "sigma", resp = response, lb = 0),
+    set_prior("normal(0,3)", class = "Intercept", resp = response, lb = 0),
+    set_prior("normal(0,3)", class = "sigma", resp = response, lb = 0),
     set_prior("lkj(1)", class = "rescor")
   )
 }
@@ -257,7 +261,7 @@ psicologico_fit <- brm(
                          "psicologicobdiscore",
                          "psicologicobaiscore")),
   chains = 4, iter = 5000, warmup = 2500, cores = 4,
-  seed = 1234, file = "models/psicologico_fit.rds",
+  seed = 1234, file = "models//psicologico_fit.rds",
   control = list(adapt_delta = 0.99,
                  max_treedepth = 20)
 )

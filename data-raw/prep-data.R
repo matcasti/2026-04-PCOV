@@ -61,12 +61,12 @@ to_remove <- grep(pattern = "complete", x = names(raw_data), value = TRUE)
 
 raw_data[, (to_remove) := NULL]
 
-## With the same unique value
-to_remove <- sapply(raw_data, function(x) {
-  length(unique(x)) == 1
-}) |> which()
-
-raw_data[, names(to_remove) := NULL]
+# ## With the same unique value
+# to_remove <- sapply(raw_data, function(x) {
+#   length(unique(x)) == 1
+# }) |> which()
+#
+# raw_data[, names(to_remove) := NULL]
 
 rm(to_remove)
 
@@ -119,13 +119,6 @@ raw_data[
     as.numeric(!is.na(sociodemografico_booster_2_date))
 ]
 
-# -------------------------------------------------------------------------
-
-## Column variables to a separate file
-names(raw_data) |>
-  cat(sep = "\n",
-      file = "data-raw/col_names.txt")
-
 
 # -------------------------------------------------------------------------
 
@@ -148,12 +141,92 @@ covariates <-
 
 raw_data[, (covariates) := lapply(.SD, factor, levels = 0:1, labels = c("No", "Yes")), .SDcols = covariates]
 
+rm(covariates)
+
 # -------------------------------------------------------------------------
 
 ## Extra underscores to single underscore
 names(raw_data) <-
   names(raw_data) |>
   gsub(pattern = "[_]+", replacement = "_")
+
+
+# -------------------------------------------------------------------------
+
+raw_data[, sociodemografico_qol_impact :=
+           sociodemografico_q1_personal_activities +
+           sociodemografico_q1_family_life +
+           sociodemografico_q1_profesional_life +
+           sociodemografico_q1_social_life +
+           sociodemografico_q1_metal_health +
+           sociodemografico_q1_caretakers]
+
+## Add PCOV severity score from Lindy's documentation
+pcov_severity_list <- raw_data[, {
+  sympt_num <- fcase(
+    sociodemografico_long_covid_symptoms_2_sum %in% 1:3, 1,
+    sociodemografico_long_covid_symptoms_2_sum %in% 4:6, 2,
+    sociodemografico_long_covid_symptoms_2_sum > 6, 3
+  )
+
+  qol_num <- fcase(
+    sociodemografico_qol_impact %in% 1:20, 1,
+    sociodemografico_qol_impact %in% 21:40, 2,
+    sociodemografico_qol_impact > 40, 3
+  )
+
+  bai_num <- fcase(
+    psicologico_bai_score %in% 0:5, 1,
+    psicologico_bai_score %in% 6:12, 2,
+    psicologico_bai_score %in% 13:30, 3,
+    psicologico_bai_score > 30, 4
+  )
+
+  bdi_num <- fcase(
+    psicologico_bdi_score %in% 0:13, 1,
+    psicologico_bdi_score %in% 14:19, 2,
+    psicologico_bdi_score %in% 20:28, 3,
+    psicologico_bdi_score > 28, 4
+  )
+
+  pimax_num <- fcase(
+    kinesiologia_range_pimax_1 %in% 0:13, -1,
+    kinesiologia_range_pimax_2 %in% 0:13,  0,
+    kinesiologia_range_pimax_3 %in% 0:13,  1
+  )
+
+  fas_num <- fcase(
+    kinesiologia_range_fas_3 %in% 0:13, -1,
+    kinesiologia_range_fas_2 %in% 0:13,  0,
+    kinesiologia_range_fas_1 %in% 0:13,  1
+  )
+
+  severity_score <- sympt_num + qol_num + bai_num + bdi_num + pimax_num + fas_num
+
+  severity_category <- fcase(
+    severity_score %in% 0:5, 1,
+    severity_score %in% 6:10, 2,
+    severity_score > 10, 3
+  )
+
+  severity_category <- factor(severity_category,
+                              levels = 1:3,
+                              labels = c("Mild","Moderate","Severe"),
+                              ordered = TRUE)
+
+  list(record_id, severity_score, severity_category)
+}]
+
+raw_data <- raw_data[pcov_severity_list, on = "record_id"]
+
+rm(pcov_severity_list)
+
+# -------------------------------------------------------------------------
+
+## Column variables to a separate file
+names(raw_data) |>
+  cat(sep = "\n",
+      file = "data-raw/col_names.txt")
 
 # -------------------------------------------------------------------------
 
