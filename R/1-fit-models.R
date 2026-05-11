@@ -132,13 +132,7 @@ specify_model <- function(...) {
            sociodemografico_cronic_pathologies_diabetes +
            sociodemografico_cronic_pathologies_hypertension +
            sociodemografico_cronic_pathologies_dyslipidemia +
-           sociodemografico_cronic_pathologies_obesity +
-           sociodemografico_cronic_pathologies_cardiac_pathology +
-           sociodemografico_cronic_pathologies_renal_pathology +
-           sociodemografico_cronic_pathologies_pulmonary_pathology +
-           sociodemografico_cronic_pathologies_hepatic_pathology +
-           sociodemografico_cronic_pathologies_autoimmune_pathology +
-           sociodemografico_cronic_pathologies_traumatologic_pathology)
+           sociodemografico_cronic_pathologies_obesity)
     ) + set_rescor(TRUE)"
   ) |> str2expression() |> eval()
 }
@@ -246,7 +240,7 @@ custom_prior <- function(response) {
     set_prior("normal(0,3)", class = "b", resp = response),
     set_prior("normal(0,3)", class = "Intercept", resp = response, lb = 0),
     set_prior("normal(0,3)", class = "sigma", resp = response, lb = 0),
-    set_prior("lkj(1)", class = "rescor")
+    set_prior("lkj(2)", class = "rescor")
   )
 }
 

@@ -141,6 +141,8 @@ covariates <-
 
 raw_data[, (covariates) := lapply(.SD, factor, levels = 0:1, labels = c("No", "Yes")), .SDcols = covariates]
 
+raw_data[, .SD, .SDcols = covariates] |> lapply(table)
+
 rm(covariates)
 
 # -------------------------------------------------------------------------
