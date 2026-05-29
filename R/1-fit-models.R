@@ -104,12 +104,6 @@ pcov_std <- standardize(pcov)
 # - sociodemografico_cronic_pathologies_hypertension
 # - sociodemografico_cronic_pathologies_dyslipidemia
 # - sociodemografico_cronic_pathologies_obesity
-# - sociodemografico_cronic_pathologies_cardiac_pathology
-# - sociodemografico_cronic_pathologies_renal_pathology
-# - sociodemografico_cronic_pathologies_pulmonary_pathology
-# - sociodemografico_cronic_pathologies_hepatic_pathology
-# - sociodemografico_cronic_pathologies_autoimmune_pathology
-# - sociodemografico_cronic_pathologies_traumatologic_pathology
 
 # -------------------------------------------------------------------------
 

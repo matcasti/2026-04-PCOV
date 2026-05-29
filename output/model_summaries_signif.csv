@@ -1,0 +1,804 @@
+area,response,var,label,estimate,ci,pd,ps,bf,ess,rhat
+Laboratory and Cellular,Aged B cells,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.28, CI~95%~[0.02, 0.55], pd = 98.1%, ps = 90.8%, BF~10~ = 0.36",0.28,"[0.02, 0.55]",0.981,0.908,0.36,13198.8,1.001
+Laboratory and Cellular,Aged B cells,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.42, CI~95%~[-0.56, 1.4], pd = 80%, ps = 74.1%, BF~10~ = 0.24",0.42,"[-0.56, 1.4]",0.8,0.741,0.24,11211.8,1
+Laboratory and Cellular,Aged B cells,[PCOV NoV] x [Age],"$\beta$ = 0.19, CI~95%~[-0.08, 0.46], pd = 91.9%, ps = 74.5%, BF~10~ = 0.12",0.19,"[-0.08, 0.46]",0.919,0.745,0.12,13949.8,1
+Laboratory and Cellular,Aged B cells,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.23, CI~95%~[-0.06, 0.5], pd = 94.8%, ps = 82.2%, BF~10~ = 0.18",0.23,"[-0.06, 0.5]",0.948,0.822,0.18,13460.2,1
+Laboratory and Cellular,Aged B cells,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.61, CI~95%~[-0.22, 1.41], pd = 92.5%, ps = 88.6%, BF~10~ = 0.42",0.61,"[-0.22, 1.41]",0.925,0.886,0.42,10840,1
+Laboratory and Cellular,Aged B cells,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.82, CI~95%~[-1.53, -0.09], pd = 98.5%, ps = 97.2%, BF~10~ = 1.28",-0.82,"[-1.53, -0.09]",0.985,0.972,1.28,11443.9,1
+Laboratory and Cellular,Aged B cells,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.49, CI~95%~[-0.46, 1.44], pd = 84.3%, ps = 79.2%, BF~10~ = 0.27",0.49,"[-0.46, 1.44]",0.843,0.792,0.27,11068.7,1
+Laboratory and Cellular,Aged B cells,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.47, CI~95%~[-0.35, 1.26], pd = 87.9%, ps = 82%, BF~10~ = 0.27",0.47,"[-0.35, 1.26]",0.879,0.82,0.27,11666.8,1
+Laboratory and Cellular,Aged B cells,[Pathologies: Obesity (Yes)],"$\beta$ = -0.88, CI~95%~[-1.9, 0.08], pd = 95.8%, ps = 94%, BF~10~ = 0.8",-0.88,"[-1.9, 0.08]",0.958,0.94,0.8,12174.7,1
+Laboratory and Cellular,Albumin,[Age],"$\beta$ = -0.13, CI~95%~[-0.41, 0.15], pd = 81.9%, ps = 58.3%, BF~10~ = 0.07",-0.13,"[-0.41, 0.15]",0.819,0.583,0.07,9746,1
+Laboratory and Cellular,Albumin,[Education level: Cubic],"$\beta$ = -0.94, CI~95%~[-3.06, 1.17], pd = 81.1%, ps = 78.3%, BF~10~ = 0.5",-0.94,"[-3.06, 1.17]",0.811,0.783,0.5,9031.6,1
+Laboratory and Cellular,Albumin,[Fatigue scale],"$\beta$ = 0.16, CI~95%~[-0.08, 0.37], pd = 91.6%, ps = 69.5%, BF~10~ = 0.1",0.16,"[-0.08, 0.37]",0.916,0.695,0.1,13743.8,1
+Laboratory and Cellular,Albumin,[PCOV NoS],"$\beta$ = 0.5, CI~95%~[-0.51, 1.54], pd = 83.5%, ps = 78%, BF~10~ = 0.27",0.5,"[-0.51, 1.54]",0.835,0.78,0.27,8259.5,1
+Laboratory and Cellular,Albumin,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.48, CI~95%~[-0.3, 1.33], pd = 88.1%, ps = 82.3%, BF~10~ = 0.27",0.48,"[-0.3, 1.33]",0.881,0.823,0.27,11607.9,1
+Laboratory and Cellular,Albumin,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.8, CI~95%~[-1.56, 0.01], pd = 97.9%, ps = 96.2%, BF~10~ = 0.95",-0.8,"[-1.56, 0.01]",0.979,0.962,0.95,12069.4,1
+Laboratory and Cellular,Albumin,[PCOV NoV] x [Age],"$\beta$ = -0.12, CI~95%~[-0.37, 0.15], pd = 81.4%, ps = 55.3%, BF~10~ = 0.07",-0.12,"[-0.37, 0.15]",0.814,0.553,0.07,13288,1
+Laboratory and Cellular,Albumin,[PCOV Severity Score] x [Age],"$\beta$ = -0.18, CI~95%~[-0.57, 0.17], pd = 83%, ps = 66.3%, BF~10~ = 0.1",-0.18,"[-0.57, 0.17]",0.83,0.663,0.1,10289,1
+Laboratory and Cellular,Albumin,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.12, CI~95%~[-0.38, 0.13], pd = 82.2%, ps = 56%, BF~10~ = 0.07",-0.12,"[-0.38, 0.13]",0.822,0.56,0.07,13793.3,1
+Laboratory and Cellular,Albumin,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.46, CI~95%~[-0.28, 1.15], pd = 89.6%, ps = 83.6%, BF~10~ = 0.27",0.46,"[-0.28, 1.15]",0.896,0.836,0.27,11886.6,1
+Laboratory and Cellular,Albumin,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.32, CI~95%~[-0.26, 0.9], pd = 86.1%, ps = 77.2%, BF~10~ = 0.17",0.32,"[-0.26, 0.9]",0.861,0.772,0.17,11881.5,1
+Laboratory and Cellular,Albumin,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.79, CI~95%~[-0.13, 1.69], pd = 95.6%, ps = 93.1%, BF~10~ = 0.65",0.79,"[-0.13, 1.69]",0.956,0.931,0.65,10956.2,1
+Laboratory and Cellular,Albumin,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.52, CI~95%~[-1.08, 0.1], pd = 95.6%, ps = 91.8%, BF~10~ = 0.45",-0.52,"[-1.08, 0.1]",0.956,0.918,0.45,11680.5,1
+Laboratory and Cellular,Albumin,[Pathologies: Obesity (Yes)],"$\beta$ = -0.56, CI~95%~[-1.55, 0.37], pd = 88.1%, ps = 83.6%, BF~10~ = 0.33",-0.56,"[-1.55, 0.37]",0.881,0.836,0.33,11371.5,1
+Laboratory and Cellular,Albumin,[Sex: Female],"$\beta$ = -0.7, CI~95%~[-1.2, -0.2], pd = 99.7%, ps = 99%, BF~10~ = 2.9",-0.7,"[-1.2, -0.2]",0.997,0.99,2.9,13338.3,1
+Laboratory and Cellular,B cells,[PCOV NoS],"$\beta$ = -0.52, CI~95%~[-1.54, 0.53], pd = 84.3%, ps = 79%, BF~10~ = 0.29",-0.52,"[-1.54, 0.53]",0.843,0.79,0.29,6869.3,1
+Laboratory and Cellular,B cells,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.2, CI~95%~[-0.47, 0.05], pd = 94%, ps = 78.7%, BF~10~ = 0.15",-0.2,"[-0.47, 0.05]",0.94,0.787,0.15,13296,1
+Laboratory and Cellular,B cells,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.58, CI~95%~[-1.39, 0.28], pd = 91%, ps = 86.7%, BF~10~ = 0.34",-0.58,"[-1.39, 0.28]",0.91,0.867,0.34,12024.4,1
+Laboratory and Cellular,B cells,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.46, CI~95%~[-1.28, 0.36], pd = 87.3%, ps = 81.3%, BF~10~ = 0.27",-0.46,"[-1.28, 0.36]",0.873,0.813,0.27,12018.9,1
+Laboratory and Cellular,B cells,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.44, CI~95%~[-1.44, 0.51], pd = 81%, ps = 75.3%, BF~10~ = 0.25",-0.44,"[-1.44, 0.51]",0.81,0.753,0.25,11868.2,1
+Laboratory and Cellular,B cells,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.46, CI~95%~[-0.18, 1.09], pd = 91.7%, ps = 86.2%, BF~10~ = 0.28",0.46,"[-0.18, 1.09]",0.917,0.862,0.28,11363.6,1
+Laboratory and Cellular,B cells,[PCOV NoV] x [Age],"$\beta$ = -0.12, CI~95%~[-0.38, 0.15], pd = 81%, ps = 55.3%, BF~10~ = 0.07",-0.12,"[-0.38, 0.15]",0.81,0.553,0.07,13957.3,1
+Laboratory and Cellular,B cells,[PCOV NoV] x [Education level: Linear],"$\beta$ = 1.48, CI~95%~[-1.14, 3.92], pd = 87.5%, ps = 86%, BF~10~ = 0.82",1.48,"[-1.14, 3.92]",0.875,0.86,0.82,8256.5,1
+Laboratory and Cellular,B cells,[PCOV NoV] x [Fatigue scale],"$\beta$ = -0.21, CI~95%~[-0.48, 0.08], pd = 93.6%, ps = 79.2%, BF~10~ = 0.15",-0.21,"[-0.48, 0.08]",0.936,0.792,0.15,14301.3,1
+Laboratory and Cellular,B cells,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.42, CI~95%~[-0.26, 1.19], pd = 87.7%, ps = 80.9%, BF~10~ = 0.25",0.42,"[-0.26, 1.19]",0.877,0.809,0.25,10797.2,1
+Laboratory and Cellular,B cells,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.94, CI~95%~[-1.89, -0.02], pd = 97.8%, ps = 96.4%, BF~10~ = 1.22",-0.94,"[-1.89, -0.02]",0.978,0.964,1.22,10384.9,1
+Laboratory and Cellular,B cells,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.24, CI~95%~[-0.8, 0.34], pd = 80.3%, ps = 68.9%, BF~10~ = 0.14",-0.24,"[-0.8, 0.34]",0.803,0.689,0.14,13649.2,1
+Laboratory and Cellular,B cells,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.18, CI~95%~[-0.07, 0.45], pd = 91.9%, ps = 73.7%, BF~10~ = 0.11",0.18,"[-0.07, 0.45]",0.919,0.737,0.11,13474.2,1
+Laboratory and Cellular,B cells,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.55, CI~95%~[-0.23, 1.25], pd = 92.4%, ps = 88.1%, BF~10~ = 0.37",0.55,"[-0.23, 1.25]",0.924,0.881,0.37,13121.6,1
+Laboratory and Cellular,B cells,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.53, CI~95%~[-0.12, 1.21], pd = 94.2%, ps = 89.8%, BF~10~ = 0.37",0.53,"[-0.12, 1.21]",0.942,0.898,0.37,9611,1
+Laboratory and Cellular,B cells,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.91, CI~95%~[-0.23, 2.12], pd = 93.7%, ps = 91.5%, BF~10~ = 0.66",0.91,"[-0.23, 2.12]",0.937,0.915,0.66,13320,1
+Laboratory and Cellular,B cells,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.38, CI~95%~[-1.02, 0.18], pd = 89.9%, ps = 83.1%, BF~10~ = 0.24",-0.38,"[-1.02, 0.18]",0.899,0.831,0.24,10887.1,1
+Laboratory and Cellular,B cells,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.7, CI~95%~[-0.25, 1.64], pd = 92.9%, ps = 89.7%, BF~10~ = 0.47",0.7,"[-0.25, 1.64]",0.929,0.897,0.47,11383.8,1
+Laboratory and Cellular,B cells,[Pathologies: Obesity (Yes)],"$\beta$ = 0.64, CI~95%~[-0.41, 1.6], pd = 88.9%, ps = 84.6%, BF~10~ = 0.37",0.64,"[-0.41, 1.6]",0.889,0.846,0.37,11776.7,1
+Laboratory and Cellular,Basophils,[Age],"$\beta$ = 0.16, CI~95%~[-0.13, 0.41], pd = 87%, ps = 65.7%, BF~10~ = 0.09",0.16,"[-0.13, 0.41]",0.87,0.657,0.09,11353.9,1
+Laboratory and Cellular,Basophils,[PCOV NoS] x [Age],"$\beta$ = -0.24, CI~95%~[-0.62, 0.14], pd = 89.5%, ps = 76.8%, BF~10~ = 0.14",-0.24,"[-0.62, 0.14]",0.895,0.768,0.14,12195.7,1
+Laboratory and Cellular,Basophils,[PCOV NoS] x [Education level: Cubic],"$\beta$ = 1.56, CI~95%~[-0.88, 3.85], pd = 89.9%, ps = 88.3%, BF~10~ = 0.86",1.56,"[-0.88, 3.85]",0.899,0.883,0.86,7345.7,1
+Laboratory and Cellular,Basophils,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.56, CI~95%~[-1.32, 0.22], pd = 92.5%, ps = 88%, BF~10~ = 0.36",-0.56,"[-1.32, 0.22]",0.925,0.88,0.36,13145.2,1
+Laboratory and Cellular,Basophils,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.33, CI~95%~[-1.11, 0.4], pd = 80.4%, ps = 72.6%, BF~10~ = 0.19",-0.33,"[-1.11, 0.4]",0.804,0.726,0.19,13016,1
+Laboratory and Cellular,Basophils,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.13, CI~95%~[-0.14, 0.37], pd = 84.3%, ps = 58.9%, BF~10~ = 0.07",0.13,"[-0.14, 0.37]",0.843,0.589,0.07,13128.9,1
+Laboratory and Cellular,Basophils,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.49, CI~95%~[-0.22, 1.21], pd = 91.3%, ps = 86.6%, BF~10~ = 0.31",0.49,"[-0.22, 1.21]",0.913,0.866,0.31,13725.2,1
+Laboratory and Cellular,Basophils,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.99, CI~95%~[-1.76, -0.26], pd = 99.4%, ps = 98.9%, BF~10~ = 3.32",-0.99,"[-1.76, -0.26]",0.994,0.989,3.32,13893.4,1
+Laboratory and Cellular,Basophils,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.81, CI~95%~[0.12, 1.48], pd = 99%, ps = 97.9%, BF~10~ = 1.66",0.81,"[0.12, 1.48]",0.99,0.979,1.66,13227.2,1
+Laboratory and Cellular,Basophils,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = -1.1, CI~95%~[-2.01, -0.26], pd = 99.2%, ps = 98.6%, BF~10~ = 2.8",-1.1,"[-2.01, -0.26]",0.992,0.986,2.8,14489.5,1
+Laboratory and Cellular,Basophils,[PCOV Severity Score] x [Age],"$\beta$ = 0.24, CI~95%~[-0.11, 0.59], pd = 90.6%, ps = 77.9%, BF~10~ = 0.14",0.24,"[-0.11, 0.59]",0.906,0.779,0.14,12063.4,1
+Laboratory and Cellular,Basophils,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.15, CI~95%~[-0.08, 0.4], pd = 89.6%, ps = 67.3%, BF~10~ = 0.09",0.15,"[-0.08, 0.4]",0.896,0.673,0.09,13210.5,1
+Laboratory and Cellular,Basophils,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.82, CI~95%~[-1.51, -0.16], pd = 99.1%, ps = 98.1%, BF~10~ = 1.83",-0.82,"[-1.51, -0.16]",0.991,0.981,1.83,13767.2,1
+Laboratory and Cellular,Basophils,[Pathologies: Diabetes (Yes)],"$\beta$ = -0.4, CI~95%~[-1.13, 0.32], pd = 86.4%, ps = 79.5%, BF~10~ = 0.23",-0.4,"[-1.13, 0.32]",0.864,0.795,0.23,13620.9,1
+Laboratory and Cellular,Bilirubin,[Age],"$\beta$ = 0.24, CI~95%~[0.04, 0.45], pd = 98.8%, ps = 91.3%, BF~10~ = 0.45",0.24,"[0.04, 0.45]",0.988,0.913,0.45,12490.9,1
+Laboratory and Cellular,Bilirubin,[PCOV NoV] x [Age],"$\beta$ = 0.16, CI~95%~[-0.03, 0.35], pd = 95.4%, ps = 74.4%, BF~10~ = 0.13",0.16,"[-0.03, 0.35]",0.954,0.744,0.13,14134.2,1
+Laboratory and Cellular,Bilirubin,[PCOV NoV] x [Education level: Cubic],"$\beta$ = -0.9, CI~95%~[-2.86, 1.16], pd = 81.3%, ps = 78.5%, BF~10~ = 0.5",-0.9,"[-2.86, 1.16]",0.813,0.785,0.5,8840.5,1
+Laboratory and Cellular,Bilirubin,[PCOV NoV] x [Education level: Linear],"$\beta$ = -0.96, CI~95%~[-3.23, 1.2], pd = 80%, ps = 77.3%, BF~10~ = 0.51",-0.96,"[-3.23, 1.2]",0.8,0.773,0.51,9019.7,1
+Laboratory and Cellular,Bilirubin,[PCOV NoV] x [Education level: Quadratic],"$\beta$ = 1.35, CI~95%~[-1.21, 3.79], pd = 85.3%, ps = 83.7%, BF~10~ = 0.77",1.35,"[-1.21, 3.79]",0.853,0.837,0.77,9195.9,1
+Laboratory and Cellular,Bilirubin,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.17, CI~95%~[-0.03, 0.36], pd = 95%, ps = 74.2%, BF~10~ = 0.13",0.17,"[-0.03, 0.36]",0.95,0.742,0.13,15954.5,1
+Laboratory and Cellular,Bilirubin,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.31, CI~95%~[-0.84, 0.2], pd = 87.9%, ps = 78.7%, BF~10~ = 0.18",-0.31,"[-0.84, 0.2]",0.879,0.787,0.18,13531.7,1
+Laboratory and Cellular,Bilirubin,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.27, CI~95%~[-0.67, 0.14], pd = 90%, ps = 78.8%, BF~10~ = 0.15",-0.27,"[-0.67, 0.14]",0.9,0.788,0.15,15712,1
+Laboratory and Cellular,Bilirubin,[PCOV Severity Score] x [Age],"$\beta$ = 0.19, CI~95%~[-0.09, 0.46], pd = 90.7%, ps = 73.2%, BF~10~ = 0.11",0.19,"[-0.09, 0.46]",0.907,0.732,0.11,12175.1,1
+Laboratory and Cellular,Bilirubin,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.26, CI~95%~[-0.85, 0.28], pd = 81.5%, ps = 71%, BF~10~ = 0.14",-0.26,"[-0.85, 0.28]",0.815,0.71,0.14,12872,1
+Laboratory and Cellular,Bilirubin,[Pathologies: Diabetes (Yes)],"$\beta$ = -0.32, CI~95%~[-0.88, 0.24], pd = 86.6%, ps = 77%, BF~10~ = 0.18",-0.32,"[-0.88, 0.24]",0.866,0.77,0.18,13934.3,1.001
+Laboratory and Cellular,Bilirubin,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.43, CI~95%~[-0.87, 0.02], pd = 97.2%, ps = 93.2%, BF~10~ = 0.48",-0.43,"[-0.87, 0.02]",0.972,0.932,0.48,13173.2,1
+Laboratory and Cellular,Bilirubin,[Sex: Female],"$\beta$ = -0.38, CI~95%~[-0.75, -0.01], pd = 97.6%, ps = 92.5%, BF~10~ = 0.45",-0.38,"[-0.75, -0.01]",0.976,0.925,0.45,13229.8,1
+Laboratory and Cellular,Blood Urea nitrogen,[Age],"$\beta$ = 0.25, CI~95%~[0.02, 0.47], pd = 98.4%, ps = 90.1%, BF~10~ = 0.38",0.25,"[0.02, 0.47]",0.984,0.901,0.38,8227.3,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.31, CI~95%~[-0.96, 0.36], pd = 81.7%, ps = 72.9%, BF~10~ = 0.17",-0.31,"[-0.96, 0.36]",0.817,0.729,0.17,9939,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.32, CI~95%~[-0.97, 0.32], pd = 83.1%, ps = 74.8%, BF~10~ = 0.18",-0.32,"[-0.97, 0.32]",0.831,0.748,0.18,9284.1,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.54, CI~95%~[-0.21, 1.31], pd = 91.7%, ps = 86.9%, BF~10~ = 0.33",0.54,"[-0.21, 1.31]",0.917,0.869,0.33,9224.5,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.29, CI~95%~[-0.2, 0.83], pd = 86.6%, ps = 77.2%, BF~10~ = 0.17",0.29,"[-0.2, 0.83]",0.866,0.772,0.17,8337.6,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV NoV],"$\beta$ = 0.53, CI~95%~[-0.48, 1.61], pd = 83.9%, ps = 79%, BF~10~ = 0.29",0.53,"[-0.48, 1.61]",0.839,0.79,0.29,7122.9,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV NoV] x [Fatigue scale],"$\beta$ = -0.28, CI~95%~[-0.5, -0.06], pd = 99.4%, ps = 94.3%, BF~10~ = 0.76",-0.28,"[-0.5, -0.06]",0.994,0.943,0.76,11836.2,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.36, CI~95%~[-0.4, 1.1], pd = 82.4%, ps = 75%, BF~10~ = 0.2",0.36,"[-0.4, 1.1]",0.824,0.75,0.2,9216.4,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.26, CI~95%~[-0.72, 0.2], pd = 86.5%, ps = 75.2%, BF~10~ = 0.14",-0.26,"[-0.72, 0.2]",0.865,0.752,0.14,13406.8,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV Severity Score],"$\beta$ = -0.38, CI~95%~[-1.19, 0.45], pd = 81.7%, ps = 74.4%, BF~10~ = 0.21",-0.38,"[-1.19, 0.45]",0.817,0.744,0.21,6491.1,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = 1.07, CI~95%~[-1.3, 3.41], pd = 80.9%, ps = 78.8%, BF~10~ = 0.6",1.07,"[-1.3, 3.41]",0.809,0.788,0.6,6453.1,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.13, CI~95%~[-0.34, 0.08], pd = 87.5%, ps = 59.4%, BF~10~ = 0.07",-0.13,"[-0.34, 0.08]",0.875,0.594,0.07,10529.1,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.65, CI~95%~[0.03, 1.29], pd = 97.8%, ps = 95.5%, BF~10~ = 0.8",0.65,"[0.03, 1.29]",0.978,0.955,0.8,10148.6,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.41, CI~95%~[-0.16, 1], pd = 91.7%, ps = 85.6%, BF~10~ = 0.26",0.41,"[-0.16, 1]",0.917,0.856,0.26,10558.5,1
+Laboratory and Cellular,Blood Urea nitrogen,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.45, CI~95%~[-1.33, 0.49], pd = 82.6%, ps = 76.6%, BF~10~ = 0.25",-0.45,"[-1.33, 0.49]",0.826,0.766,0.25,11177.4,1
+Laboratory and Cellular,Blood Urea nitrogen,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.99, CI~95%~[0.36, 1.64], pd = 99.9%, ps = 99.6%, BF~10~ = 8.74",0.99,"[0.36, 1.64]",0.999,0.996,8.74,9173.1,1
+Laboratory and Cellular,Blood Urea nitrogen,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.63, CI~95%~[-0.13, 1.37], pd = 94.7%, ps = 91.8%, BF~10~ = 0.53",0.63,"[-0.13, 1.37]",0.947,0.918,0.53,9230.6,1
+Laboratory and Cellular,Blood Urea nitrogen,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.35, CI~95%~[-0.17, 0.81], pd = 91.9%, ps = 84.3%, BF~10~ = 0.22",0.35,"[-0.17, 0.81]",0.919,0.843,0.22,10158.9,1
+Laboratory and Cellular,Blood Urea nitrogen,[Pathologies: Obesity (Yes)],"$\beta$ = -0.81, CI~95%~[-1.56, 0], pd = 97.9%, ps = 96.3%, BF~10~ = 1",-0.81,"[-1.56, 0]",0.979,0.963,1,9834.9,1
+Laboratory and Cellular,Blood Urea nitrogen,[Sex: Female],"$\beta$ = -0.56, CI~95%~[-0.96, -0.16], pd = 99.6%, ps = 98.7%, BF~10~ = 2.68",-0.56,"[-0.96, -0.16]",0.996,0.987,2.68,10196.3,1
+Laboratory and Cellular,Calcium,[Education level: Cubic],"$\beta$ = -1.29, CI~95%~[-3.42, 0.86], pd = 87.8%, ps = 85.9%, BF~10~ = 0.75",-1.29,"[-3.42, 0.86]",0.878,0.859,0.75,7465,1
+Laboratory and Cellular,Calcium,[Education level: Linear],"$\beta$ = 1.82, CI~95%~[-0.87, 4.39], pd = 91.4%, ps = 90.1%, BF~10~ = 1.14",1.82,"[-0.87, 4.39]",0.914,0.901,1.14,8422.3,1
+Laboratory and Cellular,Calcium,[Fatigue scale],"$\beta$ = 0.13, CI~95%~[-0.09, 0.37], pd = 86.6%, ps = 60.9%, BF~10~ = 0.08",0.13,"[-0.09, 0.37]",0.866,0.609,0.08,13169.3,1
+Laboratory and Cellular,Calcium,[PCOV NoS] x [Age],"$\beta$ = -0.23, CI~95%~[-0.62, 0.19], pd = 86.3%, ps = 73.8%, BF~10~ = 0.13",-0.23,"[-0.62, 0.19]",0.863,0.738,0.13,9448.6,1
+Laboratory and Cellular,Calcium,[PCOV NoS] x [Education level: Linear],"$\beta$ = -1.47, CI~95%~[-4.51, 1.55], pd = 82.9%, ps = 81.2%, BF~10~ = 0.81",-1.47,"[-4.51, 1.55]",0.829,0.812,0.81,6986.4,1.001
+Laboratory and Cellular,Calcium,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.96, CI~95%~[-1.74, -0.15], pd = 99.1%, ps = 98.2%, BF~10~ = 1.88",-0.96,"[-1.74, -0.15]",0.991,0.982,1.88,10752.6,1
+Laboratory and Cellular,Calcium,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.6, CI~95%~[-0.27, 1.47], pd = 91.4%, ps = 87%, BF~10~ = 0.37",0.6,"[-0.27, 1.47]",0.914,0.87,0.37,9316.9,1
+Laboratory and Cellular,Calcium,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.45, CI~95%~[-0.52, 1.42], pd = 81.3%, ps = 75.4%, BF~10~ = 0.24",0.45,"[-0.52, 1.42]",0.813,0.754,0.24,10326.9,1
+Laboratory and Cellular,Calcium,[PCOV NoV] x [Age],"$\beta$ = -0.12, CI~95%~[-0.39, 0.15], pd = 81.4%, ps = 55.6%, BF~10~ = 0.07",-0.12,"[-0.39, 0.15]",0.814,0.556,0.07,12816,1
+Laboratory and Cellular,Calcium,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.16, CI~95%~[-0.41, 0.13], pd = 87.3%, ps = 65.4%, BF~10~ = 0.09",-0.16,"[-0.41, 0.13]",0.873,0.654,0.09,12554.7,1
+Laboratory and Cellular,Calcium,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.62, CI~95%~[-1.79, 0.51], pd = 85.2%, ps = 81.1%, BF~10~ = 0.35",-0.62,"[-1.79, 0.51]",0.852,0.811,0.35,11301.3,1
+Laboratory and Cellular,Calcium,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.97, CI~95%~[0.02, 1.84], pd = 98.1%, ps = 96.8%, BF~10~ = 1.22",0.97,"[0.02, 1.84]",0.981,0.968,1.22,10487.7,1
+Laboratory and Cellular,Calcium,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.46, CI~95%~[-1.1, 0.17], pd = 93.1%, ps = 87.7%, BF~10~ = 0.31",-0.46,"[-1.1, 0.17]",0.931,0.877,0.31,11464.2,1
+Laboratory and Cellular,Calcium,[Pathologies: Obesity (Yes)],"$\beta$ = -0.62, CI~95%~[-1.57, 0.36], pd = 89.6%, ps = 85.4%, BF~10~ = 0.36",-0.62,"[-1.57, 0.36]",0.896,0.854,0.36,10538.9,1
+Laboratory and Cellular,Calcium,[Sex: Female],"$\beta$ = -0.62, CI~95%~[-1.13, -0.13], pd = 99.4%, ps = 98.1%, BF~10~ = 1.84",-0.62,"[-1.13, -0.13]",0.994,0.981,1.84,11006.1,1
+Laboratory and Cellular,Cholesterol,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.46, CI~95%~[-0.53, 1.38], pd = 83.2%, ps = 77%, BF~10~ = 0.25",0.46,"[-0.53, 1.38]",0.832,0.77,0.25,11242.5,1
+Laboratory and Cellular,Cholesterol,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.61, CI~95%~[-0.02, 1.21], pd = 97.3%, ps = 94.1%, BF~10~ = 0.62",0.61,"[-0.02, 1.21]",0.973,0.941,0.62,10188.5,1
+Laboratory and Cellular,Cholesterol,[PCOV NoV],"$\beta$ = -0.96, CI~95%~[-2.04, 0.19], pd = 95%, ps = 93%, BF~10~ = 0.73",-0.96,"[-2.04, 0.19]",0.95,0.93,0.73,7173.6,1
+Laboratory and Cellular,Cholesterol,[PCOV NoV] x [Education level: Linear],"$\beta$ = 1.93, CI~95%~[-0.51, 4.41], pd = 94.1%, ps = 93%, BF~10~ = 1.41",1.93,"[-0.51, 4.41]",0.941,0.93,1.41,8787.1,1
+Laboratory and Cellular,Cholesterol,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.14, CI~95%~[-0.16, 0.39], pd = 83.5%, ps = 59.9%, BF~10~ = 0.08",0.14,"[-0.16, 0.39]",0.835,0.599,0.08,12399.7,1
+Laboratory and Cellular,Cholesterol,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.42, CI~95%~[-0.34, 1.18], pd = 85.6%, ps = 79.3%, BF~10~ = 0.23",0.42,"[-0.34, 1.18]",0.856,0.793,0.23,12914.7,1
+Laboratory and Cellular,Cholesterol,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.36, CI~95%~[-0.47, 1.09], pd = 81.3%, ps = 73.9%, BF~10~ = 0.19",0.36,"[-0.47, 1.09]",0.813,0.739,0.19,11139,1
+Laboratory and Cellular,Cholesterol,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.31, CI~95%~[-1.03, 0.36], pd = 80.4%, ps = 71.8%, BF~10~ = 0.17",-0.31,"[-1.03, 0.36]",0.804,0.718,0.17,12492.6,1
+Laboratory and Cellular,Cholesterol,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.62, CI~95%~[-0.51, 1.78], pd = 86.3%, ps = 82%, BF~10~ = 0.34",0.62,"[-0.51, 1.78]",0.863,0.82,0.34,11756.9,1
+Laboratory and Cellular,Cholesterol,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.25, CI~95%~[-0.82, 0.34], pd = 80%, ps = 69.3%, BF~10~ = 0.14",-0.25,"[-0.82, 0.34]",0.8,0.693,0.14,9898.4,1
+Laboratory and Cellular,Cholesterol,[Pathologies: Diabetes (Yes)],"$\beta$ = -0.35, CI~95%~[-1.11, 0.41], pd = 81.8%, ps = 74.1%, BF~10~ = 0.2",-0.35,"[-1.11, 0.41]",0.818,0.741,0.2,9958.9,1
+Laboratory and Cellular,Cholesterol,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.29, CI~95%~[-0.92, 0.29], pd = 82.9%, ps = 73.5%, BF~10~ = 0.16",-0.29,"[-0.92, 0.29]",0.829,0.735,0.16,10657.2,1
+Laboratory and Cellular,Creatinine,[Age],"$\beta$ = 0.15, CI~95%~[-0.08, 0.4], pd = 89.1%, ps = 66.4%, BF~10~ = 0.09",0.15,"[-0.08, 0.4]",0.891,0.664,0.09,10939.5,1
+Laboratory and Cellular,Creatinine,[Education level: Linear],"$\beta$ = -1.17, CI~95%~[-3.66, 1.38], pd = 81.9%, ps = 79.6%, BF~10~ = 0.66",-1.17,"[-3.66, 1.38]",0.819,0.796,0.66,8636.6,1
+Laboratory and Cellular,Creatinine,[Fatigue scale],"$\beta$ = 0.11, CI~95%~[-0.09, 0.3], pd = 86.9%, ps = 52.7%, BF~10~ = 0.06",0.11,"[-0.09, 0.3]",0.869,0.527,0.06,14150,1
+Laboratory and Cellular,Creatinine,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.74, CI~95%~[-1.41, -0.07], pd = 98.4%, ps = 96.9%, BF~10~ = 1.1",-0.74,"[-1.41, -0.07]",0.984,0.969,1.1,12424.9,1
+Laboratory and Cellular,Creatinine,[PCOV NoV] x [Age],"$\beta$ = -0.28, CI~95%~[-0.5, -0.05], pd = 99.2%, ps = 93.9%, BF~10~ = 0.63",-0.28,"[-0.5, -0.05]",0.992,0.939,0.63,14205.7,1
+Laboratory and Cellular,Creatinine,[PCOV NoV] x [Education level: Cubic],"$\beta$ = 1.29, CI~95%~[-0.76, 3.3], pd = 89.4%, ps = 87.5%, BF~10~ = 0.75",1.29,"[-0.76, 3.3]",0.894,0.875,0.75,8716.5,1
+Laboratory and Cellular,Creatinine,[PCOV NoV] x [Education level: Quadratic],"$\beta$ = -1.79, CI~95%~[-4.39, 0.86], pd = 90.9%, ps = 89.8%, BF~10~ = 1.11",-1.79,"[-4.39, 0.86]",0.909,0.898,1.11,8789.7,1
+Laboratory and Cellular,Creatinine,[PCOV NoV] x [Fatigue scale],"$\beta$ = -0.28, CI~95%~[-0.51, -0.05], pd = 99.2%, ps = 94.2%, BF~10~ = 0.68",-0.28,"[-0.51, -0.05]",0.992,0.942,0.68,14532.7,1
+Laboratory and Cellular,Creatinine,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.52, CI~95%~[-0.08, 1.13], pd = 95.3%, ps = 91.4%, BF~10~ = 0.41",0.52,"[-0.08, 1.13]",0.953,0.914,0.41,13053.1,1
+Laboratory and Cellular,Creatinine,[PCOV Severity Score],"$\beta$ = -0.79, CI~95%~[-1.67, 0.07], pd = 96.2%, ps = 94.2%, BF~10~ = 0.74",-0.79,"[-1.67, 0.07]",0.962,0.942,0.74,7766.2,1.001
+Laboratory and Cellular,Creatinine,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = 1.85, CI~95%~[-0.68, 4.31], pd = 92.6%, ps = 91.5%, BF~10~ = 1.28",1.85,"[-0.68, 4.31]",0.926,0.915,1.28,7208.1,1.001
+Laboratory and Cellular,Creatinine,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.3, CI~95%~[-0.53, -0.09], pd = 99.6%, ps = 96.3%, BF~10~ = 1.42",-0.3,"[-0.53, -0.09]",0.996,0.963,1.42,14469,1
+Laboratory and Cellular,Creatinine,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.45, CI~95%~[-0.23, 1.12], pd = 90%, ps = 83.9%, BF~10~ = 0.27",0.45,"[-0.23, 1.12]",0.9,0.839,0.27,12565,1
+Laboratory and Cellular,Creatinine,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.37, CI~95%~[-0.3, 0.95], pd = 87.5%, ps = 80.3%, BF~10~ = 0.21",0.37,"[-0.3, 0.95]",0.875,0.803,0.21,12957.4,1
+Laboratory and Cellular,Creatinine,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.37, CI~95%~[-0.12, 0.87], pd = 93.1%, ps = 85.6%, BF~10~ = 0.24",0.37,"[-0.12, 0.87]",0.931,0.856,0.24,12714.7,1
+Laboratory and Cellular,Creatinine,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.69, CI~95%~[0.04, 1.36], pd = 97.8%, ps = 95.9%, BF~10~ = 0.9",0.69,"[0.04, 1.36]",0.978,0.959,0.9,12573.6,1
+Laboratory and Cellular,Creatinine,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 1.04, CI~95%~[0.24, 1.82], pd = 99.5%, ps = 99%, BF~10~ = 3.54",1.04,"[0.24, 1.82]",0.995,0.99,3.54,12411.5,1
+Laboratory and Cellular,Creatinine,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.31, CI~95%~[-0.19, 0.84], pd = 88.4%, ps = 78.9%, BF~10~ = 0.18",0.31,"[-0.19, 0.84]",0.884,0.789,0.18,13136.7,1
+Laboratory and Cellular,Creatinine,[Pathologies: Obesity (Yes)],"$\beta$ = -0.67, CI~95%~[-1.48, 0.17], pd = 94.5%, ps = 91.2%, BF~10~ = 0.48",-0.67,"[-1.48, 0.17]",0.945,0.912,0.48,11884.1,1
+Laboratory and Cellular,Creatinine,[Sex: Female],"$\beta$ = -1.19, CI~95%~[-1.63, -0.77], pd = 100%, ps = 100%, BF~10~ = 9208.89",-1.19,"[-1.63, -0.77]",1,1,9208.89,13042.7,1
+Laboratory and Cellular,Eosinophils,[Age],"$\beta$ = 0.28, CI~95%~[0.02, 0.55], pd = 98%, ps = 90.9%, BF~10~ = 0.37",0.28,"[0.02, 0.55]",0.98,0.909,0.37,12722,1.001
+Laboratory and Cellular,Eosinophils,[Fatigue scale],"$\beta$ = -0.17, CI~95%~[-0.37, 0.04], pd = 94.9%, ps = 75.7%, BF~10~ = 0.14",-0.17,"[-0.37, 0.04]",0.949,0.757,0.14,14191.2,1
+Laboratory and Cellular,Eosinophils,[PCOV NoS] x [Age],"$\beta$ = -0.45, CI~95%~[-0.8, -0.09], pd = 99.5%, ps = 97.4%, BF~10~ = 1.19",-0.45,"[-0.8, -0.09]",0.995,0.974,1.19,12209.5,1
+Laboratory and Cellular,Eosinophils,[PCOV NoS] x [Education level: Cubic],"$\beta$ = 1.27, CI~95%~[-1.22, 3.62], pd = 85.1%, ps = 83.1%, BF~10~ = 0.71",1.27,"[-1.22, 3.62]",0.851,0.831,0.71,8622.9,1
+Laboratory and Cellular,Eosinophils,[PCOV NoS] x [Education level: Linear],"$\beta$ = -1.6, CI~95%~[-4.48, 1.43], pd = 85.4%, ps = 83.8%, BF~10~ = 0.91",-1.6,"[-4.48, 1.43]",0.854,0.838,0.91,8194.9,1
+Laboratory and Cellular,Eosinophils,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.14, CI~95%~[-0.38, 0.09], pd = 89%, ps = 63.9%, BF~10~ = 0.09",-0.14,"[-0.38, 0.09]",0.89,0.639,0.09,12918.1,1
+Laboratory and Cellular,Eosinophils,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.65, CI~95%~[-0.1, 1.34], pd = 95.8%, ps = 93%, BF~10~ = 0.54",0.65,"[-0.1, 1.34]",0.958,0.93,0.54,14388.8,1
+Laboratory and Cellular,Eosinophils,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.38, CI~95%~[-0.48, 1.22], pd = 80.9%, ps = 74.1%, BF~10~ = 0.22",0.38,"[-0.48, 1.22]",0.809,0.741,0.22,13467.4,1
+Laboratory and Cellular,Eosinophils,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.34, CI~95%~[-0.26, 0.9], pd = 87.4%, ps = 78.8%, BF~10~ = 0.19",0.34,"[-0.26, 0.9]",0.874,0.788,0.19,13532.1,1
+Laboratory and Cellular,Eosinophils,[PCOV NoV] x [Education level: Linear],"$\beta$ = 1.22, CI~95%~[-1.21, 3.64], pd = 83.5%, ps = 81.5%, BF~10~ = 0.68",1.22,"[-1.21, 3.64]",0.835,0.815,0.68,7811.7,1.001
+Laboratory and Cellular,Eosinophils,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.32, CI~95%~[-0.42, 1.04], pd = 81.4%, ps = 73%, BF~10~ = 0.18",0.32,"[-0.42, 1.04]",0.814,0.73,0.18,13273.7,1
+Laboratory and Cellular,Eosinophils,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.25, CI~95%~[-0.77, 0.27], pd = 83%, ps = 72%, BF~10~ = 0.14",-0.25,"[-0.77, 0.27]",0.83,0.72,0.14,14257.4,1
+Laboratory and Cellular,Eosinophils,[PCOV Severity Score] x [Age],"$\beta$ = 0.31, CI~95%~[-0.03, 0.66], pd = 96.1%, ps = 88.9%, BF~10~ = 0.29",0.31,"[-0.03, 0.66]",0.961,0.889,0.29,12041.6,1
+Laboratory and Cellular,Eosinophils,[PCOV Severity Score] x [Education level: Cubic],"$\beta$ = -0.99, CI~95%~[-2.92, 1.05], pd = 83.9%, ps = 81.5%, BF~10~ = 0.55",-0.99,"[-2.92, 1.05]",0.839,0.815,0.55,7836.3,1
+Laboratory and Cellular,Eosinophils,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.12, CI~95%~[-0.12, 0.35], pd = 84.1%, ps = 56.7%, BF~10~ = 0.07",0.12,"[-0.12, 0.35]",0.841,0.567,0.07,13581.2,1
+Laboratory and Cellular,Eosinophils,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.34, CI~95%~[-1.03, 0.27], pd = 85%, ps = 76.8%, BF~10~ = 0.19",-0.34,"[-1.03, 0.27]",0.85,0.768,0.19,14335.7,1
+Laboratory and Cellular,Eosinophils,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.42, CI~95%~[-0.95, 0.1], pd = 94.3%, ps = 88.3%, BF~10~ = 0.3",-0.42,"[-0.95, 0.1]",0.943,0.883,0.3,13360.3,1
+Laboratory and Cellular,Eosinophils,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.76, CI~95%~[-1.59, 0.07], pd = 96.3%, ps = 94.3%, BF~10~ = 0.74",-0.76,"[-1.59, 0.07]",0.963,0.943,0.74,13325.2,1
+Laboratory and Cellular,GPT,[Age],"$\beta$ = 0.18, CI~95%~[-0.04, 0.39], pd = 94.4%, ps = 75.6%, BF~10~ = 0.13",0.18,"[-0.04, 0.39]",0.944,0.756,0.13,10295.3,1
+Laboratory and Cellular,GPT,[Education level: Cubic],"$\beta$ = 1.77, CI~95%~[-0.11, 3.69], pd = 96.4%, ps = 95.5%, BF~10~ = 1.54",1.77,"[-0.11, 3.69]",0.964,0.955,1.54,7957.7,1
+Laboratory and Cellular,GPT,[Education level: Linear],"$\beta$ = 3.37, CI~95%~[0.97, 5.74], pd = 99.7%, ps = 99.6%, BF~10~ = 18.25",3.37,"[0.97, 5.74]",0.997,0.996,18.25,7900.3,1
+Laboratory and Cellular,GPT,[Education level: Quadratic],"$\beta$ = -2.54, CI~95%~[-4.75, -0.39], pd = 99%, ps = 98.7%, BF~10~ = 5.02",-2.54,"[-4.75, -0.39]",0.99,0.987,5.02,7789.2,1
+Laboratory and Cellular,GPT,[PCOV NoS] x [Age],"$\beta$ = -0.14, CI~95%~[-0.42, 0.16], pd = 82.6%, ps = 60%, BF~10~ = 0.08",-0.14,"[-0.42, 0.16]",0.826,0.6,0.08,9973.6,1
+Laboratory and Cellular,GPT,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.1, CI~95%~[-0.09, 0.29], pd = 84.2%, ps = 48.5%, BF~10~ = 0.05",0.1,"[-0.09, 0.29]",0.842,0.485,0.05,11644.7,1
+Laboratory and Cellular,GPT,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.36, CI~95%~[-0.28, 0.98], pd = 87.5%, ps = 79.2%, BF~10~ = 0.2",0.36,"[-0.28, 0.98]",0.875,0.792,0.2,9268.7,1
+Laboratory and Cellular,GPT,[PCOV NoV],"$\beta$ = 1.27, CI~95%~[0.21, 2.32], pd = 99.1%, ps = 98.5%, BF~10~ = 2.52",1.27,"[0.21, 2.32]",0.991,0.985,2.52,7678.3,1
+Laboratory and Cellular,GPT,[PCOV NoV] x [Education level: Cubic],"$\beta$ = -4.5, CI~95%~[-6.39, -2.41], pd = 100%, ps = 100%, BF~10~ = 26538.92",-4.5,"[-6.39, -2.41]",1,1,26538.92,8317.2,1
+Laboratory and Cellular,GPT,[PCOV NoV] x [Education level: Linear],"$\beta$ = -5.38, CI~95%~[-7.62, -3.24], pd = 100%, ps = 100%, BF~10~ = 46129.49",-5.38,"[-7.62, -3.24]",1,1,46129.49,7933.1,1
+Laboratory and Cellular,GPT,[PCOV NoV] x [Education level: Quadratic],"$\beta$ = 5.4, CI~95%~[2.83, 7.92], pd = 100%, ps = 100%, BF~10~ = 39528.26",5.4,"[2.83, 7.92]",1,1,39528.26,8871.6,1
+Laboratory and Cellular,GPT,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.24, CI~95%~[-0.3, 0.81], pd = 80.1%, ps = 69.5%, BF~10~ = 0.14",0.24,"[-0.3, 0.81]",0.801,0.695,0.14,13409,1
+Laboratory and Cellular,GPT,[PCOV Severity Score],"$\beta$ = 1.04, CI~95%~[0.26, 1.84], pd = 99.5%, ps = 99.1%, BF~10~ = 4.23",1.04,"[0.26, 1.84]",0.995,0.991,4.23,7524.3,1
+Laboratory and Cellular,GPT,[PCOV Severity Score] x [Age],"$\beta$ = 0.18, CI~95%~[-0.09, 0.45], pd = 90.7%, ps = 72.5%, BF~10~ = 0.11",0.18,"[-0.09, 0.45]",0.907,0.725,0.11,10025.5,1
+Laboratory and Cellular,GPT,[PCOV Severity Score] x [Education level: Cubic],"$\beta$ = -2.17, CI~95%~[-4.09, -0.32], pd = 98.9%, ps = 98.4%, BF~10~ = 3.9",-2.17,"[-4.09, -0.32]",0.989,0.984,3.9,8070.7,1
+Laboratory and Cellular,GPT,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = -4.46, CI~95%~[-6.87, -2.1], pd = 100%, ps = 100%, BF~10~ = 7212.62",-4.46,"[-6.87, -2.1]",1,1,7212.62,6791.1,1
+Laboratory and Cellular,GPT,[PCOV Severity Score] x [Education level: Quadratic],"$\beta$ = 3.72, CI~95%~[1.76, 5.59], pd = 100%, ps = 100%, BF~10~ = 592.12",3.72,"[1.76, 5.59]",1,1,592.12,7497.8,1
+Laboratory and Cellular,GPT,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.56, CI~95%~[-1.16, 0], pd = 97.2%, ps = 94.6%, BF~10~ = 0.65",-0.56,"[-1.16, 0]",0.972,0.946,0.65,11015.7,1
+Laboratory and Cellular,GPT,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.59, CI~95%~[-0.25, 1.43], pd = 91.5%, ps = 87.5%, BF~10~ = 0.38",0.59,"[-0.25, 1.43]",0.915,0.875,0.38,10758.4,1
+Laboratory and Cellular,GPT,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.37, CI~95%~[-0.83, 0.08], pd = 94.5%, ps = 87.8%, BF~10~ = 0.28",-0.37,"[-0.83, 0.08]",0.945,0.878,0.28,11646.6,1
+Laboratory and Cellular,GPT,[Pathologies: Obesity (Yes)],"$\beta$ = 0.6, CI~95%~[-0.08, 1.34], pd = 95.1%, ps = 91.1%, BF~10~ = 0.43",0.6,"[-0.08, 1.34]",0.951,0.911,0.43,11946.8,1
+Laboratory and Cellular,GPT,[Sex: Female],"$\beta$ = -0.51, CI~95%~[-0.87, -0.12], pd = 99.6%, ps = 98.3%, BF~10~ = 1.9",-0.51,"[-0.87, -0.12]",0.996,0.983,1.9,13146.3,1
+Laboratory and Cellular,Glucose,[Age],"$\beta$ = 0.27, CI~95%~[0.09, 0.46], pd = 99.8%, ps = 96.6%, BF~10~ = 1.77",0.27,"[0.09, 0.46]",0.998,0.966,1.77,10617.9,1
+Laboratory and Cellular,Glucose,[Education level: Linear],"$\beta$ = 3.13, CI~95%~[0.91, 5.46], pd = 99.7%, ps = 99.6%, BF~10~ = 11.66",3.13,"[0.91, 5.46]",0.997,0.996,11.66,5662.2,1
+Laboratory and Cellular,Glucose,[Education level: Quadratic],"$\beta$ = -1.93, CI~95%~[-4.1, 0.12], pd = 96.1%, ps = 95.4%, BF~10~ = 1.81",-1.93,"[-4.1, 0.12]",0.961,0.954,1.81,5056,1
+Laboratory and Cellular,Glucose,[Fatigue scale],"$\beta$ = -0.08, CI~95%~[-0.22, 0.06], pd = 87.9%, ps = 40.2%, BF~10~ = 0.05",-0.08,"[-0.22, 0.06]",0.879,0.402,0.05,16788.8,1
+Laboratory and Cellular,Glucose,[PCOV NoS] x [Education level: Linear],"$\beta$ = -1.24, CI~95%~[-4.07, 1.59], pd = 80.8%, ps = 78.7%, BF~10~ = 0.68",-1.24,"[-4.07, 1.59]",0.808,0.787,0.68,5025.8,1
+Laboratory and Cellular,Glucose,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.07, CI~95%~[-0.08, 0.24], pd = 82.2%, ps = 36.8%, BF~10~ = 0.04",0.07,"[-0.08, 0.24]",0.822,0.368,0.04,16100.1,1
+Laboratory and Cellular,Glucose,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.37, CI~95%~[-0.86, 0.13], pd = 92.8%, ps = 86.2%, BF~10~ = 0.26",-0.37,"[-0.86, 0.13]",0.928,0.862,0.26,13793.2,1
+Laboratory and Cellular,Glucose,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.43, CI~95%~[-1.05, 0.14], pd = 91.9%, ps = 85.7%, BF~10~ = 0.26",-0.43,"[-1.05, 0.14]",0.919,0.857,0.26,12839.4,1
+Laboratory and Cellular,Glucose,[PCOV NoV] x [Education level: Cubic],"$\beta$ = -2.45, CI~95%~[-4.36, -0.63], pd = 99.5%, ps = 99.3%, BF~10~ = 7.99",-2.45,"[-4.36, -0.63]",0.995,0.993,7.99,5999.1,1
+Laboratory and Cellular,Glucose,[PCOV NoV] x [Education level: Linear],"$\beta$ = -2.58, CI~95%~[-4.67, -0.53], pd = 99.2%, ps = 99%, BF~10~ = 7.07",-2.58,"[-4.67, -0.53]",0.992,0.99,7.07,5718.5,1
+Laboratory and Cellular,Glucose,[PCOV NoV] x [Education level: Quadratic],"$\beta$ = 2.95, CI~95%~[0.53, 5.35], pd = 99.1%, ps = 98.9%, BF~10~ = 5.97",2.95,"[0.53, 5.35]",0.991,0.989,5.97,6754.4,1
+Laboratory and Cellular,Glucose,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.15, CI~95%~[-0.01, 0.33], pd = 96.3%, ps = 72.3%, BF~10~ = 0.14",0.15,"[-0.01, 0.33]",0.963,0.723,0.14,15653.6,1
+Laboratory and Cellular,Glucose,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.94, CI~95%~[-1.41, -0.46], pd = 100%, ps = 100%, BF~10~ = 102.78",-0.94,"[-1.41, -0.46]",1,1,102.78,15382.6,1
+Laboratory and Cellular,Glucose,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.56, CI~95%~[-1.09, -0.08], pd = 98.4%, ps = 96.4%, BF~10~ = 0.87",-0.56,"[-1.09, -0.08]",0.984,0.964,0.87,12202.9,1
+Laboratory and Cellular,Glucose,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.83, CI~95%~[0.38, 1.28], pd = 100%, ps = 99.9%, BF~10~ = 30.49",0.83,"[0.38, 1.28]",1,0.999,30.49,13603.1,1
+Laboratory and Cellular,Glucose,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.58, CI~95%~[-1.14, 0], pd = 97.6%, ps = 95%, BF~10~ = 0.66",-0.58,"[-1.14, 0]",0.976,0.95,0.66,12728.5,1
+Laboratory and Cellular,Glucose,[PCOV Severity Score],"$\beta$ = 0.59, CI~95%~[-0.18, 1.35], pd = 93.3%, ps = 89.6%, BF~10~ = 0.42",0.59,"[-0.18, 1.35]",0.933,0.896,0.42,5510.4,1
+Laboratory and Cellular,Glucose,[PCOV Severity Score] x [Age],"$\beta$ = 0.16, CI~95%~[-0.07, 0.39], pd = 91.8%, ps = 70.7%, BF~10~ = 0.1",0.16,"[-0.07, 0.39]",0.918,0.707,0.1,11131.6,1
+Laboratory and Cellular,Glucose,[PCOV Severity Score] x [Education level: Cubic],"$\beta$ = -1.24, CI~95%~[-3.16, 0.51], pd = 90.8%, ps = 88.9%, BF~10~ = 0.73",-1.24,"[-3.16, 0.51]",0.908,0.889,0.73,4949.6,1
+Laboratory and Cellular,Glucose,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = -2.29, CI~95%~[-4.57, 0.1], pd = 97.2%, ps = 96.7%, BF~10~ = 2.43",-2.29,"[-4.57, 0.1]",0.972,0.967,2.43,4945.3,1
+Laboratory and Cellular,Glucose,[PCOV Severity Score] x [Education level: Quadratic],"$\beta$ = 2.28, CI~95%~[0.54, 4.18], pd = 99.2%, ps = 99%, BF~10~ = 6",2.28,"[0.54, 4.18]",0.992,0.99,6,5178.5,1
+Laboratory and Cellular,Glucose,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.14, CI~95%~[-0.3, 0.02], pd = 95.8%, ps = 68.5%, BF~10~ = 0.12",-0.14,"[-0.3, 0.02]",0.958,0.685,0.12,15626,1
+Laboratory and Cellular,Glucose,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.25, CI~95%~[-0.77, 0.23], pd = 84.1%, ps = 72.8%, BF~10~ = 0.13",-0.25,"[-0.77, 0.23]",0.841,0.728,0.13,12382.5,1
+Laboratory and Cellular,Glucose,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.3, CI~95%~[-0.76, 0.14], pd = 90.7%, ps = 81.7%, BF~10~ = 0.19",-0.3,"[-0.76, 0.14]",0.907,0.817,0.19,14158.6,1
+Laboratory and Cellular,Glucose,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 1.26, CI~95%~[0.54, 1.99], pd = 100%, ps = 99.9%, BF~10~ = 20.52",1.26,"[0.54, 1.99]",1,0.999,20.52,12453.8,1
+Laboratory and Cellular,Glucose,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.23, CI~95%~[-0.13, 0.6], pd = 89.8%, ps = 76%, BF~10~ = 0.14",0.23,"[-0.13, 0.6]",0.898,0.76,0.14,13480.4,1
+Laboratory and Cellular,Glucose,[Pathologies: Diabetes (Yes)],"$\beta$ = 1.24, CI~95%~[0.75, 1.73], pd = 100%, ps = 100%, BF~10~ = 6674.67",1.24,"[0.75, 1.73]",1,1,6674.67,13098.9,1
+Laboratory and Cellular,Glucose,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.35, CI~95%~[-0.22, 0.92], pd = 88.6%, ps = 80.3%, BF~10~ = 0.2",0.35,"[-0.22, 0.92]",0.886,0.803,0.2,13285.4,1
+Laboratory and Cellular,Glucose,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.48, CI~95%~[-0.87, -0.1], pd = 99.2%, ps = 97.1%, BF~10~ = 1.13",-0.48,"[-0.87, -0.1]",0.992,0.971,1.13,12993.2,1
+Laboratory and Cellular,Glucose,[Pathologies: Obesity (Yes)],"$\beta$ = 0.57, CI~95%~[-0.08, 1.15], pd = 96.7%, ps = 93.7%, BF~10~ = 0.57",0.57,"[-0.08, 1.15]",0.967,0.937,0.57,12995.7,1.001
+Laboratory and Cellular,Hematocrit,[Age],"$\beta$ = 0.1, CI~95%~[-0.11, 0.3], pd = 82%, ps = 48.8%, BF~10~ = 0.05",0.1,"[-0.11, 0.3]",0.82,0.488,0.05,8310.6,1
+Laboratory and Cellular,Hematocrit,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.24, CI~95%~[-0.34, 0.78], pd = 80.4%, ps = 69.1%, BF~10~ = 0.14",0.24,"[-0.34, 0.78]",0.804,0.691,0.14,9490.4,1
+Laboratory and Cellular,Hematocrit,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.2, CI~95%~[0.01, 0.39], pd = 97.8%, ps = 84.4%, BF~10~ = 0.24",0.2,"[0.01, 0.39]",0.978,0.844,0.24,12169.7,1
+Laboratory and Cellular,Hematocrit,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.26, CI~95%~[-0.81, 0.29], pd = 82.2%, ps = 71.7%, BF~10~ = 0.14",-0.26,"[-0.81, 0.29]",0.822,0.717,0.14,8228.7,1
+Laboratory and Cellular,Hematocrit,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = -1.11, CI~95%~[-3.45, 1.28], pd = 81.8%, ps = 79.7%, BF~10~ = 0.61",-1.11,"[-3.45, 1.28]",0.818,0.797,0.61,6758.7,1.001
+Laboratory and Cellular,Hematocrit,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.6, CI~95%~[-1.16, -0.05], pd = 98.3%, ps = 96.1%, BF~10~ = 0.86",-0.6,"[-1.16, -0.05]",0.983,0.961,0.86,10342.1,1
+Laboratory and Cellular,Hematocrit,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.83, CI~95%~[0.01, 1.63], pd = 97.7%, ps = 95.9%, BF~10~ = 0.91",0.83,"[0.01, 1.63]",0.977,0.959,0.91,12133.6,1
+Laboratory and Cellular,Hematocrit,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.29, CI~95%~[-0.25, 0.88], pd = 84.6%, ps = 74.7%, BF~10~ = 0.16",0.29,"[-0.25, 0.88]",0.846,0.747,0.16,9876.9,1
+Laboratory and Cellular,Hematocrit,[Pathologies: Obesity (Yes)],"$\beta$ = -0.31, CI~95%~[-1.03, 0.35], pd = 81.1%, ps = 72.2%, BF~10~ = 0.17",-0.31,"[-1.03, 0.35]",0.811,0.722,0.17,10091.8,1
+Laboratory and Cellular,Hematocrit,[Sex: Female],"$\beta$ = -1.39, CI~95%~[-1.75, -1.03], pd = 100%, ps = 100%, BF~10~ = 4321.83",-1.39,"[-1.75, -1.03]",1,1,4321.83,11274.1,1
+Laboratory and Cellular,Leucocytes,[Age],"$\beta$ = -0.24, CI~95%~[-0.53, 0.02], pd = 96.1%, ps = 84.8%, BF~10~ = 0.21",-0.24,"[-0.53, 0.02]",0.961,0.848,0.21,9636.9,1
+Laboratory and Cellular,Leucocytes,[Education level: Linear],"$\beta$ = 1.34, CI~95%~[-1.19, 3.84], pd = 84.8%, ps = 82.8%, BF~10~ = 0.71",1.34,"[-1.19, 3.84]",0.848,0.828,0.71,9940,1
+Laboratory and Cellular,Leucocytes,[PCOV NoS],"$\beta$ = 0.65, CI~95%~[-0.35, 1.68], pd = 90.8%, ps = 87%, BF~10~ = 0.4",0.65,"[-0.35, 1.68]",0.908,0.87,0.4,9094.1,1
+Laboratory and Cellular,Leucocytes,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.19, CI~95%~[-0.06, 0.42], pd = 94%, ps = 76.5%, BF~10~ = 0.13",0.19,"[-0.06, 0.42]",0.94,0.765,0.13,11930.1,1
+Laboratory and Cellular,Leucocytes,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.45, CI~95%~[-1.34, 0.46], pd = 83.8%, ps = 78%, BF~10~ = 0.25",-0.45,"[-1.34, 0.46]",0.838,0.78,0.25,12190.8,1
+Laboratory and Cellular,Leucocytes,[PCOV NoS] x [Sex: Female],"$\beta$ = -0.38, CI~95%~[-0.97, 0.24], pd = 88.9%, ps = 81.9%, BF~10~ = 0.22",-0.38,"[-0.97, 0.24]",0.889,0.819,0.22,11886.3,1
+Laboratory and Cellular,Leucocytes,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.54, CI~95%~[-0.15, 1.28], pd = 93.5%, ps = 88.8%, BF~10~ = 0.34",0.54,"[-0.15, 1.28]",0.935,0.888,0.34,13407.6,1
+Laboratory and Cellular,Leucocytes,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.59, CI~95%~[-1.34, 0.18], pd = 93.8%, ps = 89.8%, BF~10~ = 0.4",-0.59,"[-1.34, 0.18]",0.938,0.898,0.4,12450.4,1
+Laboratory and Cellular,Leucocytes,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.27, CI~95%~[-0.52, -0.02], pd = 98.4%, ps = 91%, BF~10~ = 0.39",-0.27,"[-0.52, -0.02]",0.984,0.91,0.39,12061.7,1
+Laboratory and Cellular,Leucocytes,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.8, CI~95%~[-1.55, -0.07], pd = 98.4%, ps = 96.9%, BF~10~ = 1.18",-0.8,"[-1.55, -0.07]",0.984,0.969,1.18,12124.9,1
+Laboratory and Cellular,Leucocytes,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.35, CI~95%~[-1.04, 0.31], pd = 84.3%, ps = 76.3%, BF~10~ = 0.2",-0.35,"[-1.04, 0.31]",0.843,0.763,0.2,12108.4,1
+Laboratory and Cellular,Leucocytes,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.76, CI~95%~[0.15, 1.4], pd = 99%, ps = 98.1%, BF~10~ = 1.71",0.76,"[0.15, 1.4]",0.99,0.981,1.71,10478.1,1
+Laboratory and Cellular,Leucocytes,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 1.02, CI~95%~[-0.06, 2.11], pd = 96.3%, ps = 95%, BF~10~ = 0.97",1.02,"[-0.06, 2.11]",0.963,0.95,0.97,12455.8,1
+Laboratory and Cellular,Leucocytes,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.49, CI~95%~[-0.06, 1.05], pd = 95.7%, ps = 91.9%, BF~10~ = 0.46",0.49,"[-0.06, 1.05]",0.957,0.919,0.46,11633.8,1
+Laboratory and Cellular,Leucocytes,[Pathologies: Obesity (Yes)],"$\beta$ = 0.83, CI~95%~[-0.07, 1.74], pd = 96.2%, ps = 93.8%, BF~10~ = 0.67",0.83,"[-0.07, 1.74]",0.962,0.938,0.67,11798.1,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoS],"$\beta$ = -0.52, CI~95%~[-1.55, 0.51], pd = 83.8%, ps = 78.8%, BF~10~ = 0.29",-0.52,"[-1.55, 0.51]",0.838,0.788,0.29,9172.7,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.16, CI~95%~[-0.42, 0.1], pd = 89%, ps = 68.2%, BF~10~ = 0.09",-0.16,"[-0.42, 0.1]",0.89,0.682,0.09,11785.8,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.56, CI~95%~[-1.37, 0.24], pd = 90.6%, ps = 85.9%, BF~10~ = 0.32",-0.56,"[-1.37, 0.24]",0.906,0.859,0.32,11646.2,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.52, CI~95%~[-1.31, 0.28], pd = 90%, ps = 85%, BF~10~ = 0.31",-0.52,"[-1.31, 0.28]",0.9,0.85,0.31,11871.1,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.46, CI~95%~[-1.42, 0.46], pd = 83.3%, ps = 77.4%, BF~10~ = 0.26",-0.46,"[-1.42, 0.46]",0.833,0.774,0.26,12262.1,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.5, CI~95%~[-0.15, 1.11], pd = 94.1%, ps = 89.5%, BF~10~ = 0.37",0.5,"[-0.15, 1.11]",0.941,0.895,0.37,12270.7,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoV] x [Age],"$\beta$ = -0.16, CI~95%~[-0.43, 0.1], pd = 88.1%, ps = 66.8%, BF~10~ = 0.09",-0.16,"[-0.43, 0.1]",0.881,0.668,0.09,14000.3,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoV] x [Fatigue scale],"$\beta$ = -0.24, CI~95%~[-0.51, 0.04], pd = 96%, ps = 84.6%, BF~10~ = 0.2",-0.24,"[-0.51, 0.04]",0.96,0.846,0.2,14580,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.34, CI~95%~[-1.08, 0.41], pd = 81.8%, ps = 74.2%, BF~10~ = 0.19",-0.34,"[-1.08, 0.41]",0.818,0.742,0.19,12828.5,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.71, CI~95%~[-0.03, 1.42], pd = 97.2%, ps = 95.3%, BF~10~ = 0.81",0.71,"[-0.03, 1.42]",0.972,0.953,0.81,11702.4,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = -1.1, CI~95%~[-2.02, -0.2], pd = 99.1%, ps = 98.6%, BF~10~ = 2.92",-1.1,"[-2.02, -0.2]",0.991,0.986,2.92,11886.3,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.32, CI~95%~[-0.86, 0.26], pd = 86.9%, ps = 78.1%, BF~10~ = 0.18",-0.32,"[-0.86, 0.26]",0.869,0.781,0.18,13400.6,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV Severity Score],"$\beta$ = 0.43, CI~95%~[-0.51, 1.34], pd = 82.8%, ps = 76.7%, BF~10~ = 0.24",0.43,"[-0.51, 1.34]",0.828,0.767,0.24,8418.3,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.12, CI~95%~[-0.14, 0.39], pd = 81.7%, ps = 55.7%, BF~10~ = 0.07",0.12,"[-0.14, 0.39]",0.817,0.557,0.07,12748.5,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.43, CI~95%~[-0.28, 1.16], pd = 87.8%, ps = 81.3%, BF~10~ = 0.24",0.43,"[-0.28, 1.16]",0.878,0.813,0.24,12863.3,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.53, CI~95%~[-0.08, 1.22], pd = 94.8%, ps = 90.7%, BF~10~ = 0.4",0.53,"[-0.08, 1.22]",0.948,0.907,0.4,10021.1,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.7, CI~95%~[-0.43, 1.79], pd = 88.8%, ps = 85.2%, BF~10~ = 0.4",0.7,"[-0.43, 1.79]",0.888,0.852,0.4,12532.9,1
+Laboratory and Cellular,Lymphocytes CD19+,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.48, CI~95%~[-1.06, 0.1], pd = 94.9%, ps = 90.9%, BF~10~ = 0.39",-0.48,"[-1.06, 0.1]",0.949,0.909,0.39,11918.7,1
+Laboratory and Cellular,Lymphocytes CD19+,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.76, CI~95%~[-0.14, 1.68], pd = 95%, ps = 92.3%, BF~10~ = 0.59",0.76,"[-0.14, 1.68]",0.95,0.923,0.59,12298.1,1
+Laboratory and Cellular,Lymphocytes CD19+,[Pathologies: Obesity (Yes)],"$\beta$ = 0.75, CI~95%~[-0.21, 1.7], pd = 94%, ps = 90.7%, BF~10~ = 0.49",0.75,"[-0.21, 1.7]",0.94,0.907,0.49,12420.9,1
+Laboratory and Cellular,Lymphocytes CD3+,[Age],"$\beta$ = -0.21, CI~95%~[-0.48, 0.06], pd = 93.2%, ps = 78%, BF~10~ = 0.14",-0.21,"[-0.48, 0.06]",0.932,0.78,0.14,9765.8,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV NoS],"$\beta$ = 0.75, CI~95%~[-0.2, 1.76], pd = 93%, ps = 89.8%, BF~10~ = 0.47",0.75,"[-0.2, 1.76]",0.93,0.898,0.47,8951.3,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.58, CI~95%~[-1.35, 0.2], pd = 93.4%, ps = 89.2%, BF~10~ = 0.38",-0.58,"[-1.35, 0.2]",0.934,0.892,0.38,11342.4,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 1.08, CI~95%~[0.2, 1.95], pd = 99.2%, ps = 98.6%, BF~10~ = 2.6",1.08,"[0.2, 1.95]",0.992,0.986,2.6,10378.8,1.001
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV NoS] x [Sex: Female],"$\beta$ = -0.35, CI~95%~[-0.91, 0.26], pd = 88.1%, ps = 80.3%, BF~10~ = 0.21",-0.35,"[-0.91, 0.26]",0.881,0.803,0.21,9821.5,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV NoV] x [Age],"$\beta$ = 0.16, CI~95%~[-0.09, 0.41], pd = 89.8%, ps = 68.2%, BF~10~ = 0.09",0.16,"[-0.09, 0.41]",0.898,0.682,0.09,13062.3,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.44, CI~95%~[-1.19, 0.28], pd = 87.5%, ps = 81.9%, BF~10~ = 0.26",-0.44,"[-1.19, 0.28]",0.875,0.819,0.26,10145.2,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.43, CI~95%~[-0.3, 1.05], pd = 88.9%, ps = 83%, BF~10~ = 0.25",0.43,"[-0.3, 1.05]",0.889,0.83,0.25,10055.4,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV Severity Score],"$\beta$ = -0.9, CI~95%~[-1.77, -0.02], pd = 97.9%, ps = 96.3%, BF~10~ = 1.05",-0.9,"[-1.77, -0.02]",0.979,0.963,1.05,8838.1,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV Severity Score] x [Age],"$\beta$ = -0.23, CI~95%~[-0.58, 0.1], pd = 90.4%, ps = 77.4%, BF~10~ = 0.13",-0.23,"[-0.58, 0.1]",0.904,0.774,0.13,9331,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.77, CI~95%~[0.03, 1.49], pd = 98%, ps = 96.5%, BF~10~ = 1.08",0.77,"[0.03, 1.49]",0.98,0.965,1.08,10882.8,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.32, CI~95%~[-0.3, 0.93], pd = 84.8%, ps = 76.1%, BF~10~ = 0.18",0.32,"[-0.3, 0.93]",0.848,0.761,0.18,8665,1
+Laboratory and Cellular,Lymphocytes CD3+,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.85, CI~95%~[-1.94, 0.17], pd = 94.4%, ps = 91.9%, BF~10~ = 0.63",-0.85,"[-1.94, 0.17]",0.944,0.919,0.63,11341.8,1
+Laboratory and Cellular,Lymphocytes CD3+,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.52, CI~95%~[-1.39, 0.31], pd = 88.6%, ps = 83.4%, BF~10~ = 0.29",-0.52,"[-1.39, 0.31]",0.886,0.834,0.29,11179.7,1
+Laboratory and Cellular,Lymphocytes CD3+,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.5, CI~95%~[-0.06, 1.06], pd = 95.9%, ps = 91.8%, BF~10~ = 0.42",0.5,"[-0.06, 1.06]",0.959,0.918,0.42,10533.9,1
+Laboratory and Cellular,Lymphocytes CD3+,[Pathologies: Obesity (Yes)],"$\beta$ = -0.52, CI~95%~[-1.44, 0.38], pd = 86.7%, ps = 81.6%, BF~10~ = 0.29",-0.52,"[-1.44, 0.38]",0.867,0.816,0.29,11907.6,1
+Laboratory and Cellular,Lymphocytes CD3+,[Sex: Female],"$\beta$ = 0.74, CI~95%~[0.28, 1.21], pd = 99.9%, ps = 99.7%, BF~10~ = 8.84",0.74,"[0.28, 1.21]",0.999,0.997,8.84,10505.5,1
+Laboratory and Cellular,Lymphocytes CD4+,[Age],"$\beta$ = 0.15, CI~95%~[-0.1, 0.4], pd = 88.2%, ps = 66.1%, BF~10~ = 0.09",0.15,"[-0.1, 0.4]",0.882,0.661,0.09,11214.4,1
+Laboratory and Cellular,Lymphocytes CD4+,[Education level: Linear],"$\beta$ = 1.09, CI~95%~[-1.44, 3.48], pd = 80.5%, ps = 78%, BF~10~ = 0.61",1.09,"[-1.44, 3.48]",0.805,0.78,0.61,9106,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoS] x [Age],"$\beta$ = -0.24, CI~95%~[-0.6, 0.1], pd = 91%, ps = 77.5%, BF~10~ = 0.15",-0.24,"[-0.6, 0.1]",0.91,0.775,0.15,11052.7,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoS] x [Education level: Cubic],"$\beta$ = 1.07, CI~95%~[-1.27, 3.44], pd = 81%, ps = 78.5%, BF~10~ = 0.57",1.07,"[-1.27, 3.44]",0.81,0.785,0.57,7822.4,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.19, CI~95%~[-0.03, 0.41], pd = 95.4%, ps = 78.5%, BF~10~ = 0.15",0.19,"[-0.03, 0.41]",0.954,0.785,0.15,12072.4,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.86, CI~95%~[-1.6, -0.17], pd = 99.1%, ps = 98.1%, BF~10~ = 1.75",-0.86,"[-1.6, -0.17]",0.991,0.981,1.75,12580.2,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.31, CI~95%~[-0.4, 0.98], pd = 80.1%, ps = 71.4%, BF~10~ = 0.17",0.31,"[-0.4, 0.98]",0.801,0.714,0.17,12585.2,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.92, CI~95%~[0.05, 1.72], pd = 98.5%, ps = 97.3%, BF~10~ = 1.48",0.92,"[0.05, 1.72]",0.985,0.973,1.48,11975.8,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoV],"$\beta$ = 0.53, CI~95%~[-0.55, 1.59], pd = 83.5%, ps = 78.3%, BF~10~ = 0.29",0.53,"[-0.55, 1.59]",0.835,0.783,0.29,7892.4,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoV] x [Fatigue scale],"$\beta$ = -0.17, CI~95%~[-0.42, 0.07], pd = 92.5%, ps = 73.3%, BF~10~ = 0.12",-0.17,"[-0.42, 0.07]",0.925,0.733,0.12,14926,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.43, CI~95%~[-1.13, 0.26], pd = 88.8%, ps = 82.7%, BF~10~ = 0.25",-0.43,"[-1.13, 0.26]",0.888,0.827,0.25,11265.5,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.49, CI~95%~[-0.34, 1.3], pd = 88.2%, ps = 83.1%, BF~10~ = 0.29",0.49,"[-0.34, 1.3]",0.882,0.831,0.29,12322.5,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.39, CI~95%~[-0.87, 0.11], pd = 94.2%, ps = 87.8%, BF~10~ = 0.29",-0.39,"[-0.87, 0.11]",0.942,0.878,0.29,14096.2,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV Severity Score],"$\beta$ = -0.47, CI~95%~[-1.33, 0.4], pd = 85.4%, ps = 79.7%, BF~10~ = 0.26",-0.47,"[-1.33, 0.4]",0.854,0.797,0.26,8889.7,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV Severity Score] x [Age],"$\beta$ = 0.26, CI~95%~[-0.06, 0.59], pd = 94%, ps = 82.6%, BF~10~ = 0.17",0.26,"[-0.06, 0.59]",0.94,0.826,0.17,10201.9,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.11, CI~95%~[-0.33, 0.13], pd = 82.1%, ps = 52.9%, BF~10~ = 0.06",-0.11,"[-0.33, 0.13]",0.821,0.529,0.06,14056.1,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.42, CI~95%~[-0.25, 1.11], pd = 88.7%, ps = 82.3%, BF~10~ = 0.23",0.42,"[-0.25, 1.11]",0.887,0.823,0.23,11967.4,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.42, CI~95%~[-1.02, 0.24], pd = 90%, ps = 84.2%, BF~10~ = 0.26",-0.42,"[-1.02, 0.24]",0.9,0.842,0.26,11733,1
+Laboratory and Cellular,Lymphocytes CD4+,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.41, CI~95%~[-0.18, 0.99], pd = 92%, ps = 85.6%, BF~10~ = 0.26",0.41,"[-0.18, 0.99]",0.92,0.856,0.26,10401.8,1
+Laboratory and Cellular,Lymphocytes CD4+,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.48, CI~95%~[-0.18, 1.23], pd = 91.5%, ps = 86.3%, BF~10~ = 0.3",0.48,"[-0.18, 1.23]",0.915,0.863,0.3,12774.5,1
+Laboratory and Cellular,Lymphocytes CD4+,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.47, CI~95%~[-1.27, 0.32], pd = 87.8%, ps = 82.2%, BF~10~ = 0.26",-0.47,"[-1.27, 0.32]",0.878,0.822,0.26,13089.3,1
+Laboratory and Cellular,Lymphocytes CD4+,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.33, CI~95%~[-0.22, 0.83], pd = 89%, ps = 80.4%, BF~10~ = 0.19",0.33,"[-0.22, 0.83]",0.89,0.804,0.19,12079.7,1
+Laboratory and Cellular,Lymphocytes CD4+,[Sex: Female],"$\beta$ = 0.81, CI~95%~[0.39, 1.27], pd = 100%, ps = 99.9%, BF~10~ = 23.34",0.81,"[0.39, 1.27]",1,0.999,23.34,13177.8,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV NoS],"$\beta$ = -0.46, CI~95%~[-1.38, 0.57], pd = 82.2%, ps = 76.3%, BF~10~ = 0.25",-0.46,"[-1.38, 0.57]",0.822,0.763,0.25,9838.4,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV NoS] x [Age],"$\beta$ = 0.15, CI~95%~[-0.2, 0.5], pd = 80.5%, ps = 62.2%, BF~10~ = 0.09",0.15,"[-0.2, 0.5]",0.805,0.622,0.09,13026.4,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.14, CI~95%~[-0.36, 0.1], pd = 87.4%, ps = 62.3%, BF~10~ = 0.08",-0.14,"[-0.36, 0.1]",0.874,0.623,0.08,15437.1,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.74, CI~95%~[0.03, 1.46], pd = 97.5%, ps = 95.6%, BF~10~ = 0.89",0.74,"[0.03, 1.46]",0.975,0.956,0.89,14676.9,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.7, CI~95%~[-1.47, 0.03], pd = 96.8%, ps = 93.9%, BF~10~ = 0.6",-0.7,"[-1.47, 0.03]",0.968,0.939,0.6,13173.1,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.29, CI~95%~[-0.28, 0.86], pd = 84.4%, ps = 74.8%, BF~10~ = 0.16",0.29,"[-0.28, 0.86]",0.844,0.748,0.16,14103,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV NoV] x [Fatigue scale],"$\beta$ = -0.13, CI~95%~[-0.38, 0.11], pd = 85.1%, ps = 59.5%, BF~10~ = 0.07",-0.13,"[-0.38, 0.11]",0.851,0.595,0.07,16326.5,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.31, CI~95%~[-0.97, 0.38], pd = 81.7%, ps = 72.9%, BF~10~ = 0.18",-0.31,"[-0.97, 0.38]",0.817,0.729,0.18,14370,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.61, CI~95%~[-0.2, 1.46], pd = 93.2%, ps = 89.3%, BF~10~ = 0.43",0.61,"[-0.2, 1.46]",0.932,0.893,0.43,12791.2,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV NoV] x [Sex: Female],"$\beta$ = 0.33, CI~95%~[-0.2, 0.83], pd = 89.8%, ps = 81.2%, BF~10~ = 0.2",0.33,"[-0.2, 0.83]",0.898,0.812,0.2,14370.9,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV Severity Score],"$\beta$ = 0.46, CI~95%~[-0.38, 1.35], pd = 85.5%, ps = 79.8%, BF~10~ = 0.25",0.46,"[-0.38, 1.35]",0.855,0.798,0.25,9716.2,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.32, CI~95%~[-0.97, 0.34], pd = 82.7%, ps = 74.1%, BF~10~ = 0.18",-0.32,"[-0.97, 0.34]",0.827,0.741,0.18,15052.8,1
+Laboratory and Cellular,Lymphocytes CD4+5,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.55, CI~95%~[-1.11, -0.06], pd = 98.1%, ps = 95.8%, BF~10~ = 0.86",-0.55,"[-1.11, -0.06]",0.981,0.958,0.86,13436.2,1
+Laboratory and Cellular,Lymphocytes CD4+5,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.41, CI~95%~[-0.32, 1.09], pd = 87.3%, ps = 80.9%, BF~10~ = 0.24",0.41,"[-0.32, 1.09]",0.873,0.809,0.24,13055.6,1
+Laboratory and Cellular,Lymphocytes CD4+5,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.71, CI~95%~[-1.55, 0.13], pd = 95.4%, ps = 92.7%, BF~10~ = 0.61",-0.71,"[-1.55, 0.13]",0.954,0.927,0.61,15164.9,1
+Laboratory and Cellular,Lymphocytes CD4+5,[Sex: Female],"$\beta$ = -0.3, CI~95%~[-0.76, 0.13], pd = 91.2%, ps = 81.9%, BF~10~ = 0.18",-0.3,"[-0.76, 0.13]",0.912,0.819,0.18,14771.4,1
+Laboratory and Cellular,Lymphocytes CD56+,[Age],"$\beta$ = 0.2, CI~95%~[-0.04, 0.45], pd = 94.5%, ps = 79.4%, BF~10~ = 0.14",0.2,"[-0.04, 0.45]",0.945,0.794,0.14,11338.5,1
+Laboratory and Cellular,Lymphocytes CD56+,[Education level: Cubic],"$\beta$ = 1.04, CI~95%~[-0.99, 3.08], pd = 83.6%, ps = 81.1%, BF~10~ = 0.59",1.04,"[-0.99, 3.08]",0.836,0.811,0.59,8656.7,1.001
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV NoS] x [Age],"$\beta$ = 0.15, CI~95%~[-0.17, 0.51], pd = 81.4%, ps = 62.4%, BF~10~ = 0.09",0.15,"[-0.17, 0.51]",0.814,0.624,0.09,11607.1,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV NoS] x [Education level: Cubic],"$\beta$ = -1.2, CI~95%~[-3.54, 1.11], pd = 84.1%, ps = 82%, BF~10~ = 0.68",-1.2,"[-3.54, 1.11]",0.841,0.82,0.68,8468,1.001
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.43, CI~95%~[-0.28, 1.15], pd = 87.6%, ps = 81.6%, BF~10~ = 0.25",0.43,"[-0.28, 1.15]",0.876,0.816,0.25,14271,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.61, CI~95%~[-1.45, 0.22], pd = 92.6%, ps = 88.8%, BF~10~ = 0.41",-0.61,"[-1.45, 0.22]",0.926,0.888,0.41,13368.2,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV NoS] x [Sex: Female],"$\beta$ = -0.35, CI~95%~[-0.93, 0.16], pd = 90%, ps = 82.1%, BF~10~ = 0.21",-0.35,"[-0.93, 0.16]",0.9,0.821,0.21,12813.6,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV NoV] x [Age],"$\beta$ = -0.1, CI~95%~[-0.34, 0.11], pd = 80.2%, ps = 48.5%, BF~10~ = 0.05",-0.1,"[-0.34, 0.11]",0.802,0.485,0.05,14380.3,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV NoV] x [Education level: Linear],"$\beta$ = -1.41, CI~95%~[-3.78, 0.93], pd = 87.6%, ps = 85.8%, BF~10~ = 0.76",-1.41,"[-3.78, 0.93]",0.876,0.858,0.76,9201.4,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.34, CI~95%~[-0.34, 1.01], pd = 84.2%, ps = 76.1%, BF~10~ = 0.19",0.34,"[-0.34, 1.01]",0.842,0.761,0.19,14231.2,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.74, CI~95%~[-1.37, -0.09], pd = 98.8%, ps = 97.4%, BF~10~ = 1.31",-0.74,"[-1.37, -0.09]",0.988,0.974,1.31,12228.1,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.67, CI~95%~[-0.15, 1.47], pd = 94.5%, ps = 91.2%, BF~10~ = 0.47",0.67,"[-0.15, 1.47]",0.945,0.912,0.47,12401.9,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV Severity Score],"$\beta$ = 0.53, CI~95%~[-0.33, 1.41], pd = 88.5%, ps = 84%, BF~10~ = 0.32",0.53,"[-0.33, 1.41]",0.885,0.84,0.32,8057.7,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = -1.08, CI~95%~[-3.5, 1.53], pd = 80.3%, ps = 78.1%, BF~10~ = 0.62",-1.08,"[-3.5, 1.53]",0.803,0.781,0.62,8017.4,1.001
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.53, CI~95%~[-1.22, 0.17], pd = 93.3%, ps = 88.7%, BF~10~ = 0.36",-0.53,"[-1.22, 0.17]",0.933,0.887,0.36,12756.2,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.35, CI~95%~[-0.93, 0.22], pd = 88.3%, ps = 80.4%, BF~10~ = 0.19",-0.35,"[-0.93, 0.22]",0.883,0.804,0.19,10526.7,1
+Laboratory and Cellular,Lymphocytes CD56+,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.34, CI~95%~[-0.18, 0.83], pd = 90.7%, ps = 82.5%, BF~10~ = 0.21",0.34,"[-0.18, 0.83]",0.907,0.825,0.21,12933.4,1
+Laboratory and Cellular,Lymphocytes CD56+,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.4, CI~95%~[-0.94, 0.11], pd = 93%, ps = 86.6%, BF~10~ = 0.25",-0.4,"[-0.94, 0.11]",0.93,0.866,0.25,12606.4,1
+Laboratory and Cellular,Lymphocytes CD56+,[Sex: Female],"$\beta$ = -0.8, CI~95%~[-1.23, -0.36], pd = 100%, ps = 99.9%, BF~10~ = 53.66",-0.8,"[-1.23, -0.36]",1,0.999,53.66,12827.8,1
+Laboratory and Cellular,Lymphocytes CD8+,[Age],"$\beta$ = -0.19, CI~95%~[-0.47, 0.08], pd = 91.4%, ps = 73.9%, BF~10~ = 0.11",-0.19,"[-0.47, 0.08]",0.914,0.739,0.11,10680.3,1
+Laboratory and Cellular,Lymphocytes CD8+,[Fatigue scale],"$\beta$ = 0.11, CI~95%~[-0.1, 0.33], pd = 84.5%, ps = 55%, BF~10~ = 0.06",0.11,"[-0.1, 0.33]",0.845,0.55,0.06,14438.5,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV NoS],"$\beta$ = 0.46, CI~95%~[-0.56, 1.43], pd = 81.5%, ps = 75.6%, BF~10~ = 0.25",0.46,"[-0.56, 1.43]",0.815,0.756,0.25,8793,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV NoS] x [Age],"$\beta$ = 0.18, CI~95%~[-0.21, 0.56], pd = 83.2%, ps = 66.4%, BF~10~ = 0.1",0.18,"[-0.21, 0.56]",0.832,0.664,0.1,10405.5,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV NoV],"$\beta$ = -0.76, CI~95%~[-1.9, 0.3], pd = 91.3%, ps = 88.2%, BF~10~ = 0.48",-0.76,"[-1.9, 0.3]",0.913,0.882,0.48,8655.6,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV NoV] x [Education level: Cubic],"$\beta$ = 1.03, CI~95%~[-1.05, 3.15], pd = 83.4%, ps = 80.8%, BF~10~ = 0.56",1.03,"[-1.05, 3.15]",0.834,0.808,0.56,9337.9,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.21, CI~95%~[-0.05, 0.48], pd = 94.1%, ps = 79.3%, BF~10~ = 0.15",0.21,"[-0.05, 0.48]",0.941,0.793,0.15,14306.7,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.45, CI~95%~[-1.19, 0.28], pd = 88.7%, ps = 82.6%, BF~10~ = 0.25",-0.45,"[-1.19, 0.28]",0.887,0.826,0.25,14970,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV NoV] x [Sex: Female],"$\beta$ = 0.5, CI~95%~[-0.03, 1.05], pd = 96.6%, ps = 92.7%, BF~10~ = 0.47",0.5,"[-0.03, 1.05]",0.966,0.927,0.47,12965.2,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV Severity Score] x [Age],"$\beta$ = -0.35, CI~95%~[-0.71, 0.01], pd = 97.3%, ps = 91.6%, BF~10~ = 0.36",-0.35,"[-0.71, 0.01]",0.973,0.916,0.36,10433.6,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.32, CI~95%~[-0.47, 1.04], pd = 80.2%, ps = 72%, BF~10~ = 0.18",0.32,"[-0.47, 1.04]",0.802,0.72,0.18,11981.9,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.36, CI~95%~[-0.34, 1.04], pd = 85%, ps = 76.9%, BF~10~ = 0.2",0.36,"[-0.34, 1.04]",0.85,0.769,0.2,11885.4,1
+Laboratory and Cellular,Lymphocytes CD8+,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.77, CI~95%~[-1.84, 0.36], pd = 91.8%, ps = 88.7%, BF~10~ = 0.47",-0.77,"[-1.84, 0.36]",0.918,0.887,0.47,12849.8,1
+Laboratory and Cellular,Lymphocytes CD8+,[Pathologies: Diabetes (Yes)],"$\beta$ = -0.35, CI~95%~[-1.12, 0.4], pd = 81.7%, ps = 73.8%, BF~10~ = 0.19",-0.35,"[-1.12, 0.4]",0.817,0.738,0.19,11749.3,1
+Laboratory and Cellular,Lymphocytes CD8+,[Sex: Female],"$\beta$ = -0.27, CI~95%~[-0.76, 0.2], pd = 87.5%, ps = 76.1%, BF~10~ = 0.15",-0.27,"[-0.76, 0.2]",0.875,0.761,0.15,12011.2,1.001
+Laboratory and Cellular,Monocytes,[Age],"$\beta$ = 0.25, CI~95%~[-0.01, 0.48], pd = 97.7%, ps = 88.4%, BF~10~ = 0.28",0.25,"[-0.01, 0.48]",0.977,0.884,0.28,11520.5,1
+Laboratory and Cellular,Monocytes,[Fatigue scale],"$\beta$ = -0.14, CI~95%~[-0.34, 0.06], pd = 92.2%, ps = 66.8%, BF~10~ = 0.1",-0.14,"[-0.34, 0.06]",0.922,0.668,0.1,13826,1
+Laboratory and Cellular,Monocytes,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.13, CI~95%~[-0.08, 0.36], pd = 87.2%, ps = 59.8%, BF~10~ = 0.07",0.13,"[-0.08, 0.36]",0.872,0.598,0.07,12605.3,1
+Laboratory and Cellular,Monocytes,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.85, CI~95%~[-0.01, 1.6], pd = 97.7%, ps = 96.3%, BF~10~ = 1.04",0.85,"[-0.01, 1.6]",0.977,0.963,1.04,13149.4,1
+Laboratory and Cellular,Monocytes,[PCOV NoV] x [Education level: Cubic],"$\beta$ = -1.03, CI~95%~[-3.18, 0.97], pd = 83.4%, ps = 80.9%, BF~10~ = 0.56",-1.03,"[-3.18, 0.97]",0.834,0.809,0.56,9312.7,1
+Laboratory and Cellular,Monocytes,[PCOV NoV] x [Education level: Linear],"$\beta$ = -1.66, CI~95%~[-4, 0.68], pd = 91.4%, ps = 90%, BF~10~ = 0.99",-1.66,"[-4, 0.68]",0.914,0.9,0.99,9557,1
+Laboratory and Cellular,Monocytes,[PCOV NoV] x [Education level: Quadratic],"$\beta$ = 1.2, CI~95%~[-1.52, 3.7], pd = 82.5%, ps = 80.5%, BF~10~ = 0.72",1.2,"[-1.52, 3.7]",0.825,0.805,0.72,10121.9,1
+Laboratory and Cellular,Monocytes,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.27, CI~95%~[-0.75, 0.21], pd = 85.8%, ps = 74.8%, BF~10~ = 0.14",-0.27,"[-0.75, 0.21]",0.858,0.748,0.14,13469.8,1
+Laboratory and Cellular,Monocytes,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.12, CI~95%~[-0.34, 0.11], pd = 84.7%, ps = 56.4%, BF~10~ = 0.06",-0.12,"[-0.34, 0.11]",0.847,0.564,0.06,12464.1,1
+Laboratory and Cellular,Monocytes,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.3, CI~95%~[-0.24, 0.9], pd = 85.1%, ps = 75.9%, BF~10~ = 0.16",0.3,"[-0.24, 0.9]",0.851,0.759,0.16,11662.7,1
+Laboratory and Cellular,Monocytes,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.43, CI~95%~[-0.22, 1.1], pd = 89.3%, ps = 83.1%, BF~10~ = 0.25",0.43,"[-0.22, 1.1]",0.893,0.831,0.25,11009.1,1
+Laboratory and Cellular,Monocytes,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.34, CI~95%~[-1.14, 0.43], pd = 80.3%, ps = 72.5%, BF~10~ = 0.19",-0.34,"[-1.14, 0.43]",0.803,0.725,0.19,12247.5,1
+Laboratory and Cellular,Monocytes,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.3, CI~95%~[-0.8, 0.25], pd = 87%, ps = 77.7%, BF~10~ = 0.17",-0.3,"[-0.8, 0.25]",0.87,0.777,0.17,11432,1
+Laboratory and Cellular,Monocytes,[Sex: Female],"$\beta$ = -0.47, CI~95%~[-0.9, -0.05], pd = 98.4%, ps = 95.6%, BF~10~ = 0.72",-0.47,"[-0.9, -0.05]",0.984,0.956,0.72,12974.9,1
+Laboratory and Cellular,Phosphorus,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.16, CI~95%~[-0.11, 0.41], pd = 87.7%, ps = 66.8%, BF~10~ = 0.09",0.16,"[-0.11, 0.41]",0.877,0.668,0.09,13037.8,1.001
+Laboratory and Cellular,Phosphorus,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.9, CI~95%~[-1.77, -0.07], pd = 98%, ps = 96.7%, BF~10~ = 1.25",-0.9,"[-1.77, -0.07]",0.98,0.967,1.25,12398.6,1
+Laboratory and Cellular,Phosphorus,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.98, CI~95%~[0.01, 1.94], pd = 97.5%, ps = 96%, BF~10~ = 1.05",0.98,"[0.01, 1.94]",0.975,0.96,1.05,10730.8,1
+Laboratory and Cellular,Phosphorus,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.14, CI~95%~[-0.43, 0.11], pd = 85%, ps = 62.5%, BF~10~ = 0.08",-0.14,"[-0.43, 0.11]",0.85,0.625,0.08,14002.8,1.001
+Laboratory and Cellular,Phosphorus,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.86, CI~95%~[0.09, 1.69], pd = 98.1%, ps = 96.8%, BF~10~ = 1.17",0.86,"[0.09, 1.69]",0.981,0.968,1.17,11857.2,1
+Laboratory and Cellular,Phosphorus,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.81, CI~95%~[-1.94, 0.38], pd = 90.7%, ps = 87.7%, BF~10~ = 0.47",-0.81,"[-1.94, 0.38]",0.907,0.877,0.47,11792.1,1
+Laboratory and Cellular,Phosphorus,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.53, CI~95%~[-0.31, 1.32], pd = 89.8%, ps = 85.3%, BF~10~ = 0.32",0.53,"[-0.31, 1.32]",0.898,0.853,0.32,11977.3,1
+Laboratory and Cellular,Phosphorus,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.4, CI~95%~[-0.21, 1.02], pd = 89.6%, ps = 82.5%, BF~10~ = 0.23",0.4,"[-0.21, 1.02]",0.896,0.825,0.23,13825.9,1
+Laboratory and Cellular,Phosphorus,[Pathologies: Obesity (Yes)],"$\beta$ = -0.97, CI~95%~[-1.94, 0.05], pd = 97%, ps = 95.4%, BF~10~ = 0.93",-0.97,"[-1.94, 0.05]",0.97,0.954,0.93,11663.3,1
+Laboratory and Cellular,Phosphorus,[Sex: Female],"$\beta$ = 0.34, CI~95%~[-0.16, 0.86], pd = 90.9%, ps = 82.4%, BF~10~ = 0.21",0.34,"[-0.16, 0.86]",0.909,0.824,0.21,12811.6,1
+Laboratory and Cellular,Platelets,[Age],"$\beta$ = -0.16, CI~95%~[-0.43, 0.12], pd = 86.3%, ps = 65.1%, BF~10~ = 0.09",-0.16,"[-0.43, 0.12]",0.863,0.651,0.09,11322.6,1
+Laboratory and Cellular,Platelets,[Education level: Cubic],"$\beta$ = -1.37, CI~95%~[-3.45, 0.72], pd = 90.2%, ps = 88.5%, BF~10~ = 0.83",-1.37,"[-3.45, 0.72]",0.902,0.885,0.83,8932.8,1
+Laboratory and Cellular,Platelets,[Education level: Quadratic],"$\beta$ = 1.05, CI~95%~[-1.24, 3.26], pd = 81.9%, ps = 79.6%, BF~10~ = 0.58",1.05,"[-1.24, 3.26]",0.819,0.796,0.58,10378.1,1
+Laboratory and Cellular,Platelets,[PCOV NoS],"$\beta$ = 0.45, CI~95%~[-0.56, 1.48], pd = 81.7%, ps = 76%, BF~10~ = 0.26",0.45,"[-0.56, 1.48]",0.817,0.76,0.26,9505.4,1
+Laboratory and Cellular,Platelets,[PCOV NoS] x [Age],"$\beta$ = -0.19, CI~95%~[-0.56, 0.2], pd = 83%, ps = 66.9%, BF~10~ = 0.11",-0.19,"[-0.56, 0.2]",0.83,0.669,0.11,11046,1
+Laboratory and Cellular,Platelets,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.12, CI~95%~[-0.12, 0.37], pd = 82.6%, ps = 55.6%, BF~10~ = 0.07",0.12,"[-0.12, 0.37]",0.826,0.556,0.07,11764.6,1.001
+Laboratory and Cellular,Platelets,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.45, CI~95%~[-0.32, 1.21], pd = 87.3%, ps = 81.4%, BF~10~ = 0.25",0.45,"[-0.32, 1.21]",0.873,0.814,0.25,12874.2,1
+Laboratory and Cellular,Platelets,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.13, CI~95%~[-0.13, 0.39], pd = 83.2%, ps = 58.7%, BF~10~ = 0.07",0.13,"[-0.13, 0.39]",0.832,0.587,0.07,13713.2,1
+Laboratory and Cellular,Platelets,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.56, CI~95%~[-1.28, 0.11], pd = 94.3%, ps = 90.1%, BF~10~ = 0.39",-0.56,"[-1.28, 0.11]",0.943,0.901,0.39,11926.7,1
+Laboratory and Cellular,Platelets,[PCOV Severity Score],"$\beta$ = -0.59, CI~95%~[-1.5, 0.31], pd = 90.3%, ps = 86.3%, BF~10~ = 0.37",-0.59,"[-1.5, 0.31]",0.903,0.863,0.37,9251.5,1
+Laboratory and Cellular,Platelets,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = 1.2, CI~95%~[-1.26, 3.85], pd = 82.6%, ps = 80.6%, BF~10~ = 0.68",1.2,"[-1.26, 3.85]",0.826,0.806,0.68,8995,1
+Laboratory and Cellular,Platelets,[PCOV Severity Score] x [Education level: Quadratic],"$\beta$ = -0.98, CI~95%~[-3.05, 1.05], pd = 83.2%, ps = 80.8%, BF~10~ = 0.57",-0.98,"[-3.05, 1.05]",0.832,0.808,0.57,10010.5,1
+Laboratory and Cellular,Platelets,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.53, CI~95%~[-1.26, 0.23], pd = 92.1%, ps = 87.3%, BF~10~ = 0.34",-0.53,"[-1.26, 0.23]",0.921,0.873,0.34,13213,1
+Laboratory and Cellular,Platelets,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.32, CI~95%~[-0.33, 0.95], pd = 83.8%, ps = 75.2%, BF~10~ = 0.18",0.32,"[-0.33, 0.95]",0.838,0.752,0.18,11726.3,1
+Laboratory and Cellular,Platelets,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.32, CI~95%~[-0.25, 0.87], pd = 86.8%, ps = 77.4%, BF~10~ = 0.18",0.32,"[-0.25, 0.87]",0.868,0.774,0.18,12490.3,1
+Laboratory and Cellular,Platelets,[Pathologies: Obesity (Yes)],"$\beta$ = -0.42, CI~95%~[-1.36, 0.52], pd = 80.1%, ps = 73.8%, BF~10~ = 0.23",-0.42,"[-1.36, 0.52]",0.801,0.738,0.23,13134.3,1
+Laboratory and Cellular,Platelets,[Sex: Female],"$\beta$ = 0.28, CI~95%~[-0.22, 0.75], pd = 86.7%, ps = 76.5%, BF~10~ = 0.16",0.28,"[-0.22, 0.75]",0.867,0.765,0.16,12027.2,1
+Laboratory and Cellular,Proteins,[Age],"$\beta$ = -0.24, CI~95%~[-0.54, 0.03], pd = 96%, ps = 84.6%, BF~10~ = 0.21",-0.24,"[-0.54, 0.03]",0.96,0.846,0.21,10139.1,1
+Laboratory and Cellular,Proteins,[PCOV NoS] x [Age],"$\beta$ = -0.2, CI~95%~[-0.59, 0.2], pd = 83.6%, ps = 68.6%, BF~10~ = 0.11",-0.2,"[-0.59, 0.2]",0.836,0.686,0.11,9909.2,1
+Laboratory and Cellular,Proteins,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.82, CI~95%~[-1.6, -0.03], pd = 98%, ps = 96.2%, BF~10~ = 0.96",-0.82,"[-1.6, -0.03]",0.98,0.962,0.96,11210.2,1
+Laboratory and Cellular,Proteins,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.82, CI~95%~[-0.03, 1.66], pd = 97.1%, ps = 95.4%, BF~10~ = 0.88",0.82,"[-0.03, 1.66]",0.971,0.954,0.88,9561.7,1
+Laboratory and Cellular,Proteins,[PCOV NoV] x [Age],"$\beta$ = -0.2, CI~95%~[-0.48, 0.05], pd = 93.6%, ps = 78.2%, BF~10~ = 0.14",-0.2,"[-0.48, 0.05]",0.936,0.782,0.14,13491.8,1
+Laboratory and Cellular,Proteins,[PCOV NoV] x [Fatigue scale],"$\beta$ = -0.15, CI~95%~[-0.43, 0.12], pd = 85.9%, ps = 64.5%, BF~10~ = 0.08",-0.15,"[-0.43, 0.12]",0.859,0.645,0.08,13299.3,1.001
+Laboratory and Cellular,Proteins,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.22, CI~95%~[-0.48, 0.04], pd = 94.9%, ps = 82.2%, BF~10~ = 0.16",-0.22,"[-0.48, 0.04]",0.949,0.822,0.16,13214.9,1
+Laboratory and Cellular,Proteins,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.35, CI~95%~[-0.35, 1.09], pd = 83.1%, ps = 75.4%, BF~10~ = 0.19",0.35,"[-0.35, 1.09]",0.831,0.754,0.19,11508.2,1
+Laboratory and Cellular,Proteins,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.3, CI~95%~[-0.27, 0.88], pd = 84.1%, ps = 74.4%, BF~10~ = 0.16",0.3,"[-0.27, 0.88]",0.841,0.744,0.16,10005.8,1
+Laboratory and Cellular,Proteins,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.44, CI~95%~[-0.3, 1.24], pd = 86.7%, ps = 80.5%, BF~10~ = 0.24",0.44,"[-0.3, 1.24]",0.867,0.805,0.24,10902.5,1
+Laboratory and Cellular,Proteins,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.65, CI~95%~[-0.24, 1.56], pd = 92%, ps = 88.4%, BF~10~ = 0.41",0.65,"[-0.24, 1.56]",0.92,0.884,0.41,10749.4,1
+Laboratory and Cellular,Proteins,[Pathologies: Obesity (Yes)],"$\beta$ = -0.53, CI~95%~[-1.48, 0.44], pd = 86.3%, ps = 81.1%, BF~10~ = 0.31",-0.53,"[-1.48, 0.44]",0.863,0.811,0.31,10955,1
+Laboratory and Cellular,Proteins,[Sex: Female],"$\beta$ = -0.53, CI~95%~[-1.03, -0.02], pd = 97.9%, ps = 95.3%, BF~10~ = 0.67",-0.53,"[-1.03, -0.02]",0.979,0.953,0.67,11878.8,1
+Laboratory and Cellular,Total lymphocytes,[Education level: Linear],"$\beta$ = 1.11, CI~95%~[-1.46, 3.65], pd = 80.3%, ps = 78.2%, BF~10~ = 0.63",1.11,"[-1.46, 3.65]",0.803,0.782,0.63,7998.5,1
+Laboratory and Cellular,Total lymphocytes,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.2, CI~95%~[-0.43, 0.02], pd = 95.9%, ps = 81.1%, BF~10~ = 0.16",-0.2,"[-0.43, 0.02]",0.959,0.811,0.16,13757.1,1
+Laboratory and Cellular,Total lymphocytes,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.88, CI~95%~[0.13, 1.57], pd = 99.3%, ps = 98.3%, BF~10~ = 2.09",0.88,"[0.13, 1.57]",0.993,0.983,2.09,13150.5,1
+Laboratory and Cellular,Total lymphocytes,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.81, CI~95%~[-1.61, -0.06], pd = 98%, ps = 96.6%, BF~10~ = 1.09",-0.81,"[-1.61, -0.06]",0.98,0.966,1.09,12612.4,1
+Laboratory and Cellular,Total lymphocytes,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.47, CI~95%~[-0.41, 1.3], pd = 85.6%, ps = 80%, BF~10~ = 0.27",0.47,"[-0.41, 1.3]",0.856,0.8,0.27,12679.4,1
+Laboratory and Cellular,Total lymphocytes,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.34, CI~95%~[-0.22, 0.93], pd = 88.1%, ps = 80.5%, BF~10~ = 0.2",0.34,"[-0.22, 0.93]",0.881,0.805,0.2,12896.3,1
+Laboratory and Cellular,Total lymphocytes,[PCOV NoV] x [Education level: Linear],"$\beta$ = -1.05, CI~95%~[-3.47, 1.29], pd = 80.4%, ps = 78.2%, BF~10~ = 0.6",-1.05,"[-3.47, 1.29]",0.804,0.782,0.6,7667.5,1
+Laboratory and Cellular,Total lymphocytes,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.41, CI~95%~[-1.05, 0.32], pd = 87.8%, ps = 81.3%, BF~10~ = 0.24",-0.41,"[-1.05, 0.32]",0.878,0.813,0.24,16073.2,1
+Laboratory and Cellular,Total lymphocytes,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.47, CI~95%~[-0.24, 1.18], pd = 89.9%, ps = 84.2%, BF~10~ = 0.27",0.47,"[-0.24, 1.18]",0.899,0.842,0.27,11485.1,1
+Laboratory and Cellular,Total lymphocytes,[PCOV NoV] x [Sex: Female],"$\beta$ = 0.32, CI~95%~[-0.17, 0.84], pd = 89.6%, ps = 80.7%, BF~10~ = 0.19",0.32,"[-0.17, 0.84]",0.896,0.807,0.19,15016,1
+Laboratory and Cellular,Total lymphocytes,[PCOV Severity Score],"$\beta$ = 0.71, CI~95%~[-0.13, 1.59], pd = 94.9%, ps = 92%, BF~10~ = 0.56",0.71,"[-0.13, 1.59]",0.949,0.92,0.56,6917.9,1
+Laboratory and Cellular,Total lymphocytes,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.15, CI~95%~[-0.08, 0.39], pd = 90%, ps = 67.2%, BF~10~ = 0.09",0.15,"[-0.08, 0.39]",0.9,0.672,0.09,14657.6,1
+Laboratory and Cellular,Total lymphocytes,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.52, CI~95%~[-1.16, 0.12], pd = 93.9%, ps = 89.5%, BF~10~ = 0.36",-0.52,"[-1.16, 0.12]",0.939,0.895,0.36,13501.7,1
+Laboratory and Cellular,Total lymphocytes,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.59, CI~95%~[-1.59, 0.47], pd = 87%, ps = 82.3%, BF~10~ = 0.33",-0.59,"[-1.59, 0.47]",0.87,0.823,0.33,13588.4,1
+Laboratory and Cellular,Total lymphocytes,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.69, CI~95%~[-1.23, -0.18], pd = 99.5%, ps = 98.6%, BF~10~ = 2.11",-0.69,"[-1.23, -0.18]",0.995,0.986,2.11,12262.1,1
+Laboratory and Cellular,Total lymphocytes,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.33, CI~95%~[-0.36, 1.04], pd = 82.2%, ps = 74.3%, BF~10~ = 0.19",0.33,"[-0.36, 1.04]",0.822,0.743,0.19,12732.1,1
+Laboratory and Cellular,Total lymphocytes,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.9, CI~95%~[-1.71, -0.07], pd = 98.4%, ps = 97.2%, BF~10~ = 1.38",-0.9,"[-1.71, -0.07]",0.984,0.972,1.38,13056.8,1
+Laboratory and Cellular,Total lymphocytes,[Sex: Female],"$\beta$ = -0.25, CI~95%~[-0.69, 0.19], pd = 86.6%, ps = 75%, BF~10~ = 0.14",-0.25,"[-0.69, 0.19]",0.866,0.75,0.14,12781.1,1
+Laboratory and Cellular,Transaminases,[Age],"$\beta$ = 0.27, CI~95%~[0.05, 0.52], pd = 98.9%, ps = 93%, BF~10~ = 0.55",0.27,"[0.05, 0.52]",0.989,0.93,0.55,9496.7,1
+Laboratory and Cellular,Transaminases,[Education level: Cubic],"$\beta$ = 0.91, CI~95%~[-1.1, 2.93], pd = 80.8%, ps = 78%, BF~10~ = 0.51",0.91,"[-1.1, 2.93]",0.808,0.78,0.51,8621.1,1
+Laboratory and Cellular,Transaminases,[Education level: Linear],"$\beta$ = 1.66, CI~95%~[-0.76, 4.01], pd = 91.3%, ps = 89.8%, BF~10~ = 1.03",1.66,"[-0.76, 4.01]",0.913,0.898,1.03,9012.1,1
+Laboratory and Cellular,Transaminases,[Education level: Quadratic],"$\beta$ = -1.24, CI~95%~[-3.45, 1.07], pd = 86.6%, ps = 84.6%, BF~10~ = 0.68",-1.24,"[-3.45, 1.07]",0.866,0.846,0.68,8769,1
+Laboratory and Cellular,Transaminases,[PCOV NoS],"$\beta$ = -0.51, CI~95%~[-1.44, 0.4], pd = 85.9%, ps = 80.5%, BF~10~ = 0.27",-0.51,"[-1.44, 0.4]",0.859,0.805,0.27,8420.5,1
+Laboratory and Cellular,Transaminases,[PCOV NoS] x [Age],"$\beta$ = -0.33, CI~95%~[-0.65, -0.02], pd = 97.9%, ps = 92.4%, BF~10~ = 0.43",-0.33,"[-0.65, -0.02]",0.979,0.924,0.43,9540,1
+Laboratory and Cellular,Transaminases,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.11, CI~95%~[-0.1, 0.31], pd = 84.3%, ps = 52.1%, BF~10~ = 0.06",0.11,"[-0.1, 0.31]",0.843,0.521,0.06,11494.4,1
+Laboratory and Cellular,Transaminases,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.44, CI~95%~[-0.21, 1.09], pd = 90.3%, ps = 83.9%, BF~10~ = 0.26",0.44,"[-0.21, 1.09]",0.903,0.839,0.26,11286.7,1
+Laboratory and Cellular,Transaminases,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.46, CI~95%~[-0.21, 1.13], pd = 91.1%, ps = 85.7%, BF~10~ = 0.3",0.46,"[-0.21, 1.13]",0.911,0.857,0.3,9257.7,1
+Laboratory and Cellular,Transaminases,[PCOV NoV] x [Education level: Cubic],"$\beta$ = -2.76, CI~95%~[-4.77, -0.69], pd = 99.6%, ps = 99.5%, BF~10~ = 10.34",-2.76,"[-4.77, -0.69]",0.996,0.995,10.34,8797.8,1
+Laboratory and Cellular,Transaminases,[PCOV NoV] x [Education level: Linear],"$\beta$ = -2.89, CI~95%~[-5.21, -0.73], pd = 99.4%, ps = 99.1%, BF~10~ = 7.8",-2.89,"[-5.21, -0.73]",0.994,0.991,7.8,7976.9,1
+Laboratory and Cellular,Transaminases,[PCOV NoV] x [Education level: Quadratic],"$\beta$ = 3.3, CI~95%~[0.64, 5.81], pd = 99.2%, ps = 99.1%, BF~10~ = 10.46",3.3,"[0.64, 5.81]",0.992,0.991,10.46,8922.8,1
+Laboratory and Cellular,Transaminases,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.33, CI~95%~[-0.29, 0.93], pd = 86.3%, ps = 77.4%, BF~10~ = 0.18",0.33,"[-0.29, 0.93]",0.863,0.774,0.18,12750.4,1
+Laboratory and Cellular,Transaminases,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.48, CI~95%~[-1.06, 0.1], pd = 94.7%, ps = 89.8%, BF~10~ = 0.37",-0.48,"[-1.06, 0.1]",0.947,0.898,0.37,9944.5,1
+Laboratory and Cellular,Transaminases,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.36, CI~95%~[-0.39, 1.09], pd = 83.2%, ps = 75.9%, BF~10~ = 0.21",0.36,"[-0.39, 1.09]",0.832,0.759,0.21,10005.7,1
+Laboratory and Cellular,Transaminases,[PCOV Severity Score],"$\beta$ = 0.89, CI~95%~[0.09, 1.74], pd = 98.2%, ps = 96.9%, BF~10~ = 1.23",0.89,"[0.09, 1.74]",0.982,0.969,1.23,8013.3,1
+Laboratory and Cellular,Transaminases,[PCOV Severity Score] x [Age],"$\beta$ = 0.38, CI~95%~[0.09, 0.69], pd = 99.3%, ps = 96.6%, BF~10~ = 1.01",0.38,"[0.09, 0.69]",0.993,0.966,1.01,9483.4,1
+Laboratory and Cellular,Transaminases,[PCOV Severity Score] x [Education level: Cubic],"$\beta$ = -0.87, CI~95%~[-2.73, 1.1], pd = 81.7%, ps = 78.8%, BF~10~ = 0.49",-0.87,"[-2.73, 1.1]",0.817,0.788,0.49,8616.6,1
+Laboratory and Cellular,Transaminases,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = -2.95, CI~95%~[-5.32, -0.49], pd = 99%, ps = 98.8%, BF~10~ = 6.89",-2.95,"[-5.32, -0.49]",0.99,0.988,6.89,7720.4,1
+Laboratory and Cellular,Transaminases,[PCOV Severity Score] x [Education level: Quadratic],"$\beta$ = 2.12, CI~95%~[0.08, 3.95], pd = 98.2%, ps = 97.8%, BF~10~ = 3.15",2.12,"[0.08, 3.95]",0.982,0.978,3.15,8974.4,1
+Laboratory and Cellular,Transaminases,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.54, CI~95%~[-1.16, 0.08], pd = 95.6%, ps = 91.9%, BF~10~ = 0.45",-0.54,"[-1.16, 0.08]",0.956,0.919,0.45,10527.5,1
+Laboratory and Cellular,Transaminases,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.28, CI~95%~[-0.8, 0.25], pd = 85.4%, ps = 76%, BF~10~ = 0.16",-0.28,"[-0.8, 0.25]",0.854,0.76,0.16,9576.8,1
+Laboratory and Cellular,Transaminases,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.28, CI~95%~[-0.19, 0.73], pd = 87.7%, ps = 77.1%, BF~10~ = 0.16",0.28,"[-0.19, 0.73]",0.877,0.771,0.16,10633.3,1
+Laboratory and Cellular,Transaminases,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.38, CI~95%~[-0.88, 0.09], pd = 93.7%, ps = 86.8%, BF~10~ = 0.26",-0.38,"[-0.88, 0.09]",0.937,0.868,0.26,11038.5,1
+Laboratory and Cellular,Transaminases,[Pathologies: Obesity (Yes)],"$\beta$ = 0.51, CI~95%~[-0.22, 1.33], pd = 90.4%, ps = 85.5%, BF~10~ = 0.32",0.51,"[-0.22, 1.33]",0.904,0.855,0.32,11247.3,1
+Laboratory and Cellular,Transaminases,[Sex: Female],"$\beta$ = -0.3, CI~95%~[-0.69, 0.11], pd = 92.6%, ps = 83.4%, BF~10~ = 0.2",-0.3,"[-0.69, 0.11]",0.926,0.834,0.2,11850.1,1
+Laboratory and Cellular,Triglycerides,[Age],"$\beta$ = 0.19, CI~95%~[-0.07, 0.44], pd = 92.2%, ps = 75%, BF~10~ = 0.12",0.19,"[-0.07, 0.44]",0.922,0.75,0.12,10287.9,1
+Laboratory and Cellular,Triglycerides,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.43, CI~95%~[-1.1, 0.27], pd = 89%, ps = 82.4%, BF~10~ = 0.24",-0.43,"[-1.1, 0.27]",0.89,0.824,0.24,11870.8,1
+Laboratory and Cellular,Triglycerides,[PCOV NoV],"$\beta$ = -0.48, CI~95%~[-1.59, 0.62], pd = 80.3%, ps = 74.8%, BF~10~ = 0.26",-0.48,"[-1.59, 0.62]",0.803,0.748,0.26,6794.7,1
+Laboratory and Cellular,Triglycerides,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.35, CI~95%~[-0.36, 0.98], pd = 83.5%, ps = 75.8%, BF~10~ = 0.19",0.35,"[-0.36, 0.98]",0.835,0.758,0.19,16580.1,1
+Laboratory and Cellular,Triglycerides,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.55, CI~95%~[-0.09, 1.19], pd = 95.4%, ps = 92%, BF~10~ = 0.48",0.55,"[-0.09, 1.19]",0.954,0.92,0.48,12442.9,1
+Laboratory and Cellular,Triglycerides,[PCOV Severity Score],"$\beta$ = -0.45, CI~95%~[-1.27, 0.42], pd = 84.4%, ps = 78.2%, BF~10~ = 0.24",-0.45,"[-1.27, 0.42]",0.844,0.782,0.24,7389.6,1
+Laboratory and Cellular,Triglycerides,[PCOV Severity Score] x [Education level: Quadratic],"$\beta$ = 1.3, CI~95%~[-0.69, 3.38], pd = 89.3%, ps = 87.4%, BF~10~ = 0.73",1.3,"[-0.69, 3.38]",0.893,0.874,0.73,7674,1
+Laboratory and Cellular,Triglycerides,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.19, CI~95%~[-0.41, 0.05], pd = 94.6%, ps = 77.8%, BF~10~ = 0.14",-0.19,"[-0.41, 0.05]",0.946,0.778,0.14,15253.1,1
+Laboratory and Cellular,Triglycerides,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.37, CI~95%~[-1, 0.27], pd = 87.3%, ps = 79.6%, BF~10~ = 0.21",-0.37,"[-1, 0.27]",0.873,0.796,0.21,14841.1,1
+Laboratory and Cellular,Triglycerides,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.27, CI~95%~[-0.31, 0.86], pd = 81.4%, ps = 71.6%, BF~10~ = 0.15",0.27,"[-0.31, 0.86]",0.814,0.716,0.15,10639.5,1
+Laboratory and Cellular,Triglycerides,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 1.55, CI~95%~[0.51, 2.56], pd = 99.8%, ps = 99.7%, BF~10~ = 12.18",1.55,"[0.51, 2.56]",0.998,0.997,12.18,13616.3,1
+Laboratory and Cellular,Triglycerides,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.38, CI~95%~[-0.15, 0.9], pd = 92.1%, ps = 85.2%, BF~10~ = 0.25",0.38,"[-0.15, 0.9]",0.921,0.852,0.25,11294.7,1
+Laboratory and Cellular,Triglycerides,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.76, CI~95%~[-0.05, 1.56], pd = 96.8%, ps = 94.6%, BF~10~ = 0.75",0.76,"[-0.05, 1.56]",0.968,0.946,0.75,13316.2,1
+Laboratory and Cellular,Triglycerides,[Pathologies: Obesity (Yes)],"$\beta$ = 0.7, CI~95%~[-0.16, 1.57], pd = 94.1%, ps = 90.6%, BF~10~ = 0.47",0.7,"[-0.16, 1.57]",0.941,0.906,0.47,12923.6,1
+Laboratory and Cellular,Urea,[Age],"$\beta$ = 0.25, CI~95%~[0.02, 0.47], pd = 98.4%, ps = 90.1%, BF~10~ = 0.37",0.25,"[0.02, 0.47]",0.984,0.901,0.37,8225.2,1
+Laboratory and Cellular,Urea,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.31, CI~95%~[-0.97, 0.36], pd = 82%, ps = 73.4%, BF~10~ = 0.17",-0.31,"[-0.97, 0.36]",0.82,0.734,0.17,9938.3,1
+Laboratory and Cellular,Urea,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.32, CI~95%~[-0.97, 0.32], pd = 83%, ps = 74.6%, BF~10~ = 0.18",-0.32,"[-0.97, 0.32]",0.83,0.746,0.18,9286.7,1
+Laboratory and Cellular,Urea,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.54, CI~95%~[-0.22, 1.29], pd = 91.8%, ps = 87%, BF~10~ = 0.33",0.54,"[-0.22, 1.29]",0.918,0.87,0.33,9231.8,1
+Laboratory and Cellular,Urea,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.29, CI~95%~[-0.23, 0.8], pd = 86.6%, ps = 77.3%, BF~10~ = 0.17",0.29,"[-0.23, 0.8]",0.866,0.773,0.17,8341.4,1
+Laboratory and Cellular,Urea,[PCOV NoV],"$\beta$ = 0.53, CI~95%~[-0.49, 1.6], pd = 84.4%, ps = 79.4%, BF~10~ = 0.3",0.53,"[-0.49, 1.6]",0.844,0.794,0.3,6702.9,1
+Laboratory and Cellular,Urea,[PCOV NoV] x [Fatigue scale],"$\beta$ = -0.28, CI~95%~[-0.5, -0.06], pd = 99.4%, ps = 94.4%, BF~10~ = 0.79",-0.28,"[-0.5, -0.06]",0.994,0.944,0.79,11839.1,1
+Laboratory and Cellular,Urea,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.36, CI~95%~[-0.4, 1.1], pd = 82.3%, ps = 74.9%, BF~10~ = 0.2",0.36,"[-0.4, 1.1]",0.823,0.749,0.2,9203.7,1
+Laboratory and Cellular,Urea,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.26, CI~95%~[-0.72, 0.2], pd = 86.7%, ps = 75.4%, BF~10~ = 0.14",-0.26,"[-0.72, 0.2]",0.867,0.754,0.14,13406.2,1
+Laboratory and Cellular,Urea,[PCOV Severity Score],"$\beta$ = -0.38, CI~95%~[-1.21, 0.43], pd = 82%, ps = 75.2%, BF~10~ = 0.21",-0.38,"[-1.21, 0.43]",0.82,0.752,0.21,6462.4,1
+Laboratory and Cellular,Urea,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = 1.06, CI~95%~[-1.45, 3.38], pd = 80.6%, ps = 78.4%, BF~10~ = 0.6",1.06,"[-1.45, 3.38]",0.806,0.784,0.6,6354.3,1
+Laboratory and Cellular,Urea,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.12, CI~95%~[-0.34, 0.08], pd = 87.3%, ps = 59.2%, BF~10~ = 0.07",-0.12,"[-0.34, 0.08]",0.873,0.592,0.07,10524.6,1
+Laboratory and Cellular,Urea,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.66, CI~95%~[0.03, 1.29], pd = 97.8%, ps = 95.6%, BF~10~ = 0.81",0.66,"[0.03, 1.29]",0.978,0.956,0.81,10148.2,1
+Laboratory and Cellular,Urea,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.41, CI~95%~[-0.17, 0.99], pd = 91.6%, ps = 85.5%, BF~10~ = 0.26",0.41,"[-0.17, 0.99]",0.916,0.855,0.26,10556.5,1
+Laboratory and Cellular,Urea,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.45, CI~95%~[-1.34, 0.48], pd = 82.8%, ps = 76.8%, BF~10~ = 0.25",-0.45,"[-1.34, 0.48]",0.828,0.768,0.25,11173.6,1
+Laboratory and Cellular,Urea,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.99, CI~95%~[0.37, 1.65], pd = 99.9%, ps = 99.6%, BF~10~ = 9.01",0.99,"[0.37, 1.65]",0.999,0.996,9.01,9175.6,1
+Laboratory and Cellular,Urea,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.63, CI~95%~[-0.13, 1.37], pd = 94.7%, ps = 91.8%, BF~10~ = 0.52",0.63,"[-0.13, 1.37]",0.947,0.918,0.52,9230.8,1
+Laboratory and Cellular,Urea,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.35, CI~95%~[-0.18, 0.8], pd = 91.8%, ps = 84.2%, BF~10~ = 0.22",0.35,"[-0.18, 0.8]",0.918,0.842,0.22,10154.7,1
+Laboratory and Cellular,Urea,[Pathologies: Obesity (Yes)],"$\beta$ = -0.81, CI~95%~[-1.58, -0.02], pd = 98%, ps = 96.3%, BF~10~ = 1",-0.81,"[-1.58, -0.02]",0.98,0.963,1,9830.4,1
+Laboratory and Cellular,Urea,[Sex: Female],"$\beta$ = -0.56, CI~95%~[-0.96, -0.16], pd = 99.6%, ps = 98.7%, BF~10~ = 2.65",-0.56,"[-0.96, -0.16]",0.996,0.987,2.65,10200.4,1
+Laboratory and Cellular,Uric Acid,[Fatigue scale],"$\beta$ = 0.15, CI~95%~[-0.04, 0.35], pd = 93.5%, ps = 69.1%, BF~10~ = 0.1",0.15,"[-0.04, 0.35]",0.935,0.691,0.1,16170.5,1
+Laboratory and Cellular,Uric Acid,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.54, CI~95%~[-1.26, 0.11], pd = 93.9%, ps = 89.4%, BF~10~ = 0.37",-0.54,"[-1.26, 0.11]",0.939,0.894,0.37,13431.8,1
+Laboratory and Cellular,Uric Acid,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.36, CI~95%~[-1.04, 0.3], pd = 85.2%, ps = 77%, BF~10~ = 0.19",-0.36,"[-1.04, 0.3]",0.852,0.77,0.19,13334.9,1
+Laboratory and Cellular,Uric Acid,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.33, CI~95%~[-0.24, 0.9], pd = 87.1%, ps = 79.1%, BF~10~ = 0.19",0.33,"[-0.24, 0.9]",0.871,0.791,0.19,11437.2,1
+Laboratory and Cellular,Uric Acid,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.33, CI~95%~[-0.19, 0.84], pd = 89.4%, ps = 80.9%, BF~10~ = 0.19",0.33,"[-0.19, 0.84]",0.894,0.809,0.19,14379.3,1
+Laboratory and Cellular,Uric Acid,[Sex: Female],"$\beta$ = -1.27, CI~95%~[-1.68, -0.83], pd = 100%, ps = 100%, BF~10~ = 8745.53",-1.27,"[-1.68, -0.83]",1,1,8745.53,13200.3,1
+Laboratory and Cellular,Vitamin D,[PCOV NoS] x [Age],"$\beta$ = 0.46, CI~95%~[0.07, 0.86], pd = 98.7%, ps = 96.1%, BF~10~ = 0.83",0.46,"[0.07, 0.86]",0.987,0.961,0.83,12666.7,1
+Laboratory and Cellular,Vitamin D,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.75, CI~95%~[-1.58, 0.09], pd = 95.9%, ps = 93.4%, BF~10~ = 0.62",-0.75,"[-1.58, 0.09]",0.959,0.934,0.62,12811.3,1
+Laboratory and Cellular,Vitamin D,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.29, CI~95%~[-0.37, 0.9], pd = 81.8%, ps = 72.6%, BF~10~ = 0.17",0.29,"[-0.37, 0.9]",0.818,0.726,0.17,11288,1
+Laboratory and Cellular,Vitamin D,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.65, CI~95%~[-1.47, 0.13], pd = 94.2%, ps = 90.8%, BF~10~ = 0.47",-0.65,"[-1.47, 0.13]",0.942,0.908,0.47,12593.3,1.001
+Laboratory and Cellular,Vitamin D,[PCOV Severity Score] x [Age],"$\beta$ = -0.35, CI~95%~[-0.73, 0.03], pd = 96.5%, ps = 90.9%, BF~10~ = 0.36",-0.35,"[-0.73, 0.03]",0.965,0.909,0.36,11317.2,1
+Laboratory and Cellular,Vitamin D,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.45, CI~95%~[-0.24, 1.06], pd = 91.1%, ps = 85.5%, BF~10~ = 0.28",0.45,"[-0.24, 1.06]",0.911,0.855,0.28,11077.8,1
+Laboratory and Cellular,Vitamin D,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.46, CI~95%~[-1.04, 0.11], pd = 94.2%, ps = 89.2%, BF~10~ = 0.32",-0.46,"[-1.04, 0.11]",0.942,0.892,0.32,11840.7,1
+Laboratory and Cellular,Vitamin D,[Pathologies: Diabetes (Yes)],"$\beta$ = -0.66, CI~95%~[-1.43, 0.12], pd = 95%, ps = 92%, BF~10~ = 0.5",-0.66,"[-1.43, 0.12]",0.95,0.92,0.5,14725.8,1
+Laboratory and Cellular,Vitamin D,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.91, CI~95%~[-0.01, 1.83], pd = 97.3%, ps = 95.9%, BF~10~ = 0.99",0.91,"[-0.01, 1.83]",0.973,0.959,0.99,13949.3,1
+Laboratory and Cellular,Vitamin D,[Sex: Female],"$\beta$ = 0.43, CI~95%~[-0.06, 0.94], pd = 95.5%, ps = 90.6%, BF~10~ = 0.36",0.43,"[-0.06, 0.94]",0.955,0.906,0.36,13774.4,1
+Laboratory and Cellular,hemoglobina,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.22, CI~95%~[0.02, 0.4], pd = 98.8%, ps = 89.1%, BF~10~ = 0.41",0.22,"[0.02, 0.4]",0.988,0.891,0.41,12047.6,1
+Laboratory and Cellular,hemoglobina,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.33, CI~95%~[-0.87, 0.25], pd = 88%, ps = 79%, BF~10~ = 0.18",-0.33,"[-0.87, 0.25]",0.88,0.79,0.18,8430.6,1
+Laboratory and Cellular,hemoglobina,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.35, CI~95%~[-1, 0.32], pd = 84.9%, ps = 77.2%, BF~10~ = 0.2",-0.35,"[-1, 0.32]",0.849,0.772,0.2,10030,1
+Laboratory and Cellular,hemoglobina,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = -1.14, CI~95%~[-3.56, 1.16], pd = 82.5%, ps = 80.1%, BF~10~ = 0.62",-1.14,"[-3.56, 1.16]",0.825,0.801,0.62,6319.9,1
+Laboratory and Cellular,hemoglobina,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.61, CI~95%~[-1.16, -0.03], pd = 98.4%, ps = 96.1%, BF~10~ = 0.86",-0.61,"[-1.16, -0.03]",0.984,0.961,0.86,10462.8,1
+Laboratory and Cellular,hemoglobina,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.82, CI~95%~[-0.06, 1.6], pd = 97.3%, ps = 95.6%, BF~10~ = 0.9",0.82,"[-0.06, 1.6]",0.973,0.956,0.9,12008.9,1
+Laboratory and Cellular,hemoglobina,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.21, CI~95%~[-0.64, 0.24], pd = 82.9%, ps = 69.3%, BF~10~ = 0.12",-0.21,"[-0.64, 0.24]",0.829,0.693,0.12,10193.3,1
+Laboratory and Cellular,hemoglobina,[Sex: Female],"$\beta$ = -1.39, CI~95%~[-1.77, -1.03], pd = 100%, ps = 100%, BF~10~ = 7900.2",-1.39,"[-1.77, -1.03]",1,1,7900.2,11021.4,1
+Laboratory and Cellular,lymphocytes,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.26, CI~95%~[-0.52, -0.03], pd = 98.3%, ps = 90.6%, BF~10~ = 0.39",-0.26,"[-0.52, -0.03]",0.983,0.906,0.39,12655.3,1
+Laboratory and Cellular,lymphocytes,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.38, CI~95%~[-0.42, 1.14], pd = 82.6%, ps = 75.8%, BF~10~ = 0.21",0.38,"[-0.42, 1.14]",0.826,0.758,0.21,13246.4,1.001
+Laboratory and Cellular,lymphocytes,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.48, CI~95%~[-1.3, 0.34], pd = 87.2%, ps = 81.2%, BF~10~ = 0.26",-0.48,"[-1.3, 0.34]",0.872,0.812,0.26,12406.9,1
+Laboratory and Cellular,lymphocytes,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.35, CI~95%~[-0.25, 0.98], pd = 87.7%, ps = 79.6%, BF~10~ = 0.2",0.35,"[-0.25, 0.98]",0.877,0.796,0.2,13707.6,1
+Laboratory and Cellular,lymphocytes,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.42, CI~95%~[-0.39, 1.2], pd = 85.7%, ps = 79%, BF~10~ = 0.23",0.42,"[-0.39, 1.2]",0.857,0.79,0.23,12255.8,1
+Laboratory and Cellular,lymphocytes,[PCOV NoV] x [Sex: Female],"$\beta$ = 0.27, CI~95%~[-0.28, 0.82], pd = 83.5%, ps = 73.4%, BF~10~ = 0.15",0.27,"[-0.28, 0.82]",0.835,0.734,0.15,13668.6,1
+Laboratory and Cellular,lymphocytes,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.14, CI~95%~[-0.1, 0.39], pd = 87.4%, ps = 63.6%, BF~10~ = 0.08",0.14,"[-0.1, 0.39]",0.874,0.636,0.08,13743.7,1
+Laboratory and Cellular,lymphocytes,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.38, CI~95%~[-0.93, 0.18], pd = 91.1%, ps = 84.3%, BF~10~ = 0.23",-0.38,"[-0.93, 0.18]",0.911,0.843,0.23,12991,1
+Laboratory and Cellular,lymphocytes,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.49, CI~95%~[-1.39, 0.39], pd = 86%, ps = 81.1%, BF~10~ = 0.29",-0.49,"[-1.39, 0.39]",0.86,0.811,0.29,12755.9,1
+Laboratory and Cellular,lymphocytes,[Pathologies: Obesity (Yes)],"$\beta$ = -0.55, CI~95%~[-1.46, 0.47], pd = 86.7%, ps = 81.8%, BF~10~ = 0.3",-0.55,"[-1.46, 0.47]",0.867,0.818,0.3,12128.1,1
+Physical and Functional,BAI score,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.08, CI~95%~[-0.05, 0.22], pd = 89.5%, ps = 40.4%, BF~10~ = 0.05",0.08,"[-0.05, 0.22]",0.895,0.404,0.05,11180.1,1
+Physical and Functional,BAI score,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.14, CI~95%~[0, 0.29], pd = 97.7%, ps = 73.4%, BF~10~ = 0.18",0.14,"[0, 0.29]",0.977,0.734,0.18,12447.6,1
+Physical and Functional,BDI score,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.09, CI~95%~[-0.21, 0.03], pd = 92.4%, ps = 40.7%, BF~10~ = 0.05",-0.09,"[-0.21, 0.03]",0.924,0.407,0.05,11716.6,1
+Physical and Functional,BDI score,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.17, CI~95%~[0.06, 0.3], pd = 99.7%, ps = 88%, BF~10~ = 0.84",0.17,"[0.06, 0.3]",0.997,0.88,0.84,12679.8,1
+Physical and Functional,BMI,[Education level: Linear],"$\beta$ = -1.12, CI~95%~[-3.55, 1.17], pd = 81.6%, ps = 79.2%, BF~10~ = 0.6",-1.12,"[-3.55, 1.17]",0.816,0.792,0.6,9192.1,1
+Physical and Functional,BMI,[PCOV NoS],"$\beta$ = 0.6, CI~95%~[-0.31, 1.51], pd = 90.3%, ps = 86.3%, BF~10~ = 0.36",0.6,"[-0.31, 1.51]",0.903,0.863,0.36,7795.7,1
+Physical and Functional,BMI,[PCOV NoS] x [Age],"$\beta$ = -0.31, CI~95%~[-0.63, 0.01], pd = 97%, ps = 90%, BF~10~ = 0.32",-0.31,"[-0.63, 0.01]",0.97,0.9,0.32,7882.5,1
+Physical and Functional,BMI,[PCOV NoS] x [Education level: Cubic],"$\beta$ = 1.69, CI~95%~[-0.42, 4.01], pd = 93.6%, ps = 92.3%, BF~10~ = 1.13",1.69,"[-0.42, 4.01]",0.936,0.923,1.13,7746.4,1
+Physical and Functional,BMI,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.09, CI~95%~[-0.29, 0.12], pd = 80%, ps = 45.4%, BF~10~ = 0.05",-0.09,"[-0.29, 0.12]",0.8,0.454,0.05,9769.3,1
+Physical and Functional,BMI,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.66, CI~95%~[-0.03, 1.33], pd = 97.1%, ps = 94.9%, BF~10~ = 0.7",0.66,"[-0.03, 1.33]",0.971,0.949,0.7,8646.5,1
+Physical and Functional,BMI,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.38, CI~95%~[-1.15, 0.38], pd = 82.9%, ps = 75.7%, BF~10~ = 0.21",-0.38,"[-1.15, 0.38]",0.829,0.757,0.21,9432.2,1
+Physical and Functional,BMI,[PCOV NoV],"$\beta$ = -0.53, CI~95%~[-1.55, 0.56], pd = 83.5%, ps = 78.4%, BF~10~ = 0.28",-0.53,"[-1.55, 0.56]",0.835,0.784,0.28,7154.1,1
+Physical and Functional,BMI,[PCOV NoV] x [Education level: Linear],"$\beta$ = 1.07, CI~95%~[-1.14, 3.25], pd = 82.9%, ps = 80.5%, BF~10~ = 0.6",1.07,"[-1.14, 3.25]",0.829,0.805,0.6,8505.5,1
+Physical and Functional,BMI,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.26, CI~95%~[0.04, 0.48], pd = 99%, ps = 91.9%, BF~10~ = 0.5",0.26,"[0.04, 0.48]",0.99,0.919,0.5,10516,1
+Physical and Functional,BMI,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.89, CI~95%~[0.26, 1.5], pd = 99.7%, ps = 99.4%, BF~10~ = 7.5",0.89,"[0.26, 1.5]",0.997,0.994,7.5,11038.1,1
+Physical and Functional,BMI,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.42, CI~95%~[-0.21, 1.08], pd = 90.2%, ps = 83.8%, BF~10~ = 0.25",0.42,"[-0.21, 1.08]",0.902,0.838,0.25,9004.1,1
+Physical and Functional,BMI,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.45, CI~95%~[-1.04, 0.12], pd = 93.8%, ps = 88.5%, BF~10~ = 0.31",-0.45,"[-1.04, 0.12]",0.938,0.885,0.31,9136.2,1
+Physical and Functional,BMI,[PCOV Severity Score],"$\beta$ = -0.82, CI~95%~[-1.6, 0.05], pd = 97.2%, ps = 95.2%, BF~10~ = 0.84",-0.82,"[-1.6, 0.05]",0.972,0.952,0.84,7506.4,1.001
+Physical and Functional,BMI,[PCOV Severity Score] x [Age],"$\beta$ = 0.3, CI~95%~[-0.02, 0.59], pd = 96.9%, ps = 89.7%, BF~10~ = 0.33",0.3,"[-0.02, 0.59]",0.969,0.897,0.33,7647.7,1
+Physical and Functional,BMI,[PCOV Severity Score] x [Education level: Cubic],"$\beta$ = -1.55, CI~95%~[-3.5, 0.25], pd = 94.6%, ps = 93.3%, BF~10~ = 1.1",-1.55,"[-3.5, 0.25]",0.946,0.933,1.1,8145.4,1
+Physical and Functional,BMI,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = 1.31, CI~95%~[-1.11, 3.63], pd = 85.6%, ps = 83.7%, BF~10~ = 0.73",1.31,"[-1.11, 3.63]",0.856,0.837,0.73,7496.3,1
+Physical and Functional,BMI,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.19, CI~95%~[-0.02, 0.4], pd = 96.2%, ps = 79.8%, BF~10~ = 0.17",0.19,"[-0.02, 0.4]",0.962,0.798,0.17,10209,1
+Physical and Functional,BMI,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.91, CI~95%~[-0.04, 1.81], pd = 97.4%, ps = 95.6%, BF~10~ = 1",0.91,"[-0.04, 1.81]",0.974,0.956,1,10566.8,1
+Physical and Functional,BMI,[Pathologies: Diabetes (Yes)],"$\beta$ = -0.49, CI~95%~[-1.13, 0.12], pd = 93.5%, ps = 89%, BF~10~ = 0.33",-0.49,"[-1.13, 0.12]",0.935,0.89,0.33,10278.6,1
+Physical and Functional,BMI,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.62, CI~95%~[-1.4, 0.09], pd = 94.9%, ps = 91.5%, BF~10~ = 0.49",-0.62,"[-1.4, 0.09]",0.949,0.915,0.49,9589,1
+Physical and Functional,BMI,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.37, CI~95%~[-0.11, 0.85], pd = 93.6%, ps = 86.6%, BF~10~ = 0.26",0.37,"[-0.11, 0.85]",0.936,0.866,0.26,10366.7,1
+Physical and Functional,BMI,[Pathologies: Obesity (Yes)],"$\beta$ = 1.55, CI~95%~[0.76, 2.33], pd = 100%, ps = 100%, BF~10~ = 286.72",1.55,"[0.76, 2.33]",1,1,286.72,9759.7,1
+Physical and Functional,BMI,[Sex: Female],"$\beta$ = 0.2, CI~95%~[-0.19, 0.62], pd = 84.6%, ps = 69.9%, BF~10~ = 0.12",0.2,"[-0.19, 0.62]",0.846,0.699,0.12,10027.8,1
+Physical and Functional,FEV1,[Age],"$\beta$ = -0.54, CI~95%~[-0.97, -0.07], pd = 98.9%, ps = 97.1%, BF~10~ = 1.13",-0.54,"[-0.97, -0.07]",0.989,0.971,1.13,3022,1.001
+Physical and Functional,FEV1,[Fatigue scale],"$\beta$ = -0.3, CI~95%~[-0.62, 0.02], pd = 97.1%, ps = 90%, BF~10~ = 0.31",-0.3,"[-0.62, 0.02]",0.971,0.9,0.31,3994.8,1
+Physical and Functional,FEV1,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.21, CI~95%~[-0.09, 0.48], pd = 92.4%, ps = 77.5%, BF~10~ = 0.14",0.21,"[-0.09, 0.48]",0.924,0.775,0.14,4398.2,1
+Physical and Functional,FEV1,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.77, CI~95%~[-2.33, 0.75], pd = 84.1%, ps = 80.9%, BF~10~ = 0.44",-0.77,"[-2.33, 0.75]",0.841,0.809,0.44,3120.7,1
+Physical and Functional,FEV1,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.55, CI~95%~[-1.66, 0.59], pd = 83.2%, ps = 78.3%, BF~10~ = 0.3",-0.55,"[-1.66, 0.59]",0.832,0.783,0.3,3764.9,1
+Physical and Functional,FEV1,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.67, CI~95%~[-0.15, 1.41], pd = 94.9%, ps = 91.9%, BF~10~ = 0.55",0.67,"[-0.15, 1.41]",0.949,0.919,0.55,3853.2,1
+Physical and Functional,FEV1,[PCOV NoV] x [Sex: Female],"$\beta$ = 0.35, CI~95%~[-0.36, 1.11], pd = 82.7%, ps = 75.1%, BF~10~ = 0.2",0.35,"[-0.36, 1.11]",0.827,0.751,0.2,2892.1,1
+Physical and Functional,FEV1,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.37, CI~95%~[-1.11, 0.47], pd = 82%, ps = 75%, BF~10~ = 0.21",-0.37,"[-1.11, 0.47]",0.82,0.75,0.21,4323.1,1
+Physical and Functional,FEV1,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 1.15, CI~95%~[-1.02, 3.51], pd = 83.7%, ps = 81.3%, BF~10~ = 0.6",1.15,"[-1.02, 3.51]",0.837,0.813,0.6,3113.8,1
+Physical and Functional,FEV1,[Sex: Female],"$\beta$ = -1.88, CI~95%~[-2.59, -1.12], pd = 100%, ps = 100%, BF~10~ = 379.81",-1.88,"[-2.59, -1.12]",1,1,379.81,2862.1,1.001
+Physical and Functional,FVC,[Age],"$\beta$ = -0.4, CI~95%~[-0.85, 0.07], pd = 95.5%, ps = 90%, BF~10~ = 0.31",-0.4,"[-0.85, 0.07]",0.955,0.9,0.31,3177.5,1.001
+Physical and Functional,FVC,[Fatigue scale],"$\beta$ = -0.25, CI~95%~[-0.58, 0.07], pd = 93.6%, ps = 82.1%, BF~10~ = 0.17",-0.25,"[-0.58, 0.07]",0.936,0.821,0.17,4510.4,1
+Physical and Functional,FVC,[PCOV NoS],"$\beta$ = -0.81, CI~95%~[-2.41, 0.75], pd = 84.7%, ps = 81.6%, BF~10~ = 0.45",-0.81,"[-2.41, 0.75]",0.847,0.816,0.45,10917.3,1
+Physical and Functional,FVC,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.18, CI~95%~[-0.11, 0.47], pd = 88.9%, ps = 71.5%, BF~10~ = 0.11",0.18,"[-0.11, 0.47]",0.889,0.715,0.11,5023.7,1
+Physical and Functional,FVC,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.97, CI~95%~[-2.64, 0.73], pd = 86.9%, ps = 84.4%, BF~10~ = 0.55",-0.97,"[-2.64, 0.73]",0.869,0.844,0.55,3065.1,1
+Physical and Functional,FVC,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.92, CI~95%~[0.1, 1.75], pd = 98%, ps = 97%, BF~10~ = 1.44",0.92,"[0.1, 1.75]",0.98,0.97,1.44,3986.4,1
+Physical and Functional,FVC,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.36, CI~95%~[-0.32, 0.98], pd = 85.9%, ps = 78.2%, BF~10~ = 0.21",0.36,"[-0.32, 0.98]",0.859,0.782,0.21,7955.4,1
+Physical and Functional,FVC,[PCOV NoV] x [Sex: Female],"$\beta$ = 0.37, CI~95%~[-0.42, 1.13], pd = 82.5%, ps = 75.3%, BF~10~ = 0.21",0.37,"[-0.42, 1.13]",0.825,0.753,0.21,2958.7,1.001
+Physical and Functional,FVC,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.62, CI~95%~[-1.4, 0.26], pd = 92.3%, ps = 88.7%, BF~10~ = 0.44",-0.62,"[-1.4, 0.26]",0.923,0.887,0.44,4516.9,1
+Physical and Functional,FVC,[Pathologies: Diabetes (Yes)],"$\beta$ = -0.36, CI~95%~[-1.2, 0.47], pd = 80.5%, ps = 73.6%, BF~10~ = 0.21",-0.36,"[-1.2, 0.47]",0.805,0.736,0.21,5078.6,1.001
+Physical and Functional,FVC,[Pathologies: Obesity (Yes)],"$\beta$ = 0.51, CI~95%~[-0.48, 1.44], pd = 84.7%, ps = 79.9%, BF~10~ = 0.29",0.51,"[-0.48, 1.44]",0.847,0.799,0.29,4957.6,1
+Physical and Functional,FVC,[Sex: Female],"$\beta$ = -2.01, CI~95%~[-2.79, -1.22], pd = 100%, ps = 100%, BF~10~ = 16193.01",-2.01,"[-2.79, -1.22]",1,1,16193.01,3171.8,1.001
+Physical and Functional,Fat mass,[Age],"$\beta$ = 0.12, CI~95%~[-0.13, 0.35], pd = 82.7%, ps = 55.5%, BF~10~ = 0.06",0.12,"[-0.13, 0.35]",0.827,0.555,0.06,9768.2,1
+Physical and Functional,Fat mass,[PCOV NoS],"$\beta$ = 0.51, CI~95%~[-0.38, 1.44], pd = 85.8%, ps = 80.3%, BF~10~ = 0.27",0.51,"[-0.38, 1.44]",0.858,0.803,0.27,8222,1
+Physical and Functional,Fat mass,[PCOV NoS] x [Age],"$\beta$ = -0.2, CI~95%~[-0.52, 0.16], pd = 87.3%, ps = 70.5%, BF~10~ = 0.11",-0.2,"[-0.52, 0.16]",0.873,0.705,0.11,9463.4,1
+Physical and Functional,Fat mass,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.45, CI~95%~[-1.15, 0.22], pd = 90.1%, ps = 84.3%, BF~10~ = 0.27",-0.45,"[-1.15, 0.22]",0.901,0.843,0.27,12141.5,1
+Physical and Functional,Fat mass,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.35, CI~95%~[-1.02, 0.3], pd = 84.7%, ps = 76.8%, BF~10~ = 0.19",-0.35,"[-1.02, 0.3]",0.847,0.768,0.19,11988.7,1
+Physical and Functional,Fat mass,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.35, CI~95%~[-0.45, 1.15], pd = 80.6%, ps = 72.9%, BF~10~ = 0.19",0.35,"[-0.45, 1.15]",0.806,0.729,0.19,11094.6,1
+Physical and Functional,Fat mass,[PCOV NoS] x [Sex: Female],"$\beta$ = -0.37, CI~95%~[-0.92, 0.16], pd = 91.5%, ps = 84.4%, BF~10~ = 0.24",-0.37,"[-0.92, 0.16]",0.915,0.844,0.24,10899.5,1
+Physical and Functional,Fat mass,[PCOV NoV] x [Education level: Cubic],"$\beta$ = 0.92, CI~95%~[-1.16, 2.95], pd = 81.2%, ps = 78.3%, BF~10~ = 0.51",0.92,"[-1.16, 2.95]",0.812,0.783,0.51,9144.3,1
+Physical and Functional,Fat mass,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.39, CI~95%~[-0.22, 0.98], pd = 89.6%, ps = 82.5%, BF~10~ = 0.22",0.39,"[-0.22, 0.98]",0.896,0.825,0.22,9869.5,1.001
+Physical and Functional,Fat mass,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.58, CI~95%~[-1.31, 0.21], pd = 92.8%, ps = 88.6%, BF~10~ = 0.37",-0.58,"[-1.31, 0.21]",0.928,0.886,0.37,11002.9,1
+Physical and Functional,Fat mass,[PCOV Severity Score],"$\beta$ = -0.5, CI~95%~[-1.3, 0.34], pd = 88%, ps = 82.8%, BF~10~ = 0.29",-0.5,"[-1.3, 0.34]",0.88,0.828,0.29,7849.7,1
+Physical and Functional,Fat mass,[PCOV Severity Score] x [Age],"$\beta$ = 0.13, CI~95%~[-0.17, 0.46], pd = 80.1%, ps = 59.2%, BF~10~ = 0.08",0.13,"[-0.17, 0.46]",0.801,0.592,0.08,9241.4,1
+Physical and Functional,Fat mass,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.34, CI~95%~[-0.21, 0.89], pd = 88.5%, ps = 80.4%, BF~10~ = 0.19",0.34,"[-0.21, 0.89]",0.885,0.804,0.19,9585.5,1
+Physical and Functional,Fat mass,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.39, CI~95%~[-0.1, 0.88], pd = 94.3%, ps = 87.9%, BF~10~ = 0.28",0.39,"[-0.1, 0.88]",0.943,0.879,0.28,10550.3,1
+Physical and Functional,Fat mass,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.56, CI~95%~[0.06, 1.07], pd = 98.5%, ps = 96.4%, BF~10~ = 0.93",0.56,"[0.06, 1.07]",0.985,0.964,0.93,11451.2,1
+Physical and Functional,Fat mass,[Pathologies: Obesity (Yes)],"$\beta$ = 0.49, CI~95%~[-0.34, 1.3], pd = 87.6%, ps = 82.1%, BF~10~ = 0.27",0.49,"[-0.34, 1.3]",0.876,0.821,0.27,11954.4,1
+Physical and Functional,Fat mass,[Sex: Female],"$\beta$ = 1.26, CI~95%~[0.82, 1.67], pd = 100%, ps = 100%, BF~10~ = 7493.39",1.26,"[0.82, 1.67]",1,1,7493.39,11381.3,1
+Physical and Functional,Height,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.18, CI~95%~[-0.07, 0.43], pd = 92.2%, ps = 73.3%, BF~10~ = 0.12",0.18,"[-0.07, 0.43]",0.922,0.733,0.12,13699.3,1
+Physical and Functional,Height,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.38, CI~95%~[-1.2, 0.45], pd = 82.6%, ps = 75.5%, BF~10~ = 0.21",-0.38,"[-1.2, 0.45]",0.826,0.755,0.21,13286.9,1
+Physical and Functional,Height,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.53, CI~95%~[-1.46, 0.41], pd = 87.4%, ps = 82.6%, BF~10~ = 0.3",-0.53,"[-1.46, 0.41]",0.874,0.826,0.3,14145.6,1
+Physical and Functional,Height,[PCOV NoS] x [Sex: Female],"$\beta$ = -0.35, CI~95%~[-0.96, 0.26], pd = 87.2%, ps = 78.9%, BF~10~ = 0.2",-0.35,"[-0.96, 0.26]",0.872,0.789,0.2,12480.1,1
+Physical and Functional,Height,[PCOV NoV] x [Age],"$\beta$ = 0.14, CI~95%~[-0.13, 0.38], pd = 85%, ps = 61%, BF~10~ = 0.08",0.14,"[-0.13, 0.38]",0.85,0.61,0.08,15590.2,1
+Physical and Functional,Height,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.4, CI~95%~[-0.23, 1.05], pd = 89.3%, ps = 82.9%, BF~10~ = 0.24",0.4,"[-0.23, 1.05]",0.893,0.829,0.24,12084.5,1
+Physical and Functional,Muscle mass,[Fatigue scale],"$\beta$ = 0.06, CI~95%~[-0.08, 0.19], pd = 80.8%, ps = 26.6%, BF~10~ = 0.03",0.06,"[-0.08, 0.19]",0.808,0.266,0.03,12397.1,1
+Physical and Functional,Muscle mass,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.07, CI~95%~[-0.21, 0.08], pd = 81.4%, ps = 32.6%, BF~10~ = 0.04",-0.07,"[-0.21, 0.08]",0.814,0.326,0.04,11009.5,1
+Physical and Functional,Muscle mass,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.22, CI~95%~[-0.24, 0.72], pd = 81.5%, ps = 68.3%, BF~10~ = 0.12",0.22,"[-0.24, 0.72]",0.815,0.683,0.12,9331.3,1
+Physical and Functional,Muscle mass,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.55, CI~95%~[-1.09, 0.01], pd = 97.2%, ps = 94%, BF~10~ = 0.56",-0.55,"[-1.09, 0.01]",0.972,0.94,0.56,10612.2,1
+Physical and Functional,Muscle mass,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.47, CI~95%~[0.11, 0.84], pd = 99.4%, ps = 97.8%, BF~10~ = 1.39",0.47,"[0.11, 0.84]",0.994,0.978,1.39,9150,1
+Physical and Functional,Muscle mass,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.22, CI~95%~[-0.24, 0.65], pd = 83.3%, ps = 69.7%, BF~10~ = 0.12",0.22,"[-0.24, 0.65]",0.833,0.697,0.12,12373.2,1
+Physical and Functional,Muscle mass,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.24, CI~95%~[-0.71, 0.2], pd = 85%, ps = 73.1%, BF~10~ = 0.13",-0.24,"[-0.71, 0.2]",0.85,0.731,0.13,10024.8,1
+Physical and Functional,Muscle mass,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.25, CI~95%~[-0.57, 0.08], pd = 92.7%, ps = 80.5%, BF~10~ = 0.16",-0.25,"[-0.57, 0.08]",0.927,0.805,0.16,12279.3,1
+Physical and Functional,Muscle mass,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.12, CI~95%~[-0.03, 0.27], pd = 93.8%, ps = 60.9%, BF~10~ = 0.09",0.12,"[-0.03, 0.27]",0.938,0.609,0.09,12136.6,1
+Physical and Functional,Muscle mass,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.22, CI~95%~[-0.7, 0.23], pd = 82.5%, ps = 69.6%, BF~10~ = 0.12",-0.22,"[-0.7, 0.23]",0.825,0.696,0.12,10980,1
+Physical and Functional,Muscle mass,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.98, CI~95%~[0.31, 1.64], pd = 99.8%, ps = 99.6%, BF~10~ = 11.01",0.98,"[0.31, 1.64]",0.998,0.996,11.01,11469.2,1
+Physical and Functional,Muscle mass,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.44, CI~95%~[-0.78, -0.1], pd = 99.3%, ps = 97.3%, BF~10~ = 1.09",-0.44,"[-0.78, -0.1]",0.993,0.973,1.09,9883.2,1
+Physical and Functional,Muscle mass,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.35, CI~95%~[-0.86, 0.19], pd = 90.1%, ps = 82.2%, BF~10~ = 0.2",-0.35,"[-0.86, 0.19]",0.901,0.822,0.2,10788.2,1
+Physical and Functional,Muscle mass,[Pathologies: Obesity (Yes)],"$\beta$ = 0.7, CI~95%~[0.16, 1.27], pd = 99.1%, ps = 98.1%, BF~10~ = 1.86",0.7,"[0.16, 1.27]",0.991,0.981,1.86,10855.8,1
+Physical and Functional,Muscle mass,[Sex: Female],"$\beta$ = -1.7, CI~95%~[-1.97, -1.4], pd = 100%, ps = 100%, BF~10~ = 6141.14",-1.7,"[-1.97, -1.4]",1,1,6141.14,10578,1
+Physical and Functional,PEF 25-75%,[Age],"$\beta$ = -0.38, CI~95%~[-1.04, 0.31], pd = 86.5%, ps = 79%, BF~10~ = 0.21",-0.38,"[-1.04, 0.31]",0.865,0.79,0.21,4329.8,1
+Physical and Functional,PEF 25-75%,[PCOV NoS] x [Age],"$\beta$ = -0.58, CI~95%~[-1.56, 0.43], pd = 87.9%, ps = 82.8%, BF~10~ = 0.31",-0.58,"[-1.56, 0.43]",0.879,0.828,0.31,3244,1
+Physical and Functional,PEF 25-75%,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.22, CI~95%~[-0.2, 0.66], pd = 85.2%, ps = 72.3%, BF~10~ = 0.13",0.22,"[-0.2, 0.66]",0.852,0.723,0.13,5559.7,1.001
+Physical and Functional,PEF 25-75%,[PCOV Severity Score] x [Age],"$\beta$ = 0.52, CI~95%~[-0.42, 1.46], pd = 86.6%, ps = 81.4%, BF~10~ = 0.3",0.52,"[-0.42, 1.46]",0.866,0.814,0.3,3763.6,1
+Physical and Functional,PEF 25-75%,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.56, CI~95%~[-1.83, 0.57], pd = 82.1%, ps = 77.6%, BF~10~ = 0.31",-0.56,"[-1.83, 0.57]",0.821,0.776,0.31,5353.3,1
+Physical and Functional,PEF 25-75%,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.52, CI~95%~[-0.69, 1.67], pd = 81.1%, ps = 76.4%, BF~10~ = 0.3",0.52,"[-0.69, 1.67]",0.811,0.764,0.3,7233.1,1
+Physical and Functional,PEF 25-75%,[Pathologies: Obesity (Yes)],"$\beta$ = -0.8, CI~95%~[-2.16, 0.55], pd = 87.7%, ps = 84.4%, BF~10~ = 0.45",-0.8,"[-2.16, 0.55]",0.877,0.844,0.45,6738,1
+Physical and Functional,PEF 25-75%,[Sex: Female],"$\beta$ = -1.07, CI~95%~[-2.16, 0.04], pd = 97.1%, ps = 95.6%, BF~10~ = 1.12",-1.07,"[-2.16, 0.04]",0.971,0.956,1.12,4515.7,1
+Physical and Functional,PEF max,[Age],"$\beta$ = 0.51, CI~95%~[-0.21, 1.2], pd = 92%, ps = 87.4%, BF~10~ = 0.34",0.51,"[-0.21, 1.2]",0.92,0.874,0.34,4462.2,1
+Physical and Functional,PEF max,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.2, CI~95%~[-0.25, 0.63], pd = 81.7%, ps = 67.1%, BF~10~ = 0.11",0.2,"[-0.25, 0.63]",0.817,0.671,0.11,5792.2,1
+Physical and Functional,PEF max,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = 1.16, CI~95%~[-0.23, 2.62], pd = 94.4%, ps = 93%, BF~10~ = 0.91",1.16,"[-0.23, 2.62]",0.944,0.93,0.91,6739.1,1
+Physical and Functional,PEF max,[PCOV NoV],"$\beta$ = -1.16, CI~95%~[-3.03, 0.66], pd = 89%, ps = 87%, BF~10~ = 0.67",-1.16,"[-3.03, 0.66]",0.89,0.87,0.67,6632,1
+Physical and Functional,PEF max,[PCOV NoV] x [Age],"$\beta$ = -0.54, CI~95%~[-1.41, 0.34], pd = 88.6%, ps = 83.6%, BF~10~ = 0.31",-0.54,"[-1.41, 0.34]",0.886,0.836,0.31,3760.6,1
+Physical and Functional,PEF max,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.65, CI~95%~[-1.57, 0.34], pd = 90.6%, ps = 86.8%, BF~10~ = 0.39",-0.65,"[-1.57, 0.34]",0.906,0.868,0.39,8427.9,1
+Physical and Functional,PEF max,[PCOV NoV] x [Sex: Female],"$\beta$ = 1.72, CI~95%~[0.57, 2.79], pd = 99.7%, ps = 99.6%, BF~10~ = 12.19",1.72,"[0.57, 2.79]",0.997,0.996,12.19,3801.8,1
+Physical and Functional,PEF max,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -1.24, CI~95%~[-2.94, 0.46], pd = 92.3%, ps = 90.7%, BF~10~ = 0.83",-1.24,"[-2.94, 0.46]",0.923,0.907,0.83,5812.6,1
+Physical and Functional,PEF max,[Pathologies: Diabetes (Yes)],"$\beta$ = -0.62, CI~95%~[-1.83, 0.6], pd = 83.8%, ps = 79.7%, BF~10~ = 0.35",-0.62,"[-1.83, 0.6]",0.838,0.797,0.35,6702,1
+Physical and Functional,PEF max,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.76, CI~95%~[-2.19, 0.65], pd = 85.6%, ps = 82.4%, BF~10~ = 0.43",-0.76,"[-2.19, 0.65]",0.856,0.824,0.43,4608,1
+Physical and Functional,PEF max,[Pathologies: Obesity (Yes)],"$\beta$ = 1.26, CI~95%~[-0.18, 2.63], pd = 95.7%, ps = 94.3%, BF~10~ = 1.06",1.26,"[-0.18, 2.63]",0.957,0.943,1.06,6624.3,1
+Physical and Functional,PEF max,[Sex: Female],"$\beta$ = -1.01, CI~95%~[-2.15, 0.14], pd = 95.2%, ps = 93.5%, BF~10~ = 0.85",-1.01,"[-2.15, 0.14]",0.952,0.935,0.85,4780.3,1
+Physical and Functional,Pittsburg score,[Fatigue scale],"$\beta$ = 0.17, CI~95%~[0, 0.37], pd = 96.7%, ps = 77.4%, BF~10~ = 0.16",0.17,"[0, 0.37]",0.967,0.774,0.16,14442.5,1
+Physical and Functional,Pittsburg score,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.12, CI~95%~[-0.11, 0.35], pd = 84.9%, ps = 57.6%, BF~10~ = 0.07",0.12,"[-0.11, 0.35]",0.849,0.576,0.07,12330.8,1
+Physical and Functional,Pittsburg score,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.1, CI~95%~[-0.33, 0.12], pd = 81.3%, ps = 49.6%, BF~10~ = 0.06",-0.1,"[-0.33, 0.12]",0.813,0.496,0.06,14480.7,1
+Physical and Functional,QoL: Caretakers,[Fatigue scale],"$\beta$ = -0.15, CI~95%~[-0.34, 0.06], pd = 91.5%, ps = 66.5%, BF~10~ = 0.09",-0.15,"[-0.34, 0.06]",0.915,0.665,0.09,15197.5,1
+Physical and Functional,QoL: Caretakers,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.21, CI~95%~[-0.02, 0.45], pd = 95.9%, ps = 82.7%, BF~10~ = 0.19",0.21,"[-0.02, 0.45]",0.959,0.827,0.19,12473.5,1
+Physical and Functional,QoL: Family life,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.12, CI~95%~[-0.36, 0.1], pd = 85.4%, ps = 58%, BF~10~ = 0.07",-0.12,"[-0.36, 0.1]",0.854,0.58,0.07,12012.8,1.001
+Physical and Functional,QoL: Mental health,[Fatigue scale],"$\beta$ = -0.09, CI~95%~[-0.23, 0.06], pd = 87.7%, ps = 43.1%, BF~10~ = 0.05",-0.09,"[-0.23, 0.06]",0.877,0.431,0.05,13344.2,1
+Physical and Functional,QoL: Mental health,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.1, CI~95%~[-0.07, 0.25], pd = 87.5%, ps = 48.3%, BF~10~ = 0.05",0.1,"[-0.07, 0.25]",0.875,0.483,0.05,11741.6,1
+Physical and Functional,QoL: Mental health,[PCOV NoV] x [Fatigue scale],"$\beta$ = -0.1, CI~95%~[-0.28, 0.07], pd = 87.8%, ps = 51.3%, BF~10~ = 0.06",-0.1,"[-0.28, 0.07]",0.878,0.513,0.06,13449.1,1
+Physical and Functional,QoL: Mental health,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = -0.08, CI~95%~[-0.26, 0.08], pd = 81.9%, ps = 39.3%, BF~10~ = 0.04",-0.08,"[-0.26, 0.08]",0.819,0.393,0.04,13877.5,1
+Physical and Functional,QoL: Personal activities,[Fatigue scale],"$\beta$ = 0.15, CI~95%~[-0.07, 0.37], pd = 91%, ps = 68%, BF~10~ = 0.1",0.15,"[-0.07, 0.37]",0.91,0.68,0.1,13470.5,1
+Physical and Functional,QoL: Personal activities,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.17, CI~95%~[-0.42, 0.09], pd = 90.9%, ps = 71%, BF~10~ = 0.11",-0.17,"[-0.42, 0.09]",0.909,0.71,0.11,12349.3,1
+Physical and Functional,QoL: Profesional life,[Fatigue scale],"$\beta$ = 0.1, CI~95%~[-0.11, 0.31], pd = 82.8%, ps = 50.5%, BF~10~ = 0.06",0.1,"[-0.11, 0.31]",0.828,0.505,0.06,14501.8,1
+Physical and Functional,QoL: Profesional life,[PCOV NoS] x [Fatigue scale],"$\beta$ = 0.11, CI~95%~[-0.12, 0.35], pd = 82%, ps = 53.3%, BF~10~ = 0.06",0.11,"[-0.12, 0.35]",0.82,0.533,0.06,12283.1,1
+Physical and Functional,QoL: Profesional life,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.14, CI~95%~[-0.12, 0.39], pd = 85.4%, ps = 61.2%, BF~10~ = 0.08",0.14,"[-0.12, 0.39]",0.854,0.612,0.08,12022.3,1
+Physical and Functional,QoL: Social life,[PCOV NoV] x [Fatigue scale],"$\beta$ = -0.17, CI~95%~[-0.4, 0.06], pd = 92.8%, ps = 72.1%, BF~10~ = 0.11",-0.17,"[-0.4, 0.06]",0.928,0.721,0.11,14096.9,1
+Physical and Functional,QoL: Social life,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.12, CI~95%~[-0.09, 0.35], pd = 86.4%, ps = 58.4%, BF~10~ = 0.07",0.12,"[-0.09, 0.35]",0.864,0.584,0.07,12911.8,1
+Physical and Functional,Ratio FEV1/FVC,[Age],"$\beta$ = -0.45, CI~95%~[-1.23, 0.33], pd = 87.2%, ps = 80.9%, BF~10~ = 0.25",-0.45,"[-1.23, 0.33]",0.872,0.809,0.25,4807.5,1
+Physical and Functional,Ratio FEV1/FVC,[PCOV NoS] x [Age],"$\beta$ = -0.61, CI~95%~[-1.75, 0.51], pd = 86.1%, ps = 81.7%, BF~10~ = 0.35",-0.61,"[-1.75, 0.51]",0.861,0.817,0.35,3940.9,1
+Physical and Functional,Ratio FEV1/FVC,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 1.25, CI~95%~[-1.31, 3.56], pd = 83.6%, ps = 81.6%, BF~10~ = 0.68",1.25,"[-1.31, 3.56]",0.836,0.816,0.68,6362.4,1
+Physical and Functional,Ratio FEV1/FVC,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 2.27, CI~95%~[0.07, 4.44], pd = 97.6%, ps = 97.1%, BF~10~ = 2.67",2.27,"[0.07, 4.44]",0.976,0.971,2.67,4917.7,1
+Physical and Functional,Ratio FEV1/FVC,[PCOV NoS] x [Sex: Female],"$\beta$ = -0.88, CI~95%~[-2.21, 0.45], pd = 89.4%, ps = 86.9%, BF~10~ = 0.54",-0.88,"[-2.21, 0.45]",0.894,0.869,0.54,6081.5,1.001
+Physical and Functional,Ratio FEV1/FVC,[PCOV NoV] x [Age],"$\beta$ = 0.75, CI~95%~[-0.23, 1.73], pd = 93.4%, ps = 90.3%, BF~10~ = 0.52",0.75,"[-0.23, 1.73]",0.934,0.903,0.52,4062.7,1
+Physical and Functional,Ratio FEV1/FVC,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.95, CI~95%~[-2.04, 0.17], pd = 95.5%, ps = 93.6%, BF~10~ = 0.81",-0.95,"[-2.04, 0.17]",0.955,0.936,0.81,8951,1
+Physical and Functional,Ratio FEV1/FVC,[PCOV Severity Score] x [Age],"$\beta$ = 0.81, CI~95%~[-0.23, 1.89], pd = 93%, ps = 90.1%, BF~10~ = 0.53",0.81,"[-0.23, 1.89]",0.93,0.901,0.53,4304,1
+Physical and Functional,Ratio FEV1/FVC,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.3, CI~95%~[-0.3, 0.86], pd = 83.9%, ps = 74.7%, BF~10~ = 0.17",0.3,"[-0.3, 0.86]",0.839,0.747,0.17,5647,1
+Physical and Functional,Ratio FEV1/FVC,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = -1.09, CI~95%~[-2.48, 0.29], pd = 93.5%, ps = 92%, BF~10~ = 0.82",-1.09,"[-2.48, 0.29]",0.935,0.92,0.82,6064,1
+Physical and Functional,Ratio FEV1/FVC,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -1.08, CI~95%~[-2.93, 0.79], pd = 86.8%, ps = 84.7%, BF~10~ = 0.61",-1.08,"[-2.93, 0.79]",0.868,0.847,0.61,6206,1
+Physical and Functional,Ratio FEV1/FVC,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.85, CI~95%~[-0.57, 2.21], pd = 88.4%, ps = 85.5%, BF~10~ = 0.5",0.85,"[-0.57, 2.21]",0.884,0.855,0.5,6470.7,1.001
+Physical and Functional,Ratio FEV1/FVC,[Pathologies: Diabetes (Yes)],"$\beta$ = 1.59, CI~95%~[0.31, 3], pd = 98.7%, ps = 98.2%, BF~10~ = 3.3",1.59,"[0.31, 3]",0.987,0.982,3.3,7187.1,1.001
+Physical and Functional,Ratio FEV1/FVC,[Pathologies: Obesity (Yes)],"$\beta$ = -1.37, CI~95%~[-2.95, 0.19], pd = 95.2%, ps = 93.8%, BF~10~ = 1.12",-1.37,"[-2.95, 0.19]",0.952,0.938,1.12,7163.6,1
+Physical and Functional,WAISS score,[Fatigue scale],"$\beta$ = 0.18, CI~95%~[0, 0.36], pd = 97.5%, ps = 79.9%, BF~10~ = 0.2",0.18,"[0, 0.36]",0.975,0.799,0.2,14883.4,1
+Physical and Functional,Weight,[PCOV NoS] x [Age],"$\beta$ = -0.19, CI~95%~[-0.5, 0.12], pd = 87.9%, ps = 71%, BF~10~ = 0.11",-0.19,"[-0.5, 0.12]",0.879,0.71,0.11,6984.5,1
+Physical and Functional,Weight,[PCOV NoS] x [Fatigue scale],"$\beta$ = -0.1, CI~95%~[-0.29, 0.11], pd = 84%, ps = 50.3%, BF~10~ = 0.06",-0.1,"[-0.29, 0.11]",0.84,0.503,0.06,9190.5,1
+Physical and Functional,Weight,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.44, CI~95%~[-0.19, 1.11], pd = 91.2%, ps = 84.9%, BF~10~ = 0.28",0.44,"[-0.19, 1.11]",0.912,0.849,0.28,7779.6,1
+Physical and Functional,Weight,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.54, CI~95%~[-1.25, 0.2], pd = 92.1%, ps = 87.7%, BF~10~ = 0.35",-0.54,"[-1.25, 0.2]",0.921,0.877,0.35,8682,1
+Physical and Functional,Weight,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.35, CI~95%~[-0.17, 0.83], pd = 91.7%, ps = 83.8%, BF~10~ = 0.23",0.35,"[-0.17, 0.83]",0.917,0.838,0.23,7574.7,1
+Physical and Functional,Weight,[PCOV NoV] x [Age],"$\beta$ = -0.11, CI~95%~[-0.32, 0.09], pd = 85.1%, ps = 53.5%, BF~10~ = 0.06",-0.11,"[-0.32, 0.09]",0.851,0.535,0.06,11559.9,1
+Physical and Functional,Weight,[PCOV NoV] x [Fatigue scale],"$\beta$ = 0.15, CI~95%~[-0.07, 0.35], pd = 90.9%, ps = 66.3%, BF~10~ = 0.09",0.15,"[-0.07, 0.35]",0.909,0.663,0.09,10434.6,1
+Physical and Functional,Weight,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.37, CI~95%~[-0.23, 0.98], pd = 89.4%, ps = 81.7%, BF~10~ = 0.21",0.37,"[-0.23, 0.98]",0.894,0.817,0.21,10514.6,1.001
+Physical and Functional,Weight,[PCOV Severity Score] x [Age],"$\beta$ = 0.19, CI~95%~[-0.11, 0.48], pd = 89.6%, ps = 73.2%, BF~10~ = 0.12",0.19,"[-0.11, 0.48]",0.896,0.732,0.12,6980.8,1
+Physical and Functional,Weight,[PCOV Severity Score] x [Fatigue scale],"$\beta$ = 0.19, CI~95%~[-0.02, 0.39], pd = 96.5%, ps = 81.3%, BF~10~ = 0.19",0.19,"[-0.02, 0.39]",0.965,0.813,0.19,10110.4,1
+Physical and Functional,Weight,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.36, CI~95%~[-0.98, 0.25], pd = 87.6%, ps = 79.5%, BF~10~ = 0.2",-0.36,"[-0.98, 0.25]",0.876,0.795,0.2,9192.4,1
+Physical and Functional,Weight,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 1.08, CI~95%~[0.2, 1.99], pd = 99.1%, ps = 98.5%, BF~10~ = 2.58",1.08,"[0.2, 1.99]",0.991,0.985,2.58,9696.7,1
+Physical and Functional,Weight,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.27, CI~95%~[-0.72, 0.21], pd = 87.6%, ps = 76.8%, BF~10~ = 0.16",-0.27,"[-0.72, 0.21]",0.876,0.768,0.16,8034.2,1
+Physical and Functional,Weight,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.32, CI~95%~[-0.15, 0.78], pd = 90.6%, ps = 81.3%, BF~10~ = 0.19",0.32,"[-0.15, 0.78]",0.906,0.813,0.19,9142,1
+Physical and Functional,Weight,[Pathologies: Obesity (Yes)],"$\beta$ = 1.5, CI~95%~[0.76, 2.25], pd = 100%, ps = 100%, BF~10~ = 83.47",1.5,"[0.76, 2.25]",1,1,83.47,9043.6,1
+Physical and Functional,Weight,[Sex: Female],"$\beta$ = -0.85, CI~95%~[-1.23, -0.45], pd = 100%, ps = 100%, BF~10~ = 139.35",-0.85,"[-1.23, -0.45]",1,1,139.35,9337,1
+Psychological,BAI score,[Age],"$\beta$ = -0.07, CI~95%~[-0.22, 0.09], pd = 82%, ps = 34.7%, BF~10~ = 0.04",-0.07,"[-0.22, 0.09]",0.82,0.347,0.04,9240.5,1
+Psychological,BAI score,[PCOV NoS] x [Age],"$\beta$ = 0.18, CI~95%~[-0.03, 0.39], pd = 95.3%, ps = 78.3%, BF~10~ = 0.14",0.18,"[-0.03, 0.39]",0.953,0.783,0.14,9886.4,1
+Psychological,BAI score,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.35, CI~95%~[-0.76, 0.07], pd = 95.2%, ps = 88.1%, BF~10~ = 0.27",-0.35,"[-0.76, 0.07]",0.952,0.881,0.27,11012.7,1
+Psychological,BAI score,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.66, CI~95%~[-1.08, -0.19], pd = 99.8%, ps = 99.3%, BF~10~ = 5.41",-0.66,"[-1.08, -0.19]",0.998,0.993,5.41,10616.1,1
+Psychological,BAI score,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.22, CI~95%~[-0.1, 0.55], pd = 91.3%, ps = 77.3%, BF~10~ = 0.14",0.22,"[-0.1, 0.55]",0.913,0.773,0.14,10763.9,1
+Psychological,BAI score,[PCOV NoV] x [Age],"$\beta$ = 0.16, CI~95%~[0.02, 0.31], pd = 98.9%, ps = 79.8%, BF~10~ = 0.29",0.16,"[0.02, 0.31]",0.989,0.798,0.29,13643.6,1
+Psychological,BAI score,[PCOV NoV] x [Education level: Linear],"$\beta$ = 1.11, CI~95%~[-0.84, 3.04], pd = 87%, ps = 84.7%, BF~10~ = 0.61",1.11,"[-0.84, 3.04]",0.87,0.847,0.61,4864.5,1
+Psychological,BAI score,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.25, CI~95%~[-0.66, 0.14], pd = 88.9%, ps = 76.7%, BF~10~ = 0.14",-0.25,"[-0.66, 0.14]",0.889,0.767,0.14,13380.3,1
+Psychological,BAI score,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.17, CI~95%~[-0.48, 0.12], pd = 87.1%, ps = 67.6%, BF~10~ = 0.09",-0.17,"[-0.48, 0.12]",0.871,0.676,0.09,12831.1,1
+Psychological,BAI score,[PCOV Severity Score],"$\beta$ = 0.72, CI~95%~[0, 1.4], pd = 97.5%, ps = 95.4%, BF~10~ = 0.81",0.72,"[0, 1.4]",0.975,0.954,0.81,4114.9,1
+Psychological,BAI score,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.28, CI~95%~[-0.09, 0.67], pd = 92.6%, ps = 81.9%, BF~10~ = 0.17",0.28,"[-0.09, 0.67]",0.926,0.819,0.17,12346.9,1
+Psychological,BAI score,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.24, CI~95%~[-0.09, 0.59], pd = 92.1%, ps = 79.3%, BF~10~ = 0.16",0.24,"[-0.09, 0.59]",0.921,0.793,0.16,8731.8,1
+Psychological,BAI score,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.24, CI~95%~[-0.16, 0.67], pd = 87.2%, ps = 74.8%, BF~10~ = 0.13",0.24,"[-0.16, 0.67]",0.872,0.748,0.13,11078,1
+Psychological,BAI score,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.34, CI~95%~[-0.14, 0.81], pd = 91.6%, ps = 83.5%, BF~10~ = 0.21",0.34,"[-0.14, 0.81]",0.916,0.835,0.21,10713.7,1
+Psychological,BAI score,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.19, CI~95%~[-0.12, 0.51], pd = 88.5%, ps = 71.4%, BF~10~ = 0.11",0.19,"[-0.12, 0.51]",0.885,0.714,0.11,11004.3,1
+Psychological,BDI score,[Age],"$\beta$ = -0.08, CI~95%~[-0.21, 0.06], pd = 86.7%, ps = 37.5%, BF~10~ = 0.04",-0.08,"[-0.21, 0.06]",0.867,0.375,0.04,9707.4,1
+Psychological,BDI score,[PCOV NoS],"$\beta$ = -0.83, CI~95%~[-1.57, -0.05], pd = 98.5%, ps = 97%, BF~10~ = 1.18",-0.83,"[-1.57, -0.05]",0.985,0.97,1.18,4708,1
+Psychological,BDI score,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.32, CI~95%~[-0.72, 0.06], pd = 94.6%, ps = 87%, BF~10~ = 0.25",-0.32,"[-0.72, 0.06]",0.946,0.87,0.25,10646,1
+Psychological,BDI score,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.25, CI~95%~[-0.05, 0.54], pd = 95.2%, ps = 84.1%, BF~10~ = 0.19",0.25,"[-0.05, 0.54]",0.952,0.841,0.19,10769.8,1
+Psychological,BDI score,[PCOV Severity Score],"$\beta$ = 1.1, CI~95%~[0.43, 1.82], pd = 99.9%, ps = 99.7%, BF~10~ = 13.18",1.1,"[0.43, 1.82]",0.999,0.997,13.18,4542,1
+Psychological,BDI score,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.17, CI~95%~[-0.15, 0.47], pd = 85.2%, ps = 66.5%, BF~10~ = 0.09",0.17,"[-0.15, 0.47]",0.852,0.665,0.09,9016,1
+Psychological,BDI score,[PCOV Severity Score] x [Sex: Female],"$\beta$ = -0.28, CI~95%~[-0.54, 0], pd = 97.9%, ps = 90.1%, BF~10~ = 0.34",-0.28,"[-0.54, 0]",0.979,0.901,0.34,10315.5,1
+Psychological,BDI score,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.19, CI~95%~[-0.17, 0.56], pd = 84.7%, ps = 68.8%, BF~10~ = 0.1",0.19,"[-0.17, 0.56]",0.847,0.688,0.1,9973.8,1
+Psychological,BDI score,[Sex: Female],"$\beta$ = -0.17, CI~95%~[-0.4, 0.07], pd = 92.4%, ps = 72.4%, BF~10~ = 0.11",-0.17,"[-0.4, 0.07]",0.924,0.724,0.11,11078.1,1
+Psychological,Pittsburg score,[Age],"$\beta$ = 0.12, CI~95%~[-0.12, 0.35], pd = 83.6%, ps = 55.9%, BF~10~ = 0.07",0.12,"[-0.12, 0.35]",0.836,0.559,0.07,10481.8,1.001
+Psychological,Pittsburg score,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.72, CI~95%~[0.05, 1.4], pd = 98.1%, ps = 96.5%, BF~10~ = 1.09",0.72,"[0.05, 1.4]",0.981,0.965,1.09,11318.8,1
+Psychological,Pittsburg score,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.38, CI~95%~[-0.28, 1.05], pd = 86.8%, ps = 79.7%, BF~10~ = 0.21",0.38,"[-0.28, 1.05]",0.868,0.797,0.21,11490.8,1
+Psychological,Pittsburg score,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.53, CI~95%~[-1.23, 0.17], pd = 92.8%, ps = 88.8%, BF~10~ = 0.37",-0.53,"[-1.23, 0.17]",0.928,0.888,0.37,9786.8,1
+Psychological,Pittsburg score,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.58, CI~95%~[-1.23, 0.08], pd = 96.1%, ps = 92.6%, BF~10~ = 0.5",-0.58,"[-1.23, 0.08]",0.961,0.926,0.5,10644.6,1
+Psychological,Pittsburg score,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.25, CI~95%~[-0.24, 0.71], pd = 84.9%, ps = 73%, BF~10~ = 0.14",0.25,"[-0.24, 0.71]",0.849,0.73,0.14,10575.8,1
+Psychological,Pittsburg score,[Pathologies: Diabetes (Yes)],"$\beta$ = -0.33, CI~95%~[-0.95, 0.34], pd = 84%, ps = 75.7%, BF~10~ = 0.19",-0.33,"[-0.95, 0.34]",0.84,0.757,0.19,11178.7,1
+Psychological,Pittsburg score,[Sex: Female],"$\beta$ = 0.18, CI~95%~[-0.22, 0.59], pd = 80.3%, ps = 65.3%, BF~10~ = 0.1",0.18,"[-0.22, 0.59]",0.803,0.653,0.1,12947.7,1
+Psychological,WAISS score,[Age],"$\beta$ = -0.11, CI~95%~[-0.33, 0.12], pd = 83%, ps = 53.2%, BF~10~ = 0.06",-0.11,"[-0.33, 0.12]",0.83,0.532,0.06,10528.6,1
+Psychological,WAISS score,[Education level: Linear],"$\beta$ = 2.17, CI~95%~[-0.19, 4.83], pd = 95.9%, ps = 95%, BF~10~ = 1.87",2.17,"[-0.19, 4.83]",0.959,0.95,1.87,6105.1,1
+Psychological,WAISS score,[PCOV NoS] x [Age],"$\beta$ = -0.2, CI~95%~[-0.53, 0.11], pd = 88.9%, ps = 73.5%, BF~10~ = 0.11",-0.2,"[-0.53, 0.11]",0.889,0.735,0.11,10099.8,1
+Psychological,WAISS score,[PCOV NoS] x [Education level: Cubic],"$\beta$ = 1.07, CI~95%~[-1.2, 3.46], pd = 81.6%, ps = 79.2%, BF~10~ = 0.59",1.07,"[-1.2, 3.46]",0.816,0.792,0.59,5104.4,1.001
+Psychological,WAISS score,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.75, CI~95%~[-1.35, -0.1], pd = 99.1%, ps = 98.1%, BF~10~ = 1.76",-0.75,"[-1.35, -0.1]",0.991,0.981,1.76,11375,1
+Psychological,WAISS score,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.3, CI~95%~[-0.39, 0.95], pd = 80.3%, ps = 70.9%, BF~10~ = 0.16",0.3,"[-0.39, 0.95]",0.803,0.709,0.16,9917.6,1
+Psychological,WAISS score,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.79, CI~95%~[-1.52, -0.02], pd = 97.9%, ps = 96.5%, BF~10~ = 1.12",-0.79,"[-1.52, -0.02]",0.979,0.965,1.12,10420.2,1
+Psychological,WAISS score,[PCOV NoV] x [Age],"$\beta$ = -0.15, CI~95%~[-0.35, 0.06], pd = 91.6%, ps = 67.9%, BF~10~ = 0.09",-0.15,"[-0.35, 0.06]",0.916,0.679,0.09,13588.8,1
+Psychological,WAISS score,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.31, CI~95%~[-0.96, 0.31], pd = 82.9%, ps = 73.7%, BF~10~ = 0.17",-0.31,"[-0.96, 0.31]",0.829,0.737,0.17,10351,1
+Psychological,WAISS score,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.52, CI~95%~[-0.06, 1.11], pd = 96%, ps = 92.1%, BF~10~ = 0.45",0.52,"[-0.06, 1.11]",0.96,0.921,0.45,10214.4,1
+Psychological,WAISS score,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.72, CI~95%~[-1.45, 0.03], pd = 97.1%, ps = 94.9%, BF~10~ = 0.75",-0.72,"[-1.45, 0.03]",0.971,0.949,0.75,11119.1,1
+Psychological,WAISS score,[PCOV NoV] x [Sex: Female],"$\beta$ = 0.19, CI~95%~[-0.25, 0.64], pd = 80.1%, ps = 66%, BF~10~ = 0.11",0.19,"[-0.25, 0.64]",0.801,0.66,0.11,12413,1
+Psychological,WAISS score,[PCOV Severity Score] x [Age],"$\beta$ = 0.22, CI~95%~[-0.07, 0.53], pd = 92.4%, ps = 78.6%, BF~10~ = 0.14",0.22,"[-0.07, 0.53]",0.924,0.786,0.14,9205.8,1
+Psychological,WAISS score,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.24, CI~95%~[-0.27, 0.79], pd = 81.8%, ps = 70.5%, BF~10~ = 0.14",0.24,"[-0.27, 0.79]",0.818,0.705,0.14,9958.9,1
+Psychological,WAISS score,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 1.51, CI~95%~[0.63, 2.42], pd = 100%, ps = 99.9%, BF~10~ = 44.04",1.51,"[0.63, 2.42]",1,0.999,44.04,11700.3,1
+Psychological,WAISS score,[Pathologies: Diabetes (Yes)],"$\beta$ = -0.4, CI~95%~[-1.05, 0.2], pd = 89.4%, ps = 82.6%, BF~10~ = 0.23",-0.4,"[-1.05, 0.2]",0.894,0.826,0.23,11256.9,1.001
+Psychological,WAISS score,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.36, CI~95%~[-0.36, 1.07], pd = 83%, ps = 75.2%, BF~10~ = 0.2",0.36,"[-0.36, 1.07]",0.83,0.752,0.2,10830.9,1
+Psychological,WAISS score,[Pathologies: Hypertension (Yes)],"$\beta$ = 0.37, CI~95%~[-0.11, 0.86], pd = 93.3%, ps = 86.5%, BF~10~ = 0.25",0.37,"[-0.11, 0.86]",0.933,0.865,0.25,11449.8,1
+Psychological,WAISS score,[Pathologies: Obesity (Yes)],"$\beta$ = 0.5, CI~95%~[-0.32, 1.24], pd = 89.5%, ps = 84.5%, BF~10~ = 0.3",0.5,"[-0.32, 1.24]",0.895,0.845,0.3,11562.9,1
+Psychological,WAISS score,[Sex: Female],"$\beta$ = -0.24, CI~95%~[-0.64, 0.16], pd = 88.8%, ps = 75.9%, BF~10~ = 0.13",-0.24,"[-0.64, 0.16]",0.888,0.759,0.13,12008.3,1
+Quality of Life,QoL: Caretakers,[Age],"$\beta$ = 0.19, CI~95%~[-0.07, 0.45], pd = 92.3%, ps = 75%, BF~10~ = 0.12",0.19,"[-0.07, 0.45]",0.923,0.75,0.12,10680.9,1
+Quality of Life,QoL: Caretakers,[PCOV NoS],"$\beta$ = -0.65, CI~95%~[-1.62, 0.3], pd = 90.7%, ps = 86.4%, BF~10~ = 0.37",-0.65,"[-1.62, 0.3]",0.907,0.864,0.37,7214.8,1.001
+Quality of Life,QoL: Caretakers,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.53, CI~95%~[-0.22, 1.29], pd = 91.2%, ps = 86.4%, BF~10~ = 0.33",0.53,"[-0.22, 1.29]",0.912,0.864,0.33,10263.9,1
+Quality of Life,QoL: Caretakers,[PCOV NoV] x [Education level: Cubic],"$\beta$ = -1.47, CI~95%~[-3.57, 0.66], pd = 91.5%, ps = 90%, BF~10~ = 0.92",-1.47,"[-3.57, 0.66]",0.915,0.9,0.92,6881.8,1
+Quality of Life,QoL: Caretakers,[PCOV NoV] x [Education level: Quadratic],"$\beta$ = 1.28, CI~95%~[-1.34, 4.02], pd = 83.1%, ps = 81.2%, BF~10~ = 0.71",1.28,"[-1.34, 4.02]",0.831,0.812,0.71,7050.1,1
+Quality of Life,QoL: Caretakers,[PCOV NoV] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.5, CI~95%~[-0.35, 1.33], pd = 88%, ps = 82.6%, BF~10~ = 0.28",0.5,"[-0.35, 1.33]",0.88,0.826,0.28,9885,1
+Quality of Life,QoL: Caretakers,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.4, CI~95%~[-0.9, 0.09], pd = 94.2%, ps = 88.1%, BF~10~ = 0.28",-0.4,"[-0.9, 0.09]",0.942,0.881,0.28,13836.4,1
+Quality of Life,QoL: Caretakers,[PCOV Severity Score],"$\beta$ = 1.26, CI~95%~[0.45, 2.2], pd = 99.7%, ps = 99.5%, BF~10~ = 7.45",1.26,"[0.45, 2.2]",0.997,0.995,7.45,6225.7,1.001
+Quality of Life,QoL: Caretakers,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.54, CI~95%~[-1.21, 0.1], pd = 95%, ps = 90.9%, BF~10~ = 0.41",-0.54,"[-1.21, 0.1]",0.95,0.909,0.41,12653.5,1
+Quality of Life,QoL: Caretakers,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.33, CI~95%~[-0.93, 0.25], pd = 86.4%, ps = 77.9%, BF~10~ = 0.18",-0.33,"[-0.93, 0.25]",0.864,0.779,0.18,10420.4,1
+Quality of Life,QoL: Caretakers,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.78, CI~95%~[-0.29, 1.8], pd = 92.9%, ps = 89.6%, BF~10~ = 0.5",0.78,"[-0.29, 1.8]",0.929,0.896,0.5,13337.6,1
+Quality of Life,QoL: Caretakers,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.64, CI~95%~[-1.47, 0.2], pd = 93.6%, ps = 90.2%, BF~10~ = 0.47",-0.64,"[-1.47, 0.2]",0.936,0.902,0.47,11912.6,1
+Quality of Life,QoL: Caretakers,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.32, CI~95%~[-0.85, 0.27], pd = 86.6%, ps = 77.8%, BF~10~ = 0.18",-0.32,"[-0.85, 0.27]",0.866,0.778,0.18,11737.6,1
+Quality of Life,QoL: Caretakers,[Sex: Female],"$\beta$ = 0.22, CI~95%~[-0.25, 0.64], pd = 82.6%, ps = 69.2%, BF~10~ = 0.12",0.22,"[-0.25, 0.64]",0.826,0.692,0.12,13451.2,1
+Quality of Life,QoL: Family life,[PCOV NoS] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.35, CI~95%~[-1.09, 0.35], pd = 83.3%, ps = 75.6%, BF~10~ = 0.2",-0.35,"[-1.09, 0.35]",0.833,0.756,0.2,11494.8,1
+Quality of Life,QoL: Family life,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 1.29, CI~95%~[0.43, 2.16], pd = 99.8%, ps = 99.5%, BF~10~ = 7.24",1.29,"[0.43, 2.16]",0.998,0.995,7.24,10492.7,1
+Quality of Life,QoL: Family life,[PCOV NoV] x [Education level: Cubic],"$\beta$ = -1.09, CI~95%~[-3.09, 1.1], pd = 83.8%, ps = 81.7%, BF~10~ = 0.63",-1.09,"[-3.09, 1.1]",0.838,0.817,0.63,6752.7,1
+Quality of Life,QoL: Family life,[PCOV Severity Score],"$\beta$ = 0.5, CI~95%~[-0.35, 1.39], pd = 87.1%, ps = 82%, BF~10~ = 0.29",0.5,"[-0.35, 1.39]",0.871,0.82,0.29,6304.5,1
+Quality of Life,QoL: Family life,[PCOV Severity Score] x [Age],"$\beta$ = -0.23, CI~95%~[-0.58, 0.09], pd = 90.6%, ps = 77.6%, BF~10~ = 0.13",-0.23,"[-0.58, 0.09]",0.906,0.776,0.13,9878.6,1
+Quality of Life,QoL: Family life,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.32, CI~95%~[-0.38, 1.01], pd = 81.2%, ps = 72.7%, BF~10~ = 0.18",0.32,"[-0.38, 1.01]",0.812,0.727,0.18,10240.6,1
+Quality of Life,QoL: Family life,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.42, CI~95%~[-0.22, 1.07], pd = 90.1%, ps = 83.7%, BF~10~ = 0.25",0.42,"[-0.22, 1.07]",0.901,0.837,0.25,11083,1
+Quality of Life,QoL: Family life,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.81, CI~95%~[-1.88, 0.2], pd = 94.1%, ps = 91.8%, BF~10~ = 0.61",-0.81,"[-1.88, 0.2]",0.941,0.918,0.61,12812.3,1
+Quality of Life,QoL: Family life,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.28, CI~95%~[-0.24, 0.79], pd = 85.5%, ps = 75.4%, BF~10~ = 0.15",0.28,"[-0.24, 0.79]",0.855,0.754,0.15,9868.7,1
+Quality of Life,QoL: Family life,[Pathologies: Diabetes (Yes)],"$\beta$ = 0.38, CI~95%~[-0.36, 1.06], pd = 84.9%, ps = 77.5%, BF~10~ = 0.2",0.38,"[-0.36, 1.06]",0.849,0.775,0.2,11714.7,1
+Quality of Life,QoL: Family life,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.7, CI~95%~[-0.16, 1.46], pd = 95.1%, ps = 92.4%, BF~10~ = 0.57",0.7,"[-0.16, 1.46]",0.951,0.924,0.57,10261.9,1
+Quality of Life,QoL: Family life,[Pathologies: Obesity (Yes)],"$\beta$ = -1.01, CI~95%~[-1.88, -0.14], pd = 99%, ps = 98.2%, BF~10~ = 2.18",-1.01,"[-1.88, -0.14]",0.99,0.982,2.18,11401.6,1
+Quality of Life,QoL: Family life,[Sex: Female],"$\beta$ = 0.32, CI~95%~[-0.12, 0.78], pd = 91.5%, ps = 83.2%, BF~10~ = 0.2",0.32,"[-0.12, 0.78]",0.915,0.832,0.2,12259.1,1
+Quality of Life,QoL: Mental health,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.4, CI~95%~[-0.93, 0.12], pd = 93.4%, ps = 87.2%, BF~10~ = 0.27",-0.4,"[-0.93, 0.12]",0.934,0.872,0.27,11653.2,1
+Quality of Life,QoL: Mental health,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.36, CI~95%~[-0.9, 0.18], pd = 90.7%, ps = 83.5%, BF~10~ = 0.23",-0.36,"[-0.9, 0.18]",0.907,0.835,0.23,10176.3,1
+Quality of Life,QoL: Mental health,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.28, CI~95%~[-0.33, 0.91], pd = 81.8%, ps = 72.1%, BF~10~ = 0.16",0.28,"[-0.33, 0.91]",0.818,0.721,0.16,11704.9,1
+Quality of Life,QoL: Mental health,[PCOV NoS] x [Sex: Female],"$\beta$ = -0.2, CI~95%~[-0.61, 0.2], pd = 83.1%, ps = 68.1%, BF~10~ = 0.11",-0.2,"[-0.61, 0.2]",0.831,0.681,0.11,12602.5,1
+Quality of Life,QoL: Mental health,[PCOV NoV] x [Age],"$\beta$ = -0.19, CI~95%~[-0.36, -0.03], pd = 98.6%, ps = 86.5%, BF~10~ = 0.4",-0.19,"[-0.36, -0.03]",0.986,0.865,0.4,14502.3,1.001
+Quality of Life,QoL: Mental health,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.22, CI~95%~[-0.74, 0.3], pd = 80.8%, ps = 68.4%, BF~10~ = 0.13",-0.22,"[-0.74, 0.3]",0.808,0.684,0.13,9866.3,1
+Quality of Life,QoL: Mental health,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.52, CI~95%~[0.04, 0.98], pd = 98.5%, ps = 95.9%, BF~10~ = 0.83",0.52,"[0.04, 0.98]",0.985,0.959,0.83,10256.8,1
+Quality of Life,QoL: Mental health,[PCOV Severity Score],"$\beta$ = 0.92, CI~95%~[0.13, 1.65], pd = 99.2%, ps = 98.4%, BF~10~ = 2.24",0.92,"[0.13, 1.65]",0.992,0.984,2.24,5027.7,1
+Quality of Life,QoL: Mental health,[PCOV Severity Score] x [Education level: Quadratic],"$\beta$ = 0.89, CI~95%~[-1.01, 2.72], pd = 81.6%, ps = 78.6%, BF~10~ = 0.48",0.89,"[-1.01, 2.72]",0.816,0.786,0.48,5085.1,1
+Quality of Life,QoL: Mental health,[PCOV Severity Score] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.25, CI~95%~[-0.74, 0.27], pd = 83.9%, ps = 72.6%, BF~10~ = 0.14",-0.25,"[-0.74, 0.27]",0.839,0.726,0.14,11354,1
+Quality of Life,QoL: Mental health,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.23, CI~95%~[-0.18, 0.66], pd = 85.8%, ps = 73.3%, BF~10~ = 0.13",0.23,"[-0.18, 0.66]",0.858,0.733,0.13,8928.1,1
+Quality of Life,QoL: Mental health,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.65, CI~95%~[-0.08, 1.4], pd = 95.7%, ps = 92.8%, BF~10~ = 0.56",0.65,"[-0.08, 1.4]",0.957,0.928,0.56,12480.9,1
+Quality of Life,QoL: Mental health,[PCOV Severity Score] x [Sex: Female],"$\beta$ = 0.25, CI~95%~[-0.13, 0.63], pd = 90.6%, ps = 78.9%, BF~10~ = 0.16",0.25,"[-0.13, 0.63]",0.906,0.789,0.16,12276.7,1
+Quality of Life,QoL: Mental health,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.28, CI~95%~[-0.35, 0.85], pd = 82.5%, ps = 72.6%, BF~10~ = 0.15",0.28,"[-0.35, 0.85]",0.825,0.726,0.15,13089.4,1
+Quality of Life,QoL: Personal activities,[Age],"$\beta$ = 0.23, CI~95%~[-0.04, 0.51], pd = 95%, ps = 82.5%, BF~10~ = 0.18",0.23,"[-0.04, 0.51]",0.95,0.825,0.18,10287.3,1
+Quality of Life,QoL: Personal activities,[Education level: Linear],"$\beta$ = 1.43, CI~95%~[-1.24, 3.92], pd = 86.2%, ps = 84.3%, BF~10~ = 0.78",1.43,"[-1.24, 3.92]",0.862,0.843,0.78,7596.8,1
+Quality of Life,QoL: Personal activities,[Education level: Quadratic],"$\beta$ = -1.17, CI~95%~[-3.45, 1.16], pd = 83.7%, ps = 81.7%, BF~10~ = 0.66",-1.17,"[-3.45, 1.16]",0.837,0.817,0.66,6976,1
+Quality of Life,QoL: Personal activities,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.51, CI~95%~[-0.29, 1.32], pd = 90.1%, ps = 84.9%, BF~10~ = 0.31",0.51,"[-0.29, 1.32]",0.901,0.849,0.31,12806.6,1
+Quality of Life,QoL: Personal activities,[PCOV NoS] x [Sex: Female],"$\beta$ = 0.41, CI~95%~[-0.2, 1.01], pd = 90.8%, ps = 84.2%, BF~10~ = 0.25",0.41,"[-0.2, 1.01]",0.908,0.842,0.25,11902.1,1.001
+Quality of Life,QoL: Personal activities,[PCOV NoV] x [Age],"$\beta$ = -0.14, CI~95%~[-0.39, 0.12], pd = 85.3%, ps = 61.1%, BF~10~ = 0.08",-0.14,"[-0.39, 0.12]",0.853,0.611,0.08,12623.8,1
+Quality of Life,QoL: Personal activities,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.38, CI~95%~[-1.16, 0.39], pd = 83.8%, ps = 76.6%, BF~10~ = 0.21",-0.38,"[-1.16, 0.39]",0.838,0.766,0.21,10710.3,1
+Quality of Life,QoL: Personal activities,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.7, CI~95%~[-0.01, 1.38], pd = 97.5%, ps = 95.5%, BF~10~ = 0.79",0.7,"[-0.01, 1.38]",0.975,0.955,0.79,10405.5,1
+Quality of Life,QoL: Personal activities,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.25, CI~95%~[-0.81, 0.28], pd = 82.6%, ps = 71.2%, BF~10~ = 0.14",-0.25,"[-0.81, 0.28]",0.826,0.712,0.14,13421.3,1
+Quality of Life,QoL: Personal activities,[PCOV Severity Score],"$\beta$ = 0.62, CI~95%~[-0.28, 1.52], pd = 91.2%, ps = 87.3%, BF~10~ = 0.37",0.62,"[-0.28, 1.52]",0.912,0.873,0.37,6528.9,1
+Quality of Life,QoL: Personal activities,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.31, CI~95%~[-0.99, 0.41], pd = 81.4%, ps = 73.1%, BF~10~ = 0.18",-0.31,"[-0.99, 0.41]",0.814,0.731,0.18,11956.9,1
+Quality of Life,QoL: Personal activities,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = 1.39, CI~95%~[0.29, 2.49], pd = 99.3%, ps = 99%, BF~10~ = 4.36",1.39,"[0.29, 2.49]",0.993,0.99,4.36,10475.3,1
+Quality of Life,QoL: Personal activities,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.53, CI~95%~[-0.38, 1.36], pd = 88.6%, ps = 83.2%, BF~10~ = 0.29",0.53,"[-0.38, 1.36]",0.886,0.832,0.29,12303.9,1
+Quality of Life,QoL: Personal activities,[Pathologies: Hypertension (Yes)],"$\beta$ = -0.34, CI~95%~[-0.92, 0.26], pd = 87%, ps = 78.6%, BF~10~ = 0.19",-0.34,"[-0.92, 0.26]",0.87,0.786,0.19,12699.7,1
+Quality of Life,QoL: Personal activities,[Pathologies: Obesity (Yes)],"$\beta$ = 0.48, CI~95%~[-0.47, 1.4], pd = 84.4%, ps = 78.6%, BF~10~ = 0.27",0.48,"[-0.47, 1.4]",0.844,0.786,0.27,11945.3,1
+Quality of Life,QoL: Profesional life,[Age],"$\beta$ = -0.16, CI~95%~[-0.44, 0.09], pd = 88.7%, ps = 67.9%, BF~10~ = 0.1",-0.16,"[-0.44, 0.09]",0.887,0.679,0.1,9593.2,1
+Quality of Life,QoL: Profesional life,[PCOV NoS] x [Age],"$\beta$ = 0.17, CI~95%~[-0.18, 0.55], pd = 81.6%, ps = 65%, BF~10~ = 0.1",0.17,"[-0.18, 0.55]",0.816,0.65,0.1,9738.8,1.001
+Quality of Life,QoL: Profesional life,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.48, CI~95%~[-1.28, 0.3], pd = 89.1%, ps = 83.7%, BF~10~ = 0.29",-0.48,"[-1.28, 0.3]",0.891,0.837,0.29,11201.4,1
+Quality of Life,QoL: Profesional life,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.99, CI~95%~[0.12, 1.89], pd = 98.4%, ps = 97.3%, BF~10~ = 1.47",0.99,"[0.12, 1.89]",0.984,0.973,1.47,11710.2,1
+Quality of Life,QoL: Profesional life,[PCOV NoV] x [Age],"$\beta$ = 0.17, CI~95%~[-0.07, 0.42], pd = 91%, ps = 70.8%, BF~10~ = 0.1",0.17,"[-0.07, 0.42]",0.91,0.708,0.1,13207.2,1
+Quality of Life,QoL: Profesional life,[PCOV NoV] x [Education level: Cubic],"$\beta$ = -1.3, CI~95%~[-3.44, 0.76], pd = 88.1%, ps = 86.3%, BF~10~ = 0.73",-1.3,"[-3.44, 0.76]",0.881,0.863,0.73,7720.9,1
+Quality of Life,QoL: Profesional life,[PCOV NoV] x [Sex: Female],"$\beta$ = 0.25, CI~95%~[-0.28, 0.77], pd = 82.2%, ps = 70.7%, BF~10~ = 0.14",0.25,"[-0.28, 0.77]",0.822,0.707,0.14,13128.1,1
+Quality of Life,QoL: Profesional life,[PCOV Severity Score],"$\beta$ = 0.66, CI~95%~[-0.22, 1.53], pd = 92.8%, ps = 89%, BF~10~ = 0.42",0.66,"[-0.22, 1.53]",0.928,0.89,0.42,7185.8,1
+Quality of Life,QoL: Profesional life,[PCOV Severity Score] x [Age],"$\beta$ = -0.31, CI~95%~[-0.66, 0.04], pd = 95.6%, ps = 87.6%, BF~10~ = 0.25",-0.31,"[-0.66, 0.04]",0.956,0.876,0.25,9422.2,1
+Quality of Life,QoL: Profesional life,[PCOV Severity Score] x [Education level: Linear],"$\beta$ = -1.33, CI~95%~[-3.75, 1.26], pd = 85.4%, ps = 83.6%, BF~10~ = 0.77",-1.33,"[-3.75, 1.26]",0.854,0.836,0.77,6636.8,1.001
+Quality of Life,QoL: Profesional life,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -0.53, CI~95%~[-1.65, 0.46], pd = 84%, ps = 78.8%, BF~10~ = 0.29",-0.53,"[-1.65, 0.46]",0.84,0.788,0.29,13283.6,1
+Quality of Life,QoL: Profesional life,[Pathologies: Obesity (Yes)],"$\beta$ = -0.79, CI~95%~[-1.73, 0.09], pd = 95.8%, ps = 93.6%, BF~10~ = 0.69",-0.79,"[-1.73, 0.09]",0.958,0.936,0.69,11389.8,1
+Quality of Life,QoL: Social life,[Age],"$\beta$ = 0.31, CI~95%~[0.08, 0.57], pd = 99.3%, ps = 95.5%, BF~10~ = 0.84",0.31,"[0.08, 0.57]",0.993,0.955,0.84,10154.1,1.001
+Quality of Life,QoL: Social life,[PCOV NoS] x [Age],"$\beta$ = -0.47, CI~95%~[-0.8, -0.14], pd = 99.7%, ps = 98.5%, BF~10~ = 1.87",-0.47,"[-0.8, -0.14]",0.997,0.985,1.87,11171.7,1
+Quality of Life,QoL: Social life,[PCOV NoS] x [Education level: Cubic],"$\beta$ = -1.04, CI~95%~[-3.33, 1.38], pd = 81.1%, ps = 78.7%, BF~10~ = 0.57",-1.04,"[-3.33, 1.38]",0.811,0.787,0.57,5902.5,1
+Quality of Life,QoL: Social life,[PCOV NoS] x [Pathologies: Diabetes (Yes)],"$\beta$ = 0.32, CI~95%~[-0.35, 1.06], pd = 82%, ps = 74%, BF~10~ = 0.19",0.32,"[-0.35, 1.06]",0.82,0.74,0.19,12662.8,1.001
+Quality of Life,QoL: Social life,[PCOV NoS] x [Pathologies: Hypertension (Yes)],"$\beta$ = 0.4, CI~95%~[-0.32, 1.12], pd = 86.3%, ps = 79.3%, BF~10~ = 0.22",0.4,"[-0.32, 1.12]",0.863,0.793,0.22,11236.9,1
+Quality of Life,QoL: Social life,[PCOV NoS] x [Pathologies: Obesity (Yes)],"$\beta$ = 0.49, CI~95%~[-0.32, 1.3], pd = 87.9%, ps = 82.6%, BF~10~ = 0.27",0.49,"[-0.32, 1.3]",0.879,0.826,0.27,11952.3,1
+Quality of Life,QoL: Social life,[PCOV NoS] x [Sex: Female],"$\beta$ = -0.34, CI~95%~[-0.87, 0.21], pd = 89.1%, ps = 81%, BF~10~ = 0.2",-0.34,"[-0.87, 0.21]",0.891,0.81,0.2,11944.5,1
+Quality of Life,QoL: Social life,[PCOV NoV] x [Age],"$\beta$ = -0.17, CI~95%~[-0.39, 0.05], pd = 93.8%, ps = 74.4%, BF~10~ = 0.12",-0.17,"[-0.39, 0.05]",0.938,0.744,0.12,15265,1
+Quality of Life,QoL: Social life,[PCOV NoV] x [Pathologies: Diabetes (Yes)],"$\beta$ = -0.47, CI~95%~[-1.12, 0.19], pd = 91.7%, ps = 86.2%, BF~10~ = 0.29",-0.47,"[-1.12, 0.19]",0.917,0.862,0.29,13945.5,1
+Quality of Life,QoL: Social life,[PCOV NoV] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = 0.96, CI~95%~[0.26, 1.62], pd = 99.7%, ps = 99.3%, BF~10~ = 4.61",0.96,"[0.26, 1.62]",0.997,0.993,4.61,10785.1,1
+Quality of Life,QoL: Social life,[PCOV NoV] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.51, CI~95%~[-1.11, 0.12], pd = 94.8%, ps = 90.6%, BF~10~ = 0.4",-0.51,"[-1.11, 0.12]",0.948,0.906,0.4,11481.2,1
+Quality of Life,QoL: Social life,[PCOV NoV] x [Sex: Female],"$\beta$ = -0.32, CI~95%~[-0.81, 0.17], pd = 90.2%, ps = 81.2%, BF~10~ = 0.19",-0.32,"[-0.81, 0.17]",0.902,0.812,0.19,13679,1
+Quality of Life,QoL: Social life,[PCOV Severity Score],"$\beta$ = 0.89, CI~95%~[0.05, 1.74], pd = 97.9%, ps = 96.3%, BF~10~ = 1.13",0.89,"[0.05, 1.74]",0.979,0.963,1.13,5736.5,1.001
+Quality of Life,QoL: Social life,[PCOV Severity Score] x [Age],"$\beta$ = 0.35, CI~95%~[0.02, 0.64], pd = 98.7%, ps = 93.8%, BF~10~ = 0.57",0.35,"[0.02, 0.64]",0.987,0.938,0.57,10135,1
+Quality of Life,QoL: Social life,[PCOV Severity Score] x [Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.38, CI~95%~[-0.99, 0.23], pd = 88.2%, ps = 80.7%, BF~10~ = 0.2",-0.38,"[-0.99, 0.23]",0.882,0.807,0.2,12756.8,1
+Quality of Life,QoL: Social life,[PCOV Severity Score] x [Pathologies: Hypertension (Yes)],"$\beta$ = -0.69, CI~95%~[-1.25, -0.14], pd = 99.1%, ps = 98.1%, BF~10~ = 1.91",-0.69,"[-1.25, -0.14]",0.991,0.981,1.91,9832.1,1
+Quality of Life,QoL: Social life,[PCOV Severity Score] x [Pathologies: Obesity (Yes)],"$\beta$ = -1.07, CI~95%~[-2.09, -0.11], pd = 98.2%, ps = 97.3%, BF~10~ = 1.58",-1.07,"[-2.09, -0.11]",0.982,0.973,1.58,13268.4,1
+Quality of Life,QoL: Social life,[Pathologies: Dyslipidemia (Yes)],"$\beta$ = -0.75, CI~95%~[-1.49, 0.04], pd = 96.9%, ps = 94.8%, BF~10~ = 0.76",-0.75,"[-1.49, 0.04]",0.969,0.948,0.76,13442.2,1
+Quality of Life,QoL: Social life,[Pathologies: Obesity (Yes)],"$\beta$ = -0.61, CI~95%~[-1.46, 0.23], pd = 91.9%, ps = 88.3%, BF~10~ = 0.4",-0.61,"[-1.46, 0.23]",0.919,0.883,0.4,11308.5,1
