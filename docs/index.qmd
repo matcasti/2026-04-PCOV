@@ -118,6 +118,29 @@ get_pd <- function(data = all_params, area_val, response_val, var_val) {
 }
 ```
 
+# Overview
+
+```{r counts}
+#| include: false
+n_total    <- nrow(all_params)
+n_signif   <- nrow(signif_params)
+n_domains  <- length(unique(all_params$area))
+n_outcomes <- length(unique(all_params$response))
+n_lab_resp <- length(unique(all_params[area == "Laboratory and Cellular", response]))
+```
+
+The findings collectively characterise the multidomain health consequences of Long COVID (PCOV) in the Magallanes region of Chilean Patagonia, and reveal three overarching patterns that cut across all four domains. First, the PCOV Severity Score, a composite index of functional impairment and symptom impact, emerged as the most consistent and broadly acting predictor of adverse health outcomes, showing credible directional associations (pd ≥ 0.80) with outcomes spanning depressive symptomatology, anxiety, quality of life across all six self-reported dimensions, pulmonary function, body composition, hepatic enzyme activity, glycaemic regulation, and circulating lymphocyte subsets. By contrast, PCOV NoS (the raw count of persistent symptoms) showed a more heterogeneous pattern, often pointing in the opposite direction to the Severity Score for the same outcome, most notably for BMI, fat mass, platelet counts, and transaminases, a divergence that suggests these two PCOV metrics capture qualitatively distinct axes of disease burden: the NoS reflecting breadth of symptom involvement, and the Severity Score reflecting functional depth and systemic impact. Second, the primary PCOV associations were rarely homogeneous across the population; instead, they were systematically and substantially modulated by comorbidity status (obesity, diabetes mellitus, arterial hypertension, and dyslipidaemia), sex, age, fatigue severity, and educational attainment, producing interaction effects that in several instances far exceeded the main effects in both magnitude and statistical support. Third, biological sex exerted pervasive influence as a background factor throughout the Physical and Functional and Laboratory and Cellular domains, dominating spirometric volumes, body composition, hepatic enzymes, renal markers, and lymphocyte subset counts, underscoring the necessity of sex-stratified analysis in PCOV research.
+
+Within the **Psychological domain**, the PCOV Severity Score showed strong positive associations with both depressive (BDI) and anxiety (BAI) symptom burden. The most exceptional single finding in this domain was the interaction between PCOV Severity Score and obesity for cognitive performance (WAISS score; BF~10~ = 44.04, pd = 100%), representing overwhelming Bayesian evidence that among obese participants, greater PCOV severity was associated with substantially higher cognitive scores, a counterintuitive result whose interpretation warrants prospective examination, but which stands as the most robustly supported association in the psychological domain. Hypertension and dyslipidaemia emerged as consistent moderators of PCOV–anxiety relationships, while metabolic comorbidities (particularly diabetes) modulated the PCOV–sleep quality association in a subgroup-specific pattern that diverged from the main-effect null results for the Pittsburgh Sleep Quality Index.
+
+Within the **Quality of Life domain**, the PCOV Severity Score was again the primary driver of self-reported impairment across all six dimensions (caretaking, family life, social life, professional life, mental health, and personal activities), with effects predominantly positive and generally moderate in magnitude (β ranging from approximately 0.2 to 0.5 SD). Obesity consistently emerged as the most influential comorbidity moderator: the interaction between PCOV NoS and obesity for family life QoL was particularly well-supported (BF~10~ = 7.24), and obesity moderated severity associations for social life, professional life, mental health, and personal activities as well. A cross-cutting pattern of sex-differentiated associations with vaccination count (PCOV NoV) was identified across multiple QoL dimensions, most notably for caretaking and social life, in which higher NoV was associated with worse QoL specifically in women.
+
+Within the **Physical and Functional domain**, female sex was the dominant factor of all absolute spirometric indices (FVC, FEV1, PEF 25–75%, and PEF max), with Bayes Factors exceeding 379 for FEV1 and 16,000 for FVC, consistent with established sex differences in lung volumes. Beyond this structural baseline, fatigue scale scores showed credible negative associations with FVC, FEV1, and PEF, indicating that PCOV-associated fatigue burden extends to measurable reductions in ventilatory capacity in the Magallanes cohort. PCOV NoS showed a credible negative main effect on FVC, attenuated among women. Body composition outcomes echoed the opposing directionality between PCOV NoS and Severity Score seen in other domains: the Severity Score was negatively associated with BMI and fat mass, while PCOV NoS showed positive associations with both, consistent with a model in which high-symptom-count PCOV (without high functional severity) may accompany preserved or increased adiposity, whereas severe functional PCOV is associated with weight loss and reduced fat stores. Fatigue interacted with both PCOV Severity Score and PCOV NoV for BMI, amplifying these associations in the most fatigued participants.
+
+Within the **Laboratory and Cellular domain**, the most expansive section of the analysis, encompassing `r n_lab_resp` biomarkers across haematology, hepatic and protein profiles, renal function, metabolic biochemistry, lymphocyte immunophenotyping, and age-associated B cells, several headline findings of exceptional statistical strength were identified. The education-level interactions with hepatic enzyme associations (GPT and transaminases) produced the largest Bayes Factors in the entire dataset, exceeding BF~10~ > 46,000 for the GPT × PCOV NoV × education (linear) interaction, indicating that the relationship between PCOV burden and hepatic stress is profoundly and non-linearly shaped by sociodemographic context, likely mediated through education-correlated behavioural and metabolic pathways. For glycaemic regulation, the PCOV NoV × diabetes interaction for fasting glucose was the second largest finding (BF~10~ = 102.8), with diabetic participants showing substantially lower glucose levels at higher vaccination counts, a result consistent with differential healthcare engagement in better-managed patients with diabetes. For the immune compartment, PCOV Severity Score showed a strong negative main effect on circulating CD3+ T lymphocytes (BF~10~ = 1.05), consistent with T lymphopenia as a feature of PCOV immune dysregulation, while the interaction between PCOV NoS and obesity was robustly positive for both total CD3+ and CD4+ T cells, suggesting an amplified lymphocyte response at the intersection of obesity and high symptom burden. Triglyceride levels showed a particularly prominent interaction between PCOV Severity Score and obesity (BF~10~ = 12.18), adding to a pattern of compounded metabolic dysregulation in obese participants with severe PCOV.
+
+Taken together, these results paint a coherent but complex picture: Long COVID in Magallanes exerts a broad, multidomain impact that is not reducible to a single biomarker or clinical dimension, and whose magnitude and direction are fundamentally contingent on the metabolic, demographic, and socioeconomic context of the individual. The PCOV Severity Score, fatigue burden, obesity, and educational attainment stand out as the most influential axes of heterogeneity, and their interactions with PCOV metrics define the highest-priority targets for subgroup-stratified intervention and longitudinal follow-up in this population.
+
 # Statistical Methods {#sec-methods}
 
 ## Bayesian Multivariate Regression Models
@@ -159,14 +182,6 @@ Parameters with pd $\geq$ 0.80 are considered to show credible directional evide
 All analyses were conducted in R (version ≥ 4.3.0; @rcoreteam2024). Model code and derived datasets are provided as supplementary materials.
 
 # Results {#sec-results}
-
-```{r counts}
-#| include: false
-n_total   <- nrow(all_params)
-n_signif  <- nrow(signif_params)
-n_domains <- length(unique(all_params$area))
-n_outcomes <- length(unique(all_params$response))
-```
 
 Across the four health domains, a total of `r n_outcomes` distinct outcome variables were analysed through `r n_domains` multivariate Bayesian models, generating `r n_total` posterior summaries.  Of these, `r n_signif` parameters (approximately `r round(n_signif/n_total*100)`%) met the credibility threshold of pd $\geq$ 0.80, indicating directional evidence in the Magallanes PCOV cohort.
 
