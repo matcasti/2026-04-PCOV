@@ -192,15 +192,15 @@ pcov_severity_list <- raw_data[, {
   )
 
   pimax_num <- fcase(
-    kinesiologia_range_pimax_1 %in% 0:13, -1,
-    kinesiologia_range_pimax_2 %in% 0:13,  0,
-    kinesiologia_range_pimax_3 %in% 0:13,  1
+    kinesiologia_range_pimax_1 == 1, -1,
+    kinesiologia_range_pimax_2 == 1,  0,
+    kinesiologia_range_pimax_3 == 1,  1
   )
 
   fas_num <- fcase(
-    kinesiologia_range_fas_3 %in% 0:13, -1,
-    kinesiologia_range_fas_2 %in% 0:13,  0,
-    kinesiologia_range_fas_1 %in% 0:13,  1
+    kinesiologia_range_fas_3 == 1, -1,
+    kinesiologia_range_fas_2 == 1,  0,
+    kinesiologia_range_fas_1 == 1,  1
   )
 
   severity_score <- sympt_num + qol_num + bai_num + bdi_num + pimax_num + fas_num
